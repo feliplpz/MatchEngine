@@ -13,6 +13,7 @@ protected:
 static int nextId; 
 static unordered_map<string, OrderPassive*> activeOrders; 
 string type;
+int numId;
 string id;
 string subtype;
 string side;
@@ -27,6 +28,7 @@ public:
     double getPrice();
     void setPrice(double price);
     double getQuantity();
+    int getNumId();
     string getType();
     string getSubtype();
     string getId();

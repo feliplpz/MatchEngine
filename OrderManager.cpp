@@ -7,39 +7,29 @@ priority_queue<OrderPassive*, vector<OrderPassive*>, SellComparator> OrderManage
 vector<OrderPassive*> OrderManager::pegBuyOrders;
 vector<OrderPassive*> OrderManager::pegSellOrders;
 
-vector<OrderPassive *>& OrderManager::getPegBuyOrders() {
-    return pegBuyOrders;
-}
+vector<OrderPassive *>& OrderManager::getPegBuyOrders() { return pegBuyOrders; }
 
-vector<OrderPassive *>& OrderManager::getPegSellOrders() {
-    return pegSellOrders;
-}
+vector<OrderPassive *>& OrderManager::getPegSellOrders() { return pegSellOrders; }
 
-priority_queue<OrderPassive *, vector<OrderPassive *>, BuyComparator>& OrderManager::getBuyLimitOrder() {
-    return buyLimitOrder;
-}
+priority_queue<OrderPassive *, vector<OrderPassive *>, BuyComparator>& OrderManager::getBuyLimitOrder() { return buyLimitOrder; }
 
-priority_queue<OrderPassive *, vector<OrderPassive *>, SellComparator>& OrderManager::getSellLimitOrder()
-{
-    return sellLimitOrder;
-}
+priority_queue<OrderPassive *, vector<OrderPassive *>, SellComparator>& OrderManager::getSellLimitOrder() { return sellLimitOrder; }
 
 void OrderManager::addlimitOrder(OrderPassive *order) {
  if(order->getQuantity() > 0 ){
     if (order->getSide() == "buy") {
-        buyLimitOrder.emplace(order);
+        buyLimitOrder.push(order);
         updatePegBid();
     } else {
-         sellLimitOrder.emplace(order);
+         sellLimitOrder.push(order);
          updatePegAsk();
         }
     }
 
  }
 
-void OrderManager::addpegOrder(OrderPassive *order) {
-    
-    if(order->getSubtype() == "bid") {
+void OrderManager::addpegOrder(OrderPassive *order) { 
+ if(order->getSubtype() == "bid") {
     if(buyLimitOrder.empty()) { throw new logic_error("There is no limit in the buy book to precify a peg"); }
         pegBuyOrders.push_back(order); 
         order->setPrice(getBestBid());
@@ -51,13 +41,9 @@ void OrderManager::addpegOrder(OrderPassive *order) {
     
 }
 
-double OrderManager::getBestBid()  {
-    return buyLimitOrder.empty() ? 0.0 : buyLimitOrder.top()->getPrice();
-}
+double OrderManager::getBestBid()  { return buyLimitOrder.empty() ? 0.0 : buyLimitOrder.top()->getPrice(); }
 
-double OrderManager::getBestAsk() {
-    return sellLimitOrder.empty() ? 0.0 : sellLimitOrder.top()->getPrice();;
-}
+double OrderManager::getBestAsk() { return sellLimitOrder.empty() ? 0.0 : sellLimitOrder.top()->getPrice(); }
 
 void OrderManager::removeOrderFromBook(OrderPassive* order) {
     if (order->getType() == "limit") {
@@ -90,12 +76,12 @@ void OrderManager::removeOrderFromBook(OrderPassive* order) {
 void OrderManager::cancelOrder(string id) {
     OrderPassive* order = OrderPassive::cancelOrder(id);
     if (!order) return;
-    removeOrderFromBook(order);
-    if(order->getSide() == "buy"){
-        updatePegBid();
-    } else {
-        updatePegAsk();
-    }
+        removeOrderFromBook(order);
+        if(order->getSide() == "buy"){
+            updatePegBid();
+         } else {
+             updatePegAsk();
+         }
 
     delete order;
 }
@@ -103,12 +89,12 @@ void OrderManager::cancelOrder(string id) {
 void OrderManager::executeOrder(string id) { 
     OrderPassive* order = OrderPassive::executeOrder(id);
     if (!order) return;
-    removeOrderFromBook(order);
-    if(order->getSide() == "buy"){
-        updatePegBid();
-    } else {
-        updatePegAsk();
-    }
+        removeOrderFromBook(order);
+        if(order->getSide() == "buy"){
+             updatePegBid();
+        } else {
+             updatePegAsk();
+        }
 
     delete order;
 }
@@ -116,30 +102,34 @@ void OrderManager::executeOrder(string id) {
 void OrderManager::changeOrder(string id, double price, double quantity) {
     OrderPassive* order = OrderPassive::findOrder(id);
     if (!order) return;
-    removeOrderFromBook(order);
-    order->setPrice(price);
-    order->setQuantity(quantity);
-    if (order->getType() == "limit") {
-        addlimitOrder(order);
-    }else {
-        addpegOrder(order);
-    }
+        removeOrderFromBook(order);
+        order->setPrice(price);
+         order->setQuantity(quantity);
+         if (order->getType() == "limit") {
+            addlimitOrder(order);
+        }else {
+            addpegOrder(order);
+        }
 }
 
 void OrderManager::updatePegBid() {
-    if(!(buyLimitOrder.empty())) {
-        double bestBid = getBestBid();
-        for (auto& pegOrder : pegBuyOrders) {
-            pegOrder->setPrice(bestBid);
+    if(!(buyLimitOrder.empty()) && !pegBuyOrders.empty()) {
+        if(pegBuyOrders[1]->getPrice() != getBestBid()){
+            double bestBid = getBestBid();
+            for (auto& pegOrder : pegBuyOrders) {
+                pegOrder->setPrice(bestBid);
+            }
         }
     }
 }
 
 void OrderManager::updatePegAsk() {
-    if(!(sellLimitOrder.empty())) {
-        double bestAsk = getBestAsk();
-        for (auto& pegOrder : pegSellOrders) {
-            pegOrder->setPrice(bestAsk);
+    if(!(sellLimitOrder.empty()) && !pegSellOrders.empty()) {
+        if(pegSellOrders[1]->getPrice() != getBestAsk()) {
+            double bestAsk = getBestAsk();
+            for (auto& pegOrder : pegSellOrders) {
+                pegOrder->setPrice(bestAsk);
+            }
         }
     }
 }

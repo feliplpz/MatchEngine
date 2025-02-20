@@ -16,7 +16,7 @@ struct BuyComparator
 {
     bool operator()(OrderPassive* a, OrderPassive* b) {
         if (a->getPrice() == b->getPrice()) {
-            return a->getId() > b->getId();
+            return a->getNumId() > b->getNumId();
         }
         return a->getPrice() < b->getPrice();
     }
@@ -25,7 +25,7 @@ struct SellComparator
 {
     bool operator()(OrderPassive* a, OrderPassive* b) {
         if (a->getPrice() == b->getPrice()) {
-            return a->getId() > b->getId();
+            return a->getNumId() > b->getNumId();
         }
         return a->getPrice() > b->getPrice(); 
     }

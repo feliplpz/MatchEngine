@@ -56,6 +56,10 @@ double OrderPassive::getQuantity() {
     return quantity;
 }
 
+int OrderPassive::getNumId() {
+    return numId;
+}
+
 string OrderPassive::getType() {
     return type;
 }
@@ -77,6 +81,7 @@ OrderPassive::OrderPassive(const string &side, double price, double quantity) : 
     if(quantity <= 0) { throw new invalid_argument("Quantity must be a real positive value"); }
     if(price <= 0) { throw new invalid_argument("Quantity must be a real positive value"); }
     if(side != "buy" && side != "sell") { throw new invalid_argument("Side must be buy or sell"); }
+    numId = nextId;
     id = "identificador_" + to_string(nextId);
         activeOrders[id] = this;
     cout << "Order created: " << side << " " << quantity << " @ " << price << " " << id << endl;
@@ -87,6 +92,7 @@ OrderPassive::OrderPassive(const string &side, const string &subtype, double qua
     if(quantity <= 0) { throw new invalid_argument("Quantity must be a real positive value"); }
     if(side != "buy" && side != "sell") { throw new invalid_argument("Side must be buy or sell"); }
     if(subtype != "bid" && subtype != "ask") { throw new invalid_argument("Subtype must be bid or ask"); } 
+    numId = nextId;
     id = "identificador_" + to_string(nextId);
         activeOrders[id] = this; 
     cout << "Order created: Peg " << side << " " << subtype << " " << quantity  << " " << id << endl;

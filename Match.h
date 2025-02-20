@@ -8,6 +8,7 @@
 #include "OrderPassive.h"
 #include "MarketOrder.h"
 
+using namespace std;
 
 class Match
 {

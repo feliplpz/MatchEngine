@@ -51,12 +51,22 @@ void parseInput(string& input, Match& engine) {
         ss >> side >> price >> quantity;
         OrderPassive* order = new OrderPassive(side, price, quantity);
         engine.tradePassiveOrder(order);
+        if(side == "buy" && !engine.getOrderManager().getPegBuyOrders().empty()) {
+            engine.getOrderManager().updatePegBid();
+        } else if (side == "sell" && !engine.getOrderManager().getPegSellOrders().empty()) {
+            engine.getOrderManager().updatePegAsk();
+        }
         engine.getOrderManager().addlimitOrder(order);
     } 
     else if (command == "market") {
         ss >> side >> quantity;
         MarketOrder* order = new MarketOrder(side, quantity);
         engine.tradeActiveOrder(order);
+        if(side == "buy") {
+            engine.getOrderManager().updatePegAsk();
+        } else {
+            engine.getOrderManager().updatePegBid();
+        }
         delete order;
     } 
     else if (command == "peg") {
@@ -91,7 +101,7 @@ int main() {
     string input;
 
     cout << "Digite os comandos que dejesa\n";
-    inicioDaEngine(); // Exibe os comandos corretamente
+    inicioDaEngine(); 
 
     while (true) {
         try {
@@ -102,7 +112,7 @@ int main() {
                 break;
             }
 
-            parseInput(input, matchEngine);  // Processa o comando
+            parseInput(input, matchEngine);  
         } catch (exception *e) {
             cerr << "Erro: " << e->what() << endl;
             delete e;
