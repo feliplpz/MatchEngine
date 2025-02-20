@@ -73,7 +73,7 @@ void Match::tradeActiveOrder(MarketOrder *market) {
             if (tradeQty == topOrder->getQuantity()) {  
                 mergedQueue.pop();
                 orderManager.executeOrder(topOrder->getId());
-                orderManager.updatePeg(); 
+                orderManager.updatePegBid(); 
 
 
                 market->setQuantity(market->getQuantity() - tradeQty);  // Atualizar a quantidade de market
@@ -83,8 +83,6 @@ void Match::tradeActiveOrder(MarketOrder *market) {
                 // Subtrair a quantidade da ordem passiva
                 topOrder->setQuantity(topOrder->getQuantity() - tradeQty);
                 market->setQuantity(0);  // A ordem market foi completamente consumida
-
-                orderManager.updatePeg();  // Atualizar peg
             } 
         }
     }
@@ -110,7 +108,7 @@ void Match::tradeActiveOrder(MarketOrder *market) {
             if (tradeQty == topOrder->getQuantity()) {  
                 mergedQueue.pop();
                 orderManager.executeOrder(topOrder->getId());
-                orderManager.updatePeg(); 
+                orderManager.updatePegAsk(); 
 
                 market->setQuantity(market->getQuantity() - tradeQty);  
             }
@@ -119,7 +117,6 @@ void Match::tradeActiveOrder(MarketOrder *market) {
              topOrder->setQuantity(topOrder->getQuantity() - tradeQty);
              market->setQuantity(0);  // A ordem market foi completamente consumida
 
-            orderManager.updatePeg(); 
         } 
         }
 
@@ -150,13 +147,12 @@ void Match::tradePassiveOrder(OrderPassive *orderPassive) {
                 
                 if (tradeQty == topOrder->getQuantity()) {  
                     orderManager.executeOrder(topOrder->getId());
-                    orderManager.updatePeg(); 
+                    orderManager.updatePegBid(); 
                     orderPassive->setQuantity(orderPassive->getQuantity() - tradeQty);  
                 }
                 if (tradeQty == orderPassive->getQuantity()) {
                     topOrder->setQuantity(topOrder->getQuantity() - tradeQty);
                     orderPassive->setQuantity(0); 
-                    orderManager.updatePeg(); 
                     orderManager.executeOrder(orderPassive->getId());
                 
                 } 
@@ -183,7 +179,7 @@ void Match::tradePassiveOrder(OrderPassive *orderPassive) {
                 cout << "Trade, price: " << topOrder->getPrice() << ", qty: " << tradeQty << endl;
                 
                 if (tradeQty == topOrder->getQuantity()) {  
-                    orderManager.updatePeg(); 
+                    orderManager.updatePegAsk(); 
                     orderPassive->setQuantity(orderPassive->getQuantity() - tradeQty);  
                     orderManager.executeOrder(topOrder->getId());
                     

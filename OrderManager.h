@@ -51,7 +51,8 @@ public:
     void cancelOrder(string id);
     void executeOrder(string id);
     void changeOrder(string id, double price, double quantity);
-    void updatePeg();
+    void updatePegBid();
+    void updatePegAsk();
     double getBestBid();
     double getBestAsk();
     OrderManager();
