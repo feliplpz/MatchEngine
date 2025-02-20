@@ -123,9 +123,6 @@ void Match::tradeActiveOrder(MarketOrder *market) {
     }
  }
 
-
-
-
 void Match::tradePassiveOrder(OrderPassive *orderPassive) {
  if(orderPassive->getType() == "peg"){ throw new logic_error("Só limits vão fechar negócio como ativas ao serem criadas"); }
     if (orderPassive->getSide() == "sell") {
@@ -196,7 +193,6 @@ void Match::tradePassiveOrder(OrderPassive *orderPassive) {
     }   
 
 }
-
 
 Match::Match(string name): name(name){
 }

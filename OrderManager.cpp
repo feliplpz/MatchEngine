@@ -37,7 +37,6 @@ void OrderManager::addlimitOrder(OrderPassive *order) {
 
  }
 
-
 void OrderManager::addpegOrder(OrderPassive *order) {
     
     if(order->getSubtype() == "bid") {
@@ -51,7 +50,6 @@ void OrderManager::addpegOrder(OrderPassive *order) {
     }
     
 }
-
 
 double OrderManager::getBestBid()  {
     return buyLimitOrder.empty() ? 0.0 : buyLimitOrder.top()->getPrice();

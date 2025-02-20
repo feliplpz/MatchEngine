@@ -83,7 +83,6 @@ OrderPassive::OrderPassive(const string &side, double price, double quantity) : 
     nextId++; 
 }
 
-
 OrderPassive::OrderPassive(const string &side, const string &subtype, double quantity) : side(side), subtype(subtype), quantity(quantity), type("peg"){
     if(quantity <= 0) { throw new invalid_argument("Quantity must be a real positive value"); }
     if(side != "buy" && side != "sell") { throw new invalid_argument("Side must be buy or sell"); }
