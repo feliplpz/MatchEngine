@@ -136,7 +136,7 @@ void Match::tradePassiveOrder(OrderPassive *orderPassive) {
                     orderManager.executeOrder(topOrder->getId());
                     orderPassive->setQuantity(orderPassive->getQuantity() - tradeQty);  
                 }
-                if (tradeQty == orderPassive->getQuantity()) {
+                else if(tradeQty == orderPassive->getQuantity()) {
                     topOrder->setQuantity(topOrder->getQuantity() - tradeQty);
                     orderPassive->setQuantity(0); 
                     orderManager.executeOrder(orderPassive->getId());
