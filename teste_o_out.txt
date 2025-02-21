@@ -1,0 +1,99 @@
+Digite os comandos que deseja
+
+### COMANDOS DISPONIVEIS ###
+
+1. Criar ordem limitada (Limit Order):
+   >>> limit buy <preco> <quantidade>
+   >>> limit sell <preco> <quantidade>
+
+2. Criar ordem de mercado (Market Order):
+   >>> market buy <quantidade>
+   >>> market sell <quantidade>
+
+3. Criar ordem peg (Peg Order):
+   >>> peg bid buy <quantidade>
+   >>> peg ask sell <quantidade>
+
+4. Cancelar uma ordem:
+   >>> cancel order <ID>
+
+5. Alterar uma ordem existente:
+   >>> change order <ID> <novo_preco> <nova_quantidade>
+
+6. Controle de impressao do livro de ordens:
+   >>> print book  (ativa a impressao automatica do livro de ordens)
+   >>> print stop  (desativa a impressao automatica do livro de ordens)
+
+7. Sair da engine:
+   >>> exit
+###################################
+>>> 
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+-----------------------------
+Ordens de Compra (Bid Orders):
+========================
+
+>>> Impressao automatica ativada.
+>>> Order created: buy 100 @ 10 identificador_1
+
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+-----------------------------
+Ordens de Compra (Bid Orders):
+100 @ 10
+========================
+
+>>> Order created: sell 100 @ 20 identificador_2
+
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+100 @ 20
+-----------------------------
+Ordens de Compra (Bid Orders):
+100 @ 10
+========================
+
+>>> Order created: sell 200 @ 20 identificador_3
+
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+100 @ 20
+200 @ 20
+-----------------------------
+Ordens de Compra (Bid Orders):
+100 @ 10
+========================
+
+>>> Order created: market buy 150
+Trade, price: 20, qty: 100
+Trade, price: 20, qty: 50
+
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+150 @ 20
+-----------------------------
+Ordens de Compra (Bid Orders):
+100 @ 10
+========================
+
+>>> Order created: market buy 200
+Trade, price: 20, qty: 150
+
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+-----------------------------
+Ordens de Compra (Bid Orders):
+100 @ 10
+========================
+
+>>> Order created: market sell 200
+Trade, price: 10, qty: 100
+
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+-----------------------------
+Ordens de Compra (Bid Orders):
+========================
+
+>>> 

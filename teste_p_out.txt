@@ -1,0 +1,117 @@
+Digite os comandos que deseja
+
+### COMANDOS DISPONIVEIS ###
+
+1. Criar ordem limitada (Limit Order):
+   >>> limit buy <preco> <quantidade>
+   >>> limit sell <preco> <quantidade>
+
+2. Criar ordem de mercado (Market Order):
+   >>> market buy <quantidade>
+   >>> market sell <quantidade>
+
+3. Criar ordem peg (Peg Order):
+   >>> peg bid buy <quantidade>
+   >>> peg ask sell <quantidade>
+
+4. Cancelar uma ordem:
+   >>> cancel order <ID>
+
+5. Alterar uma ordem existente:
+   >>> change order <ID> <novo_preco> <nova_quantidade>
+
+6. Controle de impressao do livro de ordens:
+   >>> print book  (ativa a impressao automatica do livro de ordens)
+   >>> print stop  (desativa a impressao automatica do livro de ordens)
+
+7. Sair da engine:
+   >>> exit
+###################################
+>>> 
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+-----------------------------
+Ordens de Compra (Bid Orders):
+========================
+
+>>> Impressao automatica ativada.
+>>> Order created: buy 200 @ 10 identificador_1
+
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+-----------------------------
+Ordens de Compra (Bid Orders):
+200 @ 10
+========================
+
+>>> Order created: buy 100 @ 9.99 identificador_2
+
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+-----------------------------
+Ordens de Compra (Bid Orders):
+200 @ 10
+100 @ 9.99
+========================
+
+>>> Order created: sell 100 @ 10.5 identificador_3
+
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+100 @ 10.5
+-----------------------------
+Ordens de Compra (Bid Orders):
+200 @ 10
+100 @ 9.99
+========================
+
+>>> 
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+100 @ 10.5
+-----------------------------
+Ordens de Compra (Bid Orders):
+200 @ 10
+100 @ 9.99
+========================
+
+>>> Impressao automatica ativada.
+>>> Order created: Peg buy bid 150 identificador_4
+
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+100 @ 10.5
+-----------------------------
+Ordens de Compra (Bid Orders):
+200 @ 10
+150 @ 10 (PEG)
+100 @ 9.99
+========================
+
+>>> >>> Impressao automatica desativada.
+>>> 
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+100 @ 10.5
+-----------------------------
+Ordens de Compra (Bid Orders):
+200 @ 10
+150 @ 10 (PEG)
+100 @ 9.99
+========================
+
+>>> Impressao automatica ativada.
+>>> Order created: buy 300 @ 10.1 identificador_5
+
+=== LIVRO DE ORDENS - PETR4 === 
+Ordens de Venda (Ask Orders):
+100 @ 10.5
+-----------------------------
+Ordens de Compra (Bid Orders):
+150 @ 10.1 (PEG)
+300 @ 10.1
+200 @ 10
+100 @ 9.99
+========================
+
+>>> 

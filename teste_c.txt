@@ -1,0 +1,4 @@
+print book
+limit buy 10 100
+cancel order identificador_1
+exit

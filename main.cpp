@@ -100,7 +100,7 @@ int main() {
     Match matchEngine("PETR4");
     string input;
 
-    cout << "Digite os comandos que dejesa\n";
+    cout << "Digite os comandos que deseja\n";
     inicioDaEngine(); 
 
     while (true) {
