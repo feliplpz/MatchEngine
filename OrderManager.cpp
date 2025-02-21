@@ -133,7 +133,7 @@ void OrderManager::updatePegBid() {
 
 void OrderManager::updatePegAsk() {
     if(!(sellLimitOrder.empty()) && !pegSellOrders.empty()) {
-        if(pegSellOrder.front()->getPrice() != getBestAsk()) {
+        if(pegSellOrders.front()->getPrice() != getBestAsk()) {
             double bestAsk = getBestAsk();
             for (auto& pegOrder : pegSellOrders) {
                 pegOrder->setPrice(bestAsk);
