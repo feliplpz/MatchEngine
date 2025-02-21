@@ -52,6 +52,7 @@ void Match::printBook() {
 void Match::tradeActiveOrder(MarketOrder *market) {
 
     if (market->getSide() == "sell") {
+       
         auto& pegVector = orderManager.getPegBuyOrders();
         auto& buyQueue = orderManager.getBuyLimitOrder(); 
 
@@ -74,7 +75,7 @@ void Match::tradeActiveOrder(MarketOrder *market) {
             }
             else if (tradeQty == market->getQuantity()) {
                 topOrder->setQuantity(topOrder->getQuantity() - tradeQty);
-                market->setQuantity(0);  
+               break;  
             } 
         }
     }
@@ -89,7 +90,8 @@ void Match::tradeActiveOrder(MarketOrder *market) {
         }
 
         while (market->getQuantity() > 0 && !mergedQueue.empty()) { 
-            OrderPassive* topOrder = mergedQueue.top();
+           
+             OrderPassive* topOrder = mergedQueue.top();
             
         
             double tradeQty = min(market->getQuantity(), topOrder->getQuantity());
@@ -105,8 +107,7 @@ void Match::tradeActiveOrder(MarketOrder *market) {
         
             else if (tradeQty == market->getQuantity()) {
              topOrder->setQuantity(topOrder->getQuantity() - tradeQty);
-             market->setQuantity(0); 
-
+             break; 
             } 
         }
 

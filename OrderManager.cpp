@@ -30,15 +30,23 @@ void OrderManager::addlimitOrder(OrderPassive *order) {
 
 void OrderManager::addpegOrder(OrderPassive *order) { 
  if(order->getSubtype() == "bid") {
-    if(buyLimitOrder.empty()) { throw new logic_error("There is no limit in the buy book to precify a peg"); }
+    if(!buyLimitOrder.empty()) {
         pegBuyOrders.push_back(order); 
         order->setPrice(getBestBid());
     } else {
-    if(sellLimitOrder.empty()) { throw new logic_error("There is no limit in the sell book to precify a peg"); }
+        cancelOrder(order->getId());
+        throw new logic_error("There is no limit in the buy book to precify a peg");
+    }
+ } else {
+    if(!sellLimitOrder.empty()) { 
         pegSellOrders.push_back(order);
         order->setPrice(getBestAsk());
+    } else{
+        cancelOrder(order->getId());
+        throw new logic_error("There is no limit in the sell book to precify a peg");
     }
-    
+     
+    }
 }
 
 double OrderManager::getBestBid()  { return buyLimitOrder.empty() ? 0.0 : buyLimitOrder.top()->getPrice(); }
@@ -90,9 +98,9 @@ void OrderManager::executeOrder(string id) {
     OrderPassive* order = OrderPassive::executeOrder(id);
     if (!order) return;
         removeOrderFromBook(order);
-        if(order->getSide() == "buy"){
+        if(order->getSide() == "buy" && order->getPrice() != getBestBid()){
              updatePegBid();
-        } else {
+        } else if( order->getPrice() != getBestAsk()) {
              updatePegAsk();
         }
 
@@ -113,7 +121,7 @@ void OrderManager::changeOrder(string id, double price, double quantity) {
 }
 
 void OrderManager::updatePegBid() {
-    if(!(buyLimitOrder.empty()) && !pegBuyOrders.empty()) {
+    if(!buyLimitOrder.empty() && !pegBuyOrders.empty()) {
         if(pegBuyOrders[1]->getPrice() != getBestBid()){
             double bestBid = getBestBid();
             for (auto& pegOrder : pegBuyOrders) {

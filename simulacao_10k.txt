@@ -1,0 +1,10002 @@
+print book
+limit sell 83 214
+limit buy 99 284
+market buy 289
+limit buy 98 392
+market buy 116
+limit sell 30 492
+limit sell 89 345
+market sell 240
+limit buy 42 452
+market buy 161
+limit sell 30 200
+limit sell 13 206
+market sell 83
+market sell 44
+limit buy 82 44
+market buy 339
+market sell 387
+limit sell 6 325
+market buy 497
+limit buy 53 39
+limit sell 32 303
+limit sell 47 47
+market sell 368
+market sell 367
+market sell 76
+limit sell 55 373
+limit buy 67 453
+limit buy 30 209
+market sell 22
+market buy 277
+market sell 283
+market buy 258
+market buy 228
+market buy 445
+limit buy 60 174
+limit sell 34 156
+market sell 41
+limit buy 48 153
+market sell 148
+limit sell 53 123
+limit sell 36 236
+market buy 435
+limit buy 86 271
+limit buy 99 358
+market buy 421
+market buy 414
+limit buy 56 439
+limit sell 15 190
+market buy 195
+limit buy 18 34
+limit buy 67 87
+market buy 118
+market buy 130
+market sell 167
+limit buy 11 476
+market sell 294
+market buy 160
+limit sell 45 139
+limit buy 47 208
+market sell 189
+limit buy 9 151
+market sell 423
+market buy 170
+limit sell 29 450
+limit buy 7 256
+limit buy 61 190
+limit sell 51 163
+market buy 357
+limit buy 24 136
+limit buy 79 104
+market sell 261
+market buy 96
+market buy 23
+market sell 78
+market buy 444
+limit buy 16 275
+market buy 331
+limit buy 58 317
+limit buy 78 187
+market sell 327
+limit buy 18 167
+market sell 70
+market sell 143
+limit buy 13 75
+market sell 238
+limit sell 59 229
+market buy 462
+limit buy 43 111
+market sell 15
+limit buy 14 361
+limit buy 49 315
+limit sell 49 42
+limit sell 89 320
+limit buy 72 379
+market sell 37
+limit buy 65 209
+market sell 353
+limit buy 25 188
+market buy 104
+limit sell 80 48
+limit buy 54 118
+limit buy 33 362
+limit buy 90 226
+market sell 161
+limit sell 98 122
+market buy 423
+limit sell 72 369
+limit sell 36 325
+market sell 498
+limit sell 81 66
+limit buy 23 442
+market sell 55
+limit buy 70 81
+market sell 234
+market buy 171
+limit sell 33 118
+market buy 467
+market buy 374
+limit buy 79 253
+limit buy 21 87
+limit buy 40 240
+market buy 267
+limit buy 53 38
+limit buy 87 379
+market buy 271
+market sell 353
+market buy 466
+limit buy 26 233
+market buy 367
+market buy 380
+limit sell 40 90
+limit buy 76 422
+limit sell 79 446
+limit sell 13 267
+market buy 206
+limit buy 88 295
+market buy 63
+market buy 129
+market buy 188
+market buy 318
+market buy 328
+limit sell 54 182
+limit buy 58 408
+limit buy 20 105
+limit buy 53 23
+limit sell 38 401
+limit sell 69 147
+limit buy 71 421
+market buy 463
+market sell 320
+limit buy 71 500
+market buy 329
+market buy 65
+limit sell 64 17
+limit sell 78 361
+limit sell 27 180
+market sell 79
+market buy 115
+limit sell 65 344
+limit buy 34 368
+market sell 63
+market buy 423
+market buy 153
+limit sell 29 454
+market buy 411
+market buy 237
+limit buy 85 75
+market sell 232
+market sell 396
+market buy 207
+limit sell 71 124
+limit sell 42 471
+limit sell 64 246
+limit buy 11 465
+limit sell 89 19
+market buy 414
+market sell 450
+limit sell 80 364
+market sell 467
+limit sell 39 383
+market buy 382
+limit sell 30 392
+market sell 61
+market sell 56
+market buy 30
+limit buy 91 240
+limit sell 43 491
+market sell 320
+limit sell 87 240
+limit sell 30 104
+market sell 334
+limit buy 74 41
+market sell 365
+limit buy 6 346
+limit sell 89 41
+market sell 370
+market buy 434
+market buy 392
+market buy 269
+limit buy 77 435
+market buy 437
+limit buy 57 322
+limit buy 34 427
+limit sell 43 331
+market sell 130
+market buy 87
+limit buy 51 67
+limit sell 41 451
+limit buy 31 476
+limit sell 83 431
+limit sell 10 460
+market sell 49
+limit sell 9 427
+market buy 97
+market sell 347
+market sell 147
+market buy 95
+limit sell 27 274
+market sell 83
+limit buy 93 400
+limit sell 75 419
+limit buy 100 269
+market sell 100
+market sell 55
+limit sell 12 397
+limit buy 16 418
+market buy 193
+market buy 96
+limit buy 89 353
+market buy 46
+limit sell 49 262
+market sell 397
+market buy 75
+limit sell 56 393
+limit sell 28 411
+limit sell 10 188
+market buy 269
+market buy 73
+limit sell 63 336
+limit buy 28 411
+market sell 360
+limit buy 28 195
+limit buy 17 165
+market sell 159
+limit sell 41 439
+market buy 83
+market buy 307
+limit buy 87 153
+limit sell 89 217
+limit buy 43 40
+limit sell 15 36
+market buy 178
+market buy 336
+limit buy 80 308
+market buy 251
+limit buy 52 356
+limit buy 96 459
+limit buy 64 167
+limit buy 91 192
+limit buy 9 88
+market sell 454
+limit sell 35 141
+market buy 141
+market buy 161
+limit sell 38 65
+limit sell 19 421
+market buy 268
+market sell 264
+market sell 56
+limit sell 75 274
+limit sell 82 133
+limit sell 66 491
+market buy 35
+market sell 36
+market sell 474
+limit sell 23 265
+limit buy 73 368
+limit buy 83 97
+limit buy 97 90
+market sell 279
+limit buy 53 201
+limit sell 6 369
+market buy 317
+market sell 489
+market sell 347
+market sell 44
+market buy 75
+limit sell 68 124
+market buy 367
+market buy 218
+market sell 266
+limit buy 27 66
+limit buy 70 77
+limit buy 29 468
+market sell 229
+market sell 492
+limit buy 88 244
+market sell 420
+market sell 404
+market sell 106
+market buy 104
+market buy 197
+market sell 465
+market sell 259
+limit buy 45 438
+market buy 49
+market sell 277
+limit buy 99 85
+limit sell 23 451
+limit buy 29 270
+market sell 138
+limit buy 87 418
+limit buy 26 356
+limit sell 98 422
+limit buy 81 401
+limit sell 88 439
+limit sell 76 315
+market sell 133
+limit buy 56 58
+limit buy 31 269
+limit buy 44 212
+limit buy 85 449
+limit buy 50 302
+limit sell 59 310
+limit sell 48 476
+market sell 267
+limit buy 48 304
+limit sell 84 313
+market buy 174
+limit buy 34 125
+market buy 347
+market sell 391
+limit sell 82 377
+limit sell 29 195
+market sell 382
+market sell 93
+limit buy 20 303
+market sell 116
+market buy 234
+limit buy 62 128
+market sell 43
+market buy 88
+limit buy 89 306
+market sell 74
+market buy 407
+market sell 127
+limit sell 84 488
+market sell 60
+limit buy 51 205
+limit sell 59 488
+market sell 242
+limit buy 20 117
+limit sell 7 392
+limit sell 86 325
+market sell 341
+limit buy 42 119
+limit buy 47 150
+market sell 340
+market buy 459
+limit buy 60 125
+market sell 377
+limit buy 53 496
+limit buy 87 40
+limit buy 56 77
+market buy 12
+market buy 443
+market buy 150
+limit sell 94 352
+market sell 231
+limit sell 20 447
+market buy 484
+market sell 396
+limit sell 50 99
+market sell 116
+limit buy 60 401
+market sell 209
+market buy 291
+market buy 338
+limit buy 38 215
+limit sell 5 59
+market buy 475
+limit sell 80 423
+limit sell 22 435
+limit sell 98 416
+market sell 132
+limit buy 37 229
+market buy 481
+market sell 74
+limit sell 29 351
+market sell 410
+market buy 181
+limit buy 12 377
+market sell 269
+limit buy 82 202
+limit sell 88 94
+limit buy 45 223
+market buy 367
+market buy 102
+limit buy 34 367
+limit sell 64 97
+limit buy 80 186
+limit sell 81 158
+market sell 41
+market sell 27
+limit sell 34 310
+limit sell 52 466
+market sell 142
+limit buy 21 443
+limit sell 81 387
+market buy 37
+market sell 84
+market buy 258
+limit buy 42 219
+market buy 486
+limit sell 27 27
+limit buy 67 283
+limit sell 68 74
+limit buy 61 349
+limit buy 18 236
+limit buy 44 121
+limit sell 37 301
+market buy 63
+limit buy 23 17
+market buy 251
+limit buy 46 417
+limit buy 39 360
+market buy 405
+limit buy 80 209
+limit buy 84 112
+limit sell 31 36
+limit sell 81 226
+market buy 435
+market sell 367
+market buy 367
+market buy 74
+limit buy 20 192
+limit sell 51 184
+limit buy 72 137
+limit buy 59 419
+market sell 377
+market sell 475
+market sell 337
+market buy 356
+market buy 499
+market buy 398
+limit buy 17 79
+limit sell 72 333
+limit buy 30 177
+limit buy 34 439
+market sell 402
+limit buy 15 172
+limit sell 49 185
+limit sell 71 95
+market sell 343
+market buy 31
+limit sell 82 286
+market sell 213
+limit buy 96 80
+limit sell 47 34
+limit sell 24 257
+market buy 125
+market buy 46
+limit buy 49 458
+market buy 52
+limit sell 21 399
+limit sell 9 376
+limit sell 12 473
+limit buy 51 22
+limit sell 55 324
+limit sell 45 52
+market buy 58
+market buy 477
+limit buy 6 289
+limit sell 43 417
+market buy 315
+limit sell 58 376
+limit sell 58 104
+market sell 78
+limit sell 80 242
+market sell 148
+limit sell 52 109
+limit buy 74 69
+market buy 245
+limit buy 39 142
+limit buy 83 443
+limit sell 23 335
+market buy 305
+limit buy 28 270
+market sell 51
+limit sell 17 345
+market buy 294
+limit sell 89 145
+limit buy 79 48
+market buy 23
+limit sell 85 109
+limit buy 18 95
+limit buy 79 334
+limit buy 74 433
+limit sell 17 351
+limit sell 44 463
+limit buy 93 441
+limit buy 30 43
+limit buy 84 206
+limit buy 35 422
+limit sell 92 415
+limit sell 51 392
+market sell 50
+limit sell 100 102
+limit buy 68 129
+market sell 47
+market buy 48
+market sell 346
+limit sell 86 425
+market buy 99
+market sell 57
+limit sell 29 175
+limit buy 45 86
+limit sell 29 313
+market buy 80
+market buy 199
+market buy 389
+market sell 333
+market sell 322
+market sell 23
+market sell 313
+limit sell 22 180
+limit buy 34 157
+limit buy 63 14
+market buy 256
+limit buy 99 406
+limit sell 10 314
+limit sell 13 492
+limit sell 60 14
+limit sell 26 394
+limit sell 74 237
+market sell 168
+market buy 387
+limit buy 10 385
+market buy 227
+market sell 253
+limit buy 7 359
+market buy 166
+market buy 225
+limit sell 91 396
+limit buy 58 465
+limit buy 47 77
+limit sell 86 442
+limit sell 32 92
+limit sell 38 170
+limit sell 23 155
+market buy 223
+limit sell 83 333
+limit sell 25 252
+market sell 489
+limit sell 66 75
+market sell 395
+limit buy 55 494
+limit buy 33 403
+market sell 121
+limit buy 5 484
+market buy 196
+market buy 238
+limit buy 88 346
+market sell 273
+limit sell 97 93
+limit buy 74 304
+limit sell 18 278
+market sell 291
+limit sell 55 196
+market buy 31
+limit buy 33 378
+limit sell 13 397
+limit buy 15 447
+market sell 155
+market buy 109
+market buy 242
+market buy 34
+limit sell 89 228
+market buy 287
+market buy 42
+market sell 340
+market sell 101
+limit sell 33 201
+limit buy 51 53
+market sell 104
+market buy 52
+market buy 173
+market sell 271
+market buy 435
+market sell 293
+limit sell 69 453
+market sell 298
+market buy 490
+limit sell 65 76
+market buy 323
+market sell 144
+limit sell 22 498
+limit sell 82 365
+limit sell 69 370
+market buy 413
+limit buy 36 188
+market sell 351
+market buy 64
+limit sell 93 233
+limit sell 99 403
+market buy 114
+market sell 173
+market buy 53
+market sell 177
+limit sell 90 433
+market buy 393
+market buy 55
+limit buy 76 496
+limit buy 20 246
+limit sell 81 300
+market sell 146
+limit sell 26 451
+limit buy 91 383
+limit sell 75 290
+market buy 349
+limit buy 89 229
+limit buy 39 304
+market sell 22
+limit sell 58 186
+market sell 258
+limit sell 20 98
+limit buy 77 390
+limit sell 58 160
+limit buy 39 421
+limit buy 39 466
+market buy 278
+limit sell 74 472
+market buy 490
+market sell 221
+market sell 437
+limit sell 40 125
+limit sell 57 81
+market sell 309
+limit buy 98 44
+limit buy 98 436
+limit sell 7 172
+market buy 443
+limit sell 85 484
+market sell 340
+market sell 125
+limit sell 35 438
+limit buy 78 442
+limit buy 24 403
+market buy 449
+limit buy 71 108
+market sell 226
+market sell 92
+limit buy 38 56
+market buy 182
+limit buy 13 490
+market sell 368
+limit buy 22 57
+limit sell 8 459
+market sell 29
+market buy 435
+limit buy 63 340
+market buy 297
+limit sell 8 84
+limit sell 70 142
+market sell 297
+limit sell 62 107
+limit sell 92 391
+market buy 443
+limit sell 23 142
+limit buy 77 171
+market sell 237
+limit buy 11 467
+limit sell 82 60
+limit sell 87 369
+market buy 117
+limit sell 65 16
+limit sell 72 456
+limit sell 98 330
+limit sell 9 274
+market buy 224
+limit sell 11 260
+market sell 461
+market sell 425
+market sell 87
+market sell 354
+limit buy 60 245
+market sell 114
+market buy 161
+market sell 456
+limit sell 60 246
+market buy 418
+market buy 337
+limit buy 99 498
+limit buy 40 102
+limit sell 25 156
+limit sell 95 34
+limit buy 62 475
+market buy 481
+limit buy 64 149
+market sell 284
+market sell 198
+market buy 465
+market buy 456
+limit sell 7 233
+limit buy 28 256
+limit buy 52 76
+market buy 184
+market sell 232
+market buy 140
+market sell 271
+market sell 10
+market sell 423
+market sell 404
+market sell 331
+market sell 237
+limit sell 70 406
+market buy 74
+limit buy 39 357
+market buy 203
+market sell 64
+market sell 397
+limit buy 83 54
+market sell 275
+market buy 254
+limit buy 85 376
+market buy 324
+limit buy 92 390
+market sell 151
+limit sell 51 455
+limit buy 42 203
+market sell 34
+limit sell 33 333
+limit sell 96 136
+market sell 296
+market buy 46
+limit buy 83 464
+limit sell 88 489
+limit buy 25 420
+market sell 368
+limit sell 60 481
+market sell 213
+market buy 287
+market sell 401
+market buy 183
+limit buy 35 134
+market sell 310
+market sell 121
+limit buy 19 73
+market sell 284
+limit buy 63 430
+limit sell 81 491
+market buy 409
+limit buy 57 482
+limit buy 17 165
+market sell 68
+limit buy 33 67
+limit sell 18 499
+market sell 11
+market sell 325
+limit sell 10 332
+market sell 129
+market sell 209
+limit buy 46 371
+market buy 415
+limit sell 48 217
+market sell 104
+market sell 76
+limit sell 57 297
+limit sell 21 181
+market buy 429
+limit sell 93 393
+market buy 483
+limit sell 96 467
+limit sell 18 214
+market buy 88
+market sell 438
+market sell 243
+market sell 14
+limit sell 14 392
+market buy 499
+market sell 366
+limit buy 11 47
+limit buy 53 41
+market sell 344
+market sell 436
+market sell 66
+limit buy 63 483
+limit sell 56 185
+market buy 118
+market buy 499
+limit buy 100 349
+market sell 480
+market buy 168
+market buy 470
+market sell 362
+market sell 228
+market sell 243
+limit sell 27 284
+limit buy 66 19
+market buy 485
+limit sell 25 97
+market sell 15
+market sell 162
+limit buy 37 369
+limit buy 26 348
+market buy 284
+market sell 78
+limit buy 86 254
+market buy 438
+limit buy 39 463
+market sell 129
+limit buy 17 178
+market buy 156
+market buy 359
+limit buy 25 64
+market buy 197
+market sell 284
+market buy 142
+limit sell 59 232
+limit buy 50 95
+market sell 254
+limit sell 16 492
+limit buy 56 476
+market buy 276
+market sell 157
+limit buy 22 424
+market buy 189
+limit sell 76 427
+limit sell 13 195
+limit sell 39 448
+limit buy 82 418
+limit buy 48 490
+market buy 174
+market buy 184
+market sell 47
+market sell 403
+market sell 299
+market buy 113
+limit buy 11 219
+limit sell 47 310
+market buy 229
+limit sell 34 76
+market buy 172
+market buy 299
+market sell 249
+market sell 344
+market sell 384
+market sell 346
+market buy 482
+limit buy 83 49
+market sell 111
+market sell 73
+limit sell 25 39
+limit buy 27 373
+market sell 254
+limit sell 20 31
+limit buy 16 248
+limit buy 76 35
+market buy 124
+limit buy 81 181
+market buy 259
+limit sell 57 194
+limit buy 87 47
+market buy 291
+market buy 298
+market buy 147
+market sell 233
+market sell 422
+limit buy 28 126
+market buy 140
+limit buy 81 415
+limit buy 11 48
+limit buy 44 390
+limit sell 22 106
+market buy 254
+limit sell 22 424
+market buy 14
+limit sell 62 89
+market buy 151
+market buy 417
+limit sell 22 343
+market sell 246
+market buy 230
+limit buy 26 480
+market sell 284
+market sell 211
+limit sell 7 283
+market buy 382
+market sell 188
+limit sell 39 148
+limit buy 19 236
+limit buy 100 228
+market sell 308
+limit sell 35 491
+limit sell 65 91
+limit sell 11 484
+market buy 108
+market sell 127
+market buy 55
+market buy 466
+market sell 464
+limit buy 24 489
+limit sell 97 416
+limit sell 51 53
+limit buy 60 202
+market sell 20
+market buy 410
+market sell 499
+market buy 41
+market buy 328
+market buy 351
+market buy 236
+limit buy 91 85
+market buy 370
+limit buy 49 137
+market buy 169
+market sell 374
+limit buy 15 158
+limit buy 37 220
+market buy 170
+market buy 85
+market buy 162
+market buy 144
+limit sell 16 405
+market buy 93
+market buy 457
+limit buy 12 48
+limit buy 39 308
+market buy 37
+market buy 477
+limit buy 48 487
+market sell 44
+limit sell 80 44
+market sell 386
+limit sell 31 29
+limit buy 37 424
+market buy 445
+limit sell 8 365
+market sell 336
+market buy 104
+limit sell 29 395
+market buy 297
+limit sell 42 199
+limit buy 88 157
+market sell 374
+market buy 21
+limit sell 91 261
+market buy 59
+limit buy 98 447
+market buy 202
+market buy 494
+market buy 356
+limit sell 21 245
+limit sell 73 274
+limit buy 12 360
+market sell 451
+limit buy 73 414
+market buy 32
+limit sell 48 466
+market buy 463
+market sell 423
+limit buy 45 398
+market sell 328
+market sell 392
+limit buy 45 107
+limit buy 76 163
+market sell 273
+limit sell 98 137
+market buy 347
+market sell 366
+limit buy 17 440
+limit buy 67 221
+market sell 76
+market buy 410
+market sell 267
+limit buy 64 13
+market sell 248
+limit buy 19 45
+limit sell 27 482
+market sell 405
+limit buy 100 59
+market buy 333
+market sell 370
+market sell 195
+market sell 43
+limit sell 8 198
+limit sell 93 299
+market sell 364
+limit buy 47 215
+limit buy 70 376
+limit sell 42 475
+market buy 197
+market buy 340
+limit buy 52 409
+market buy 157
+limit buy 5 127
+market sell 252
+limit buy 12 27
+market sell 462
+market sell 336
+market sell 411
+market sell 127
+market sell 437
+market sell 262
+market buy 399
+market buy 126
+limit buy 5 70
+limit sell 7 496
+limit buy 85 437
+market sell 351
+market sell 384
+limit sell 10 346
+limit sell 68 205
+limit buy 74 479
+limit buy 94 202
+market buy 96
+limit sell 66 53
+market sell 152
+limit buy 71 290
+market sell 415
+limit sell 90 218
+limit sell 52 196
+limit sell 48 139
+market buy 249
+limit buy 63 317
+market buy 225
+market buy 402
+limit buy 30 417
+market buy 490
+market buy 427
+market buy 432
+market sell 263
+market sell 99
+market buy 90
+market sell 406
+limit buy 35 351
+market buy 68
+market sell 15
+market buy 63
+limit buy 78 127
+limit buy 35 332
+market sell 488
+limit buy 27 211
+market buy 137
+market sell 362
+limit buy 97 402
+limit sell 21 150
+limit sell 33 48
+limit buy 56 430
+limit buy 21 227
+limit buy 79 309
+market buy 427
+limit buy 95 26
+market sell 86
+limit buy 70 107
+limit sell 42 119
+market buy 409
+market sell 68
+limit sell 91 341
+market sell 286
+market sell 241
+limit sell 78 189
+market sell 45
+market sell 177
+market buy 381
+market buy 85
+market sell 220
+limit sell 82 334
+market sell 255
+market sell 195
+market sell 158
+limit sell 24 401
+limit buy 15 179
+market sell 129
+limit buy 25 60
+market buy 92
+market sell 294
+market buy 428
+limit sell 7 233
+market sell 236
+limit buy 89 230
+limit buy 88 136
+limit buy 95 494
+market buy 140
+market buy 427
+market sell 37
+limit sell 70 422
+market sell 106
+limit buy 56 156
+limit sell 92 306
+market buy 69
+market sell 402
+limit buy 7 438
+limit buy 74 449
+market sell 410
+limit buy 53 45
+limit sell 63 412
+market sell 151
+limit sell 82 60
+market sell 435
+market buy 390
+market sell 444
+market sell 57
+market sell 463
+market sell 365
+market sell 498
+market sell 143
+limit buy 75 457
+market sell 457
+market sell 231
+market buy 428
+limit buy 48 234
+limit sell 63 379
+limit sell 73 172
+market sell 310
+limit sell 56 439
+limit buy 29 175
+limit buy 96 338
+market sell 358
+market buy 303
+limit sell 79 47
+limit buy 48 250
+market sell 177
+limit buy 86 39
+limit sell 78 187
+market sell 359
+limit sell 13 213
+limit sell 98 152
+market sell 178
+limit buy 59 27
+limit buy 74 443
+market buy 97
+market buy 380
+limit buy 98 312
+market buy 232
+limit buy 56 487
+market buy 51
+market buy 181
+market sell 23
+limit sell 86 283
+market sell 223
+market buy 106
+market sell 143
+limit sell 85 309
+market buy 440
+market sell 235
+limit sell 44 413
+limit sell 67 273
+market buy 376
+market sell 82
+limit sell 11 289
+market buy 260
+market buy 188
+limit buy 90 409
+market sell 224
+market buy 313
+market sell 235
+limit sell 37 374
+limit sell 42 243
+limit sell 57 393
+limit sell 64 320
+limit sell 65 181
+limit buy 100 356
+limit buy 44 82
+market sell 316
+market sell 245
+limit buy 12 443
+market buy 457
+market buy 252
+limit sell 43 14
+market buy 237
+market sell 449
+limit sell 26 201
+limit sell 44 465
+market buy 26
+limit sell 99 48
+market sell 65
+limit buy 98 34
+market sell 206
+market sell 54
+market sell 388
+limit buy 37 158
+limit sell 14 124
+limit buy 68 412
+market buy 11
+limit buy 18 82
+market sell 365
+limit sell 44 459
+market buy 395
+limit buy 63 278
+market buy 443
+limit sell 17 92
+market sell 133
+limit buy 56 382
+market buy 97
+limit buy 60 237
+market buy 262
+limit buy 49 378
+market buy 89
+market sell 432
+limit buy 100 376
+limit buy 10 297
+market buy 171
+market sell 40
+market sell 274
+limit buy 58 418
+market buy 105
+limit sell 66 127
+market buy 349
+limit buy 37 157
+market sell 121
+limit buy 61 194
+limit buy 97 232
+limit sell 22 412
+limit buy 50 262
+limit sell 72 147
+market sell 84
+limit sell 77 141
+limit buy 38 336
+market buy 475
+limit buy 43 12
+market buy 280
+market sell 485
+limit sell 58 316
+market buy 82
+limit sell 52 138
+market sell 32
+limit buy 9 135
+limit sell 74 319
+market buy 455
+limit buy 77 208
+limit sell 89 392
+limit buy 35 234
+market sell 165
+market sell 61
+market sell 199
+limit buy 92 476
+limit buy 86 300
+market buy 52
+market buy 96
+limit buy 92 480
+limit sell 82 252
+market buy 188
+market buy 128
+limit sell 81 94
+limit sell 59 307
+limit buy 41 254
+market buy 326
+limit buy 95 399
+limit sell 86 397
+market buy 102
+limit sell 35 137
+market buy 59
+limit buy 80 481
+market sell 111
+limit buy 91 232
+market sell 202
+limit buy 67 319
+market sell 183
+limit sell 63 135
+limit sell 91 446
+market sell 196
+market buy 174
+market buy 10
+limit buy 74 142
+market sell 102
+market buy 253
+market sell 80
+limit sell 44 420
+market buy 84
+market buy 488
+market buy 67
+limit buy 35 428
+market sell 488
+limit buy 80 329
+limit sell 51 115
+limit buy 10 411
+limit buy 12 258
+market sell 487
+market sell 449
+market sell 329
+market sell 21
+market sell 111
+market buy 439
+limit sell 29 215
+limit sell 87 148
+limit sell 100 277
+market sell 492
+market buy 498
+limit buy 93 499
+market buy 218
+market sell 321
+market buy 98
+limit sell 85 346
+market buy 78
+limit sell 86 418
+limit buy 88 303
+market buy 166
+market sell 87
+market sell 377
+limit buy 68 458
+limit buy 54 336
+market sell 22
+market buy 415
+market sell 150
+market sell 144
+limit buy 95 456
+market sell 480
+market buy 229
+market buy 481
+limit sell 51 45
+market buy 443
+limit sell 60 85
+limit sell 14 228
+market sell 378
+market buy 340
+limit sell 80 375
+limit sell 22 40
+market buy 37
+limit buy 6 242
+limit sell 91 81
+market buy 476
+limit sell 85 476
+limit buy 11 51
+limit buy 99 231
+market sell 130
+market sell 471
+limit buy 81 71
+market buy 260
+market sell 223
+limit sell 44 225
+limit sell 42 175
+market sell 441
+market sell 100
+limit buy 78 219
+market buy 268
+market buy 148
+market buy 423
+limit buy 66 93
+limit sell 70 329
+market sell 438
+market sell 336
+limit sell 6 346
+market sell 210
+market sell 391
+market sell 424
+market sell 252
+limit sell 63 271
+market sell 127
+limit sell 69 358
+market buy 410
+limit buy 11 500
+market buy 457
+market buy 458
+market buy 188
+market buy 56
+market buy 117
+market buy 140
+limit sell 95 307
+market sell 408
+limit buy 29 322
+market buy 134
+limit sell 55 347
+limit buy 85 266
+market sell 20
+market sell 264
+limit buy 43 401
+market buy 223
+limit sell 73 194
+market buy 160
+market buy 185
+limit buy 45 340
+market buy 273
+limit sell 45 431
+limit buy 34 188
+market sell 284
+market sell 53
+limit buy 33 379
+market buy 92
+market buy 216
+limit sell 9 256
+limit sell 56 449
+market sell 237
+limit buy 32 45
+market buy 469
+limit buy 19 412
+limit sell 49 344
+limit buy 53 223
+market sell 94
+limit sell 30 401
+limit buy 90 21
+limit sell 100 113
+market sell 308
+market buy 436
+limit sell 11 385
+market buy 499
+market buy 398
+market sell 301
+limit buy 9 10
+limit sell 65 204
+limit buy 85 406
+limit buy 7 15
+limit buy 57 114
+market buy 242
+market buy 457
+market sell 24
+market buy 374
+market buy 228
+limit sell 94 428
+market sell 351
+limit buy 41 185
+market buy 147
+market sell 269
+market sell 481
+market sell 499
+limit buy 39 373
+limit sell 44 13
+market buy 118
+limit sell 49 336
+market sell 245
+market sell 410
+market sell 59
+market sell 68
+limit sell 92 106
+limit sell 6 445
+limit buy 43 346
+market buy 367
+market buy 110
+market buy 218
+market sell 128
+market buy 67
+limit sell 59 489
+limit buy 81 98
+market sell 428
+limit sell 66 393
+market sell 132
+limit sell 89 351
+limit sell 43 130
+limit buy 74 293
+market buy 310
+limit buy 96 291
+market sell 278
+limit sell 88 331
+market buy 215
+limit sell 91 467
+limit sell 15 90
+market buy 395
+limit sell 19 270
+market buy 380
+limit buy 5 151
+market sell 18
+limit buy 41 392
+market sell 418
+market sell 331
+market buy 380
+limit buy 15 307
+market sell 331
+market sell 372
+market sell 342
+market buy 133
+limit buy 16 349
+market sell 81
+market buy 393
+market buy 16
+limit buy 8 226
+market sell 38
+market sell 203
+limit sell 58 208
+limit buy 83 306
+market sell 500
+market buy 266
+market sell 119
+limit sell 30 197
+market buy 353
+market buy 422
+limit sell 42 320
+market buy 491
+market sell 314
+limit sell 50 449
+market sell 293
+limit sell 36 445
+market sell 496
+market buy 103
+limit buy 62 135
+market sell 145
+market buy 122
+limit buy 19 258
+market buy 181
+market sell 275
+limit sell 17 228
+limit sell 89 283
+limit sell 72 22
+limit sell 11 118
+limit buy 97 236
+market buy 258
+limit sell 76 97
+market buy 331
+limit buy 97 419
+limit sell 10 483
+market sell 240
+market buy 194
+market sell 236
+limit sell 16 396
+market buy 388
+limit sell 44 308
+market buy 78
+limit sell 36 401
+market buy 316
+limit sell 21 142
+market sell 266
+market sell 483
+market sell 149
+market buy 35
+market buy 145
+market sell 54
+market buy 492
+limit buy 42 244
+limit buy 38 335
+market buy 331
+market sell 143
+limit buy 98 354
+market sell 112
+limit sell 50 141
+market sell 375
+market buy 74
+market buy 185
+limit buy 42 141
+market sell 128
+market buy 426
+limit sell 91 266
+market buy 332
+limit buy 99 382
+market buy 450
+market buy 440
+limit sell 33 439
+market buy 121
+limit sell 13 431
+limit sell 28 245
+limit buy 95 105
+market buy 442
+limit sell 45 156
+market buy 355
+market sell 29
+limit buy 29 415
+market buy 227
+market buy 410
+limit sell 6 189
+limit sell 66 282
+market buy 418
+market sell 130
+market sell 62
+market sell 301
+limit sell 37 234
+limit buy 28 339
+market sell 380
+limit buy 87 312
+limit buy 43 444
+limit buy 23 112
+limit buy 38 67
+market buy 11
+limit sell 81 58
+market buy 70
+market buy 449
+limit buy 21 190
+limit buy 39 269
+limit buy 29 378
+market sell 398
+limit sell 86 451
+market buy 401
+market sell 143
+market buy 48
+market sell 481
+market buy 310
+market buy 455
+limit buy 80 458
+market buy 201
+limit sell 43 71
+market sell 73
+limit sell 14 413
+market sell 45
+limit buy 93 66
+limit buy 76 307
+market buy 235
+limit sell 66 332
+limit sell 23 468
+market buy 177
+market sell 142
+market buy 445
+limit sell 9 199
+market buy 390
+market sell 412
+market buy 58
+market buy 455
+limit sell 10 191
+market buy 371
+market sell 114
+market sell 124
+market sell 136
+limit buy 87 12
+limit sell 21 376
+market buy 303
+market buy 290
+market sell 304
+market buy 322
+limit buy 37 301
+limit sell 72 187
+market sell 248
+limit sell 71 196
+market buy 70
+market sell 39
+market sell 278
+market buy 97
+limit buy 96 58
+market sell 91
+limit buy 40 211
+limit buy 59 483
+limit buy 64 466
+limit buy 47 175
+limit buy 74 448
+market buy 451
+market sell 126
+market sell 143
+market sell 363
+limit buy 82 212
+market buy 293
+limit sell 67 14
+limit buy 92 332
+market sell 397
+limit sell 42 95
+market buy 81
+limit sell 82 297
+market sell 92
+limit sell 27 50
+limit sell 74 267
+market buy 370
+market buy 429
+limit buy 31 365
+market buy 147
+limit sell 36 202
+limit sell 5 371
+limit sell 66 66
+market buy 225
+limit buy 48 123
+limit buy 28 53
+limit sell 15 177
+limit sell 88 59
+market sell 287
+market sell 219
+market sell 16
+limit sell 89 209
+limit sell 33 73
+limit buy 90 481
+limit sell 45 403
+limit buy 66 163
+limit buy 54 276
+limit buy 14 110
+market sell 319
+market buy 455
+limit sell 8 120
+limit buy 63 250
+market sell 46
+market sell 214
+market sell 273
+market buy 40
+market sell 159
+market sell 28
+limit buy 73 25
+market sell 345
+limit buy 31 464
+limit sell 90 113
+market sell 29
+market buy 431
+limit sell 39 330
+market sell 442
+limit buy 70 32
+limit sell 74 73
+market buy 215
+market buy 147
+limit buy 52 30
+limit buy 79 31
+market buy 480
+market buy 480
+limit sell 70 484
+market sell 464
+market buy 328
+market sell 368
+market buy 299
+market buy 444
+limit sell 81 266
+limit sell 28 458
+market sell 189
+market buy 344
+market buy 122
+limit buy 61 262
+limit buy 58 44
+market sell 36
+limit sell 72 305
+limit sell 97 196
+market buy 277
+limit buy 93 396
+market sell 126
+limit sell 41 380
+limit sell 80 165
+market sell 262
+limit sell 11 342
+limit sell 74 211
+limit sell 32 14
+market sell 149
+limit buy 6 430
+limit sell 86 468
+market buy 300
+limit sell 19 287
+limit buy 93 455
+market buy 273
+limit buy 38 487
+limit sell 12 178
+limit buy 93 170
+market sell 198
+limit buy 6 221
+limit buy 34 174
+market sell 485
+market buy 337
+market sell 238
+limit sell 34 180
+limit buy 32 260
+market buy 41
+market sell 174
+market sell 21
+market sell 421
+market buy 77
+market buy 337
+limit sell 48 160
+limit buy 81 484
+market sell 180
+limit sell 95 360
+limit sell 61 187
+limit buy 24 133
+limit sell 5 118
+limit sell 78 392
+market sell 340
+limit buy 98 233
+market sell 485
+market sell 487
+limit buy 14 88
+market buy 384
+market sell 442
+market sell 193
+limit buy 37 46
+limit sell 37 135
+limit sell 89 111
+market buy 422
+limit buy 97 189
+market sell 245
+market sell 267
+limit buy 20 48
+market sell 165
+limit sell 86 290
+limit sell 81 321
+market sell 304
+market sell 41
+market sell 182
+limit sell 20 375
+market sell 182
+market buy 447
+market sell 411
+limit sell 34 338
+market sell 230
+market sell 242
+market buy 319
+market sell 17
+limit buy 51 405
+limit sell 82 87
+limit sell 62 203
+market sell 271
+market buy 466
+market buy 442
+market buy 416
+limit sell 68 63
+limit sell 73 191
+limit buy 78 96
+market sell 176
+market sell 168
+market sell 64
+market sell 53
+market buy 191
+market buy 481
+market sell 220
+market sell 249
+limit buy 91 207
+market buy 240
+limit buy 77 370
+limit sell 55 42
+limit buy 90 73
+market buy 209
+limit buy 96 448
+limit sell 58 392
+limit sell 91 486
+market buy 394
+limit sell 5 450
+market buy 345
+limit buy 25 195
+limit sell 31 326
+market sell 496
+market buy 70
+limit sell 84 440
+market sell 500
+market buy 40
+limit sell 27 66
+market buy 221
+limit buy 90 216
+limit sell 86 120
+limit buy 77 31
+market buy 29
+limit sell 33 27
+limit sell 92 47
+market buy 493
+limit buy 37 109
+market sell 116
+market sell 269
+limit buy 54 314
+limit buy 83 393
+market sell 283
+market sell 102
+limit sell 97 393
+limit buy 94 137
+market sell 136
+limit buy 51 276
+market sell 302
+limit sell 68 192
+limit buy 5 264
+limit buy 88 152
+limit sell 53 211
+market buy 211
+limit sell 18 93
+limit sell 21 295
+limit buy 100 467
+market sell 118
+market sell 300
+limit sell 54 197
+limit buy 17 490
+limit sell 80 232
+market sell 131
+limit buy 24 458
+limit sell 17 306
+limit sell 55 173
+market buy 105
+market buy 10
+limit buy 31 112
+limit buy 91 17
+market sell 441
+limit sell 7 188
+market sell 114
+market buy 288
+market sell 66
+limit sell 11 170
+limit sell 55 487
+limit sell 48 389
+limit buy 7 102
+limit sell 37 196
+market sell 115
+limit sell 98 93
+market buy 428
+limit buy 89 266
+market sell 235
+limit buy 27 126
+market buy 407
+limit buy 11 29
+limit buy 42 284
+market buy 174
+market sell 436
+market buy 375
+market buy 189
+limit sell 95 148
+limit buy 41 139
+market sell 355
+limit sell 23 207
+market sell 153
+market sell 226
+limit sell 70 354
+market buy 121
+limit sell 78 433
+market buy 261
+limit buy 92 162
+market sell 351
+limit buy 78 55
+limit sell 23 43
+market sell 192
+market buy 370
+market sell 242
+market sell 464
+limit buy 96 281
+market sell 437
+market buy 52
+market buy 147
+limit sell 68 314
+market buy 310
+market sell 322
+limit sell 97 285
+limit buy 47 314
+market sell 368
+market buy 239
+market sell 110
+limit buy 24 430
+market sell 169
+market buy 455
+market buy 406
+market sell 198
+limit buy 53 485
+limit buy 38 159
+market buy 500
+limit buy 6 196
+market sell 236
+market buy 43
+market sell 80
+market buy 485
+market buy 470
+limit buy 68 297
+market sell 10
+limit buy 26 343
+limit buy 60 115
+market sell 118
+market buy 212
+market sell 344
+market sell 301
+limit sell 25 327
+market buy 66
+market sell 178
+market sell 472
+market buy 470
+limit sell 50 218
+limit buy 53 484
+market buy 458
+market buy 298
+market sell 316
+limit buy 8 87
+limit buy 71 224
+market sell 145
+limit buy 8 245
+market sell 115
+market buy 288
+market buy 182
+limit sell 61 14
+market buy 330
+market buy 72
+limit sell 48 56
+limit buy 13 264
+market buy 405
+market sell 344
+market buy 245
+market buy 158
+limit sell 44 92
+market sell 478
+market sell 337
+limit buy 5 454
+limit buy 34 224
+market sell 482
+market buy 353
+limit sell 58 390
+market buy 485
+market buy 484
+market buy 335
+market buy 429
+limit buy 97 210
+market sell 284
+market buy 489
+limit sell 88 60
+limit buy 86 196
+limit sell 45 77
+market buy 130
+limit buy 92 239
+market buy 419
+limit buy 88 166
+market sell 453
+market sell 349
+market buy 266
+market sell 439
+limit sell 51 50
+market sell 429
+limit buy 26 370
+market buy 37
+limit sell 19 220
+market buy 52
+limit sell 72 336
+limit buy 71 267
+market buy 322
+market sell 326
+market buy 392
+limit buy 27 223
+market sell 35
+limit buy 63 400
+limit buy 37 226
+market sell 155
+limit sell 55 465
+limit buy 78 309
+market sell 450
+limit sell 57 19
+limit buy 87 199
+limit sell 66 318
+limit buy 16 290
+limit sell 45 268
+limit sell 10 343
+limit buy 58 286
+market sell 122
+market sell 196
+market buy 55
+limit sell 39 227
+market sell 150
+market buy 355
+market sell 433
+market buy 467
+market buy 323
+limit sell 73 253
+market sell 110
+market buy 54
+limit sell 98 50
+limit buy 97 90
+limit sell 94 371
+market buy 116
+market buy 59
+limit sell 31 229
+limit buy 66 195
+market buy 231
+market sell 343
+limit buy 64 459
+market sell 386
+market sell 80
+market sell 236
+limit sell 42 13
+market buy 447
+market buy 448
+limit buy 78 328
+limit sell 6 269
+market sell 16
+limit buy 45 209
+market buy 293
+limit buy 28 31
+market buy 468
+market sell 237
+market buy 267
+limit buy 19 250
+limit buy 37 172
+limit sell 17 180
+limit buy 39 337
+market sell 132
+market buy 28
+market buy 33
+market buy 436
+limit sell 97 388
+market buy 25
+market sell 252
+market buy 314
+limit sell 100 71
+market sell 421
+limit buy 44 232
+limit sell 46 452
+limit sell 45 394
+limit sell 91 136
+market buy 52
+limit buy 89 130
+market buy 230
+limit buy 61 159
+limit buy 24 254
+limit sell 19 226
+market buy 437
+limit sell 18 337
+limit sell 62 369
+market sell 358
+limit buy 55 73
+market sell 467
+limit sell 98 445
+limit buy 75 436
+limit sell 93 192
+limit sell 25 179
+market sell 277
+limit sell 80 102
+market buy 70
+market sell 95
+limit buy 60 206
+market sell 345
+limit buy 96 437
+market sell 155
+limit buy 99 258
+market buy 422
+limit sell 18 377
+market buy 475
+limit sell 63 47
+market buy 16
+market buy 474
+limit sell 94 450
+limit sell 49 20
+limit buy 72 33
+limit sell 81 179
+limit sell 41 136
+market buy 458
+limit sell 28 117
+market buy 77
+market buy 227
+market sell 90
+market sell 153
+market sell 98
+limit buy 82 382
+limit sell 18 350
+limit buy 85 179
+limit sell 39 43
+market sell 229
+market buy 405
+market sell 463
+market buy 24
+market sell 399
+market sell 417
+limit buy 64 424
+market buy 338
+market sell 208
+limit sell 75 193
+limit buy 39 371
+limit buy 30 201
+limit buy 91 11
+limit buy 74 119
+limit buy 13 50
+limit buy 80 286
+market buy 130
+market sell 72
+limit buy 12 329
+market sell 62
+limit buy 15 146
+market sell 171
+market sell 151
+market buy 107
+limit sell 30 471
+market buy 138
+market sell 25
+limit buy 62 490
+limit buy 40 236
+limit buy 24 94
+limit sell 98 359
+market buy 434
+market buy 395
+limit buy 93 92
+market sell 149
+market sell 368
+market buy 432
+limit buy 81 337
+market sell 177
+market buy 270
+limit sell 87 326
+limit sell 51 182
+market buy 154
+limit buy 23 254
+limit sell 6 398
+limit sell 16 438
+limit sell 28 425
+market buy 443
+limit sell 68 484
+market buy 232
+market buy 232
+market buy 57
+limit sell 87 229
+limit sell 13 31
+market sell 233
+market sell 314
+limit buy 46 144
+market sell 89
+limit buy 81 262
+limit sell 47 293
+market buy 325
+limit sell 92 498
+limit buy 94 439
+limit sell 67 190
+limit sell 22 33
+limit buy 48 419
+market buy 186
+limit sell 41 409
+market buy 109
+market buy 183
+market sell 94
+limit buy 28 74
+market sell 48
+limit buy 30 91
+market buy 218
+limit sell 73 145
+market sell 158
+limit buy 29 235
+limit buy 91 432
+market sell 185
+market buy 438
+market sell 246
+market sell 328
+market sell 108
+market buy 38
+limit buy 75 130
+market sell 487
+limit sell 89 167
+market buy 482
+market buy 270
+limit sell 13 356
+market buy 451
+market sell 377
+limit buy 47 416
+limit sell 26 208
+market sell 216
+limit buy 6 198
+market buy 387
+market buy 136
+limit buy 30 24
+limit sell 56 335
+limit buy 17 355
+market sell 245
+market sell 353
+market buy 44
+market sell 175
+market buy 446
+market sell 448
+limit sell 26 456
+limit sell 71 83
+market buy 454
+limit sell 13 366
+limit sell 73 328
+limit sell 98 378
+market buy 419
+market sell 176
+market buy 10
+market sell 498
+market sell 478
+market buy 147
+limit sell 87 129
+market buy 106
+market sell 226
+limit sell 16 238
+market sell 36
+limit buy 15 147
+limit sell 22 230
+limit buy 25 415
+market buy 185
+market sell 50
+market buy 403
+market buy 122
+market buy 105
+market buy 401
+market sell 417
+market sell 304
+market sell 253
+market buy 73
+market sell 452
+limit buy 96 232
+limit sell 94 304
+market buy 345
+limit sell 13 493
+market buy 438
+market buy 452
+limit sell 47 336
+limit sell 80 265
+market sell 349
+limit sell 80 406
+market buy 379
+market buy 331
+market buy 130
+limit buy 76 491
+market buy 91
+limit buy 79 79
+market sell 483
+market sell 209
+market sell 105
+market sell 109
+market buy 330
+limit sell 96 298
+market sell 30
+limit sell 99 434
+limit buy 38 238
+market sell 423
+market sell 334
+market sell 175
+limit sell 100 66
+market buy 484
+market sell 435
+limit buy 77 481
+market buy 378
+market buy 94
+market buy 465
+market buy 154
+limit buy 34 403
+limit buy 99 313
+market sell 74
+limit sell 73 68
+market sell 22
+market buy 10
+limit sell 35 487
+limit sell 59 260
+limit sell 18 156
+market sell 81
+limit sell 67 63
+limit sell 60 274
+market sell 152
+market sell 410
+market buy 436
+limit sell 75 314
+market sell 104
+limit buy 71 290
+market buy 365
+limit buy 84 349
+limit sell 17 478
+limit buy 56 485
+market buy 82
+limit sell 14 428
+market buy 396
+market sell 78
+market buy 492
+limit sell 78 268
+limit buy 46 302
+limit buy 6 181
+limit sell 95 373
+market buy 22
+market buy 346
+market buy 60
+market buy 79
+limit sell 11 358
+limit buy 34 66
+limit buy 76 199
+market buy 44
+market sell 181
+market sell 195
+limit sell 34 43
+market buy 57
+limit sell 78 159
+market buy 121
+market buy 349
+market buy 336
+limit buy 33 65
+limit buy 86 149
+limit buy 7 479
+limit sell 25 297
+limit buy 63 417
+market sell 431
+limit buy 59 263
+limit buy 100 353
+limit sell 60 288
+limit sell 12 141
+market buy 480
+limit buy 20 299
+market buy 361
+limit sell 86 231
+market sell 184
+market sell 232
+market buy 363
+limit sell 66 424
+limit buy 87 500
+market sell 354
+market sell 438
+market sell 19
+limit buy 51 326
+limit buy 99 369
+limit buy 45 69
+market sell 32
+market sell 67
+limit buy 71 56
+limit buy 8 285
+limit sell 62 355
+limit buy 84 42
+market buy 419
+market sell 238
+limit sell 64 277
+market sell 79
+limit buy 25 76
+market buy 251
+limit buy 30 29
+limit buy 60 422
+market buy 73
+limit buy 71 394
+market buy 456
+market sell 413
+limit buy 22 443
+market buy 69
+market buy 450
+market buy 32
+limit buy 49 18
+limit buy 55 227
+market sell 485
+limit sell 53 437
+market buy 49
+limit sell 59 126
+market sell 366
+limit sell 100 27
+limit sell 52 375
+market buy 259
+market sell 345
+limit sell 10 335
+limit sell 52 135
+limit buy 25 488
+market buy 412
+limit sell 37 431
+limit buy 22 318
+market sell 250
+market sell 88
+market buy 312
+limit sell 96 269
+market sell 65
+limit sell 8 218
+market sell 351
+market buy 25
+limit buy 66 121
+market sell 249
+limit buy 57 344
+market buy 16
+market buy 109
+market buy 77
+limit buy 12 284
+market buy 228
+market buy 33
+market sell 152
+market buy 225
+limit sell 52 333
+limit sell 66 318
+limit sell 98 159
+limit sell 54 330
+limit buy 66 106
+market sell 138
+limit sell 87 238
+limit sell 72 72
+limit buy 87 198
+market sell 394
+limit sell 90 357
+limit sell 95 424
+market sell 148
+market sell 417
+market buy 350
+market buy 412
+limit sell 66 39
+market sell 193
+market sell 20
+limit buy 86 382
+limit sell 50 25
+market sell 310
+market sell 432
+market sell 179
+market sell 397
+limit buy 43 196
+limit sell 40 355
+limit buy 52 75
+limit sell 99 63
+limit buy 32 177
+market sell 205
+market buy 193
+limit buy 67 172
+market buy 121
+market buy 280
+limit sell 72 48
+limit sell 87 73
+limit sell 62 205
+limit sell 98 166
+market sell 216
+market buy 357
+limit sell 6 484
+market sell 218
+market sell 347
+limit buy 84 152
+market sell 237
+limit sell 21 355
+market sell 269
+limit buy 5 484
+limit buy 13 33
+limit buy 25 266
+market sell 206
+market sell 437
+market buy 166
+limit buy 49 378
+limit buy 40 157
+limit sell 7 71
+limit sell 35 312
+market sell 322
+market buy 359
+market sell 318
+market buy 310
+limit sell 36 397
+market sell 403
+limit buy 54 430
+market buy 333
+market sell 477
+limit sell 70 275
+limit buy 68 489
+limit buy 79 280
+limit sell 5 55
+market sell 326
+market sell 363
+market buy 340
+market sell 472
+limit sell 37 142
+market sell 22
+limit buy 72 21
+limit buy 23 336
+limit buy 40 138
+market buy 158
+limit buy 100 279
+limit sell 71 90
+limit sell 70 485
+market buy 472
+limit buy 26 247
+limit buy 65 322
+limit buy 25 345
+market buy 141
+limit buy 92 220
+limit buy 74 423
+limit buy 21 415
+market sell 333
+limit buy 59 326
+limit buy 21 269
+market sell 68
+market sell 386
+market buy 387
+market buy 95
+limit sell 33 241
+market sell 256
+market sell 459
+limit sell 54 371
+limit sell 36 128
+market buy 126
+market buy 296
+limit buy 66 38
+market buy 100
+limit buy 89 455
+market sell 265
+limit sell 12 405
+market sell 83
+market buy 95
+limit sell 79 405
+market buy 156
+limit sell 76 137
+limit sell 48 266
+limit sell 7 258
+market buy 468
+limit sell 14 99
+limit buy 26 274
+market sell 496
+market sell 20
+market sell 11
+market buy 102
+limit buy 61 76
+limit buy 64 91
+limit sell 87 15
+market buy 357
+market sell 469
+limit buy 50 390
+limit buy 26 216
+limit sell 37 75
+limit sell 32 490
+market sell 326
+market sell 487
+market buy 66
+limit buy 9 215
+market sell 321
+market sell 331
+limit buy 40 437
+market sell 25
+limit buy 76 472
+market sell 170
+market buy 326
+limit buy 43 266
+limit sell 66 430
+market buy 91
+limit sell 51 375
+limit sell 11 375
+limit buy 59 179
+market buy 387
+market buy 132
+limit buy 12 133
+market sell 218
+market buy 226
+limit sell 60 402
+limit sell 17 361
+market sell 204
+market sell 57
+limit buy 36 178
+limit buy 73 225
+market buy 184
+market sell 258
+market sell 364
+market sell 145
+market sell 426
+market buy 413
+market buy 316
+limit sell 82 144
+limit sell 39 412
+market sell 479
+market sell 475
+market buy 138
+market buy 184
+market buy 44
+market buy 96
+limit sell 98 275
+limit sell 92 457
+market buy 491
+limit buy 33 462
+limit sell 51 483
+market sell 242
+market sell 214
+limit sell 42 435
+limit buy 57 391
+limit sell 61 443
+limit sell 91 327
+market buy 153
+market sell 376
+limit sell 94 303
+limit buy 17 289
+market buy 199
+market sell 288
+limit buy 6 351
+market sell 235
+market sell 71
+limit sell 74 405
+market sell 294
+market buy 484
+limit sell 38 212
+limit buy 27 310
+market sell 402
+limit buy 78 153
+limit sell 66 283
+market buy 212
+limit buy 9 174
+limit sell 38 310
+limit buy 34 486
+limit buy 89 286
+market sell 351
+limit sell 41 347
+limit sell 16 203
+market sell 248
+limit buy 44 441
+market buy 142
+limit buy 30 473
+market buy 206
+limit buy 73 330
+limit sell 99 470
+limit sell 74 422
+limit sell 64 24
+limit sell 98 314
+market buy 273
+limit sell 26 460
+market buy 286
+limit sell 17 179
+market sell 411
+market sell 289
+market buy 382
+market sell 64
+limit sell 17 117
+market buy 468
+limit buy 49 173
+market sell 472
+market buy 347
+limit sell 49 493
+limit sell 71 443
+market buy 132
+limit sell 22 240
+limit sell 10 129
+limit sell 87 342
+market sell 327
+limit sell 82 322
+market sell 465
+limit sell 91 52
+limit sell 64 495
+market sell 477
+limit sell 25 146
+market sell 185
+limit sell 90 463
+market sell 387
+limit sell 11 309
+market sell 317
+market sell 100
+market buy 471
+limit sell 34 278
+limit sell 17 245
+market sell 116
+limit buy 99 110
+market sell 362
+market sell 231
+market sell 12
+limit sell 78 308
+market buy 119
+limit sell 16 277
+market sell 251
+market buy 111
+market buy 238
+limit buy 20 17
+limit sell 60 495
+limit sell 35 150
+limit buy 9 104
+market sell 203
+market sell 500
+market buy 257
+market buy 496
+limit buy 79 144
+market sell 193
+market buy 192
+market buy 197
+market buy 47
+market sell 479
+limit sell 9 494
+market sell 400
+market sell 220
+limit buy 24 399
+limit buy 62 253
+market buy 65
+market buy 93
+market sell 389
+market buy 300
+market buy 449
+limit buy 55 57
+market sell 344
+limit buy 88 162
+limit buy 16 66
+limit sell 58 495
+limit buy 76 222
+market sell 278
+market sell 425
+limit buy 41 184
+market sell 101
+limit sell 12 20
+limit buy 48 92
+market buy 158
+market buy 119
+limit sell 73 377
+limit sell 80 197
+limit sell 55 43
+limit sell 8 85
+limit sell 16 456
+market buy 175
+market buy 485
+limit buy 7 66
+limit sell 70 456
+limit sell 9 487
+limit sell 95 246
+limit buy 90 10
+limit sell 29 357
+market sell 98
+market buy 466
+limit sell 55 196
+market sell 140
+market buy 227
+limit buy 77 254
+limit sell 43 339
+market sell 40
+limit buy 18 196
+limit buy 33 65
+market buy 165
+market sell 150
+market sell 185
+market sell 293
+limit buy 28 169
+limit buy 37 391
+limit sell 61 435
+market buy 229
+market buy 53
+limit buy 7 484
+market buy 493
+limit sell 38 29
+market buy 181
+limit buy 41 66
+limit buy 75 14
+market sell 328
+limit buy 53 261
+market buy 28
+limit sell 77 395
+market sell 384
+market buy 117
+limit sell 68 171
+market sell 226
+market sell 30
+market sell 272
+market sell 271
+market buy 194
+limit sell 61 342
+limit buy 82 231
+market buy 194
+market buy 373
+market buy 72
+limit buy 100 376
+limit sell 93 106
+limit sell 33 135
+market buy 173
+market buy 294
+limit buy 61 274
+limit sell 79 282
+limit sell 66 146
+market sell 341
+market sell 166
+limit sell 20 136
+market buy 353
+market sell 61
+market sell 340
+limit buy 84 334
+market sell 324
+market sell 156
+market sell 83
+market sell 114
+market sell 485
+limit buy 28 127
+market sell 395
+market sell 377
+market sell 180
+limit buy 22 143
+limit buy 49 44
+limit buy 33 274
+limit sell 100 87
+limit buy 35 304
+market sell 395
+limit sell 89 385
+market buy 498
+limit buy 62 360
+limit buy 97 364
+limit sell 50 472
+market buy 143
+market buy 475
+limit buy 22 21
+market buy 256
+limit buy 20 105
+limit buy 18 17
+market sell 228
+limit sell 35 357
+market buy 103
+limit buy 33 84
+market sell 446
+market sell 118
+market sell 74
+market sell 53
+market buy 296
+market buy 57
+market buy 129
+limit buy 94 408
+limit sell 32 488
+market sell 99
+limit sell 82 341
+limit buy 52 338
+market buy 104
+limit buy 54 74
+market buy 48
+market sell 231
+limit buy 72 189
+market sell 265
+market sell 471
+market sell 335
+limit sell 31 275
+limit buy 96 133
+market sell 32
+market sell 216
+limit sell 46 270
+market buy 349
+limit buy 16 175
+market sell 51
+market sell 288
+limit buy 97 458
+limit sell 12 383
+limit sell 25 57
+market sell 17
+market sell 139
+limit buy 99 360
+market sell 67
+market buy 54
+market buy 297
+limit sell 65 357
+limit sell 71 403
+limit buy 74 321
+market sell 376
+limit sell 24 154
+market buy 495
+market sell 25
+limit sell 23 482
+market sell 333
+limit sell 55 115
+market buy 69
+market sell 338
+limit buy 86 459
+market buy 401
+limit buy 23 160
+market buy 469
+limit buy 73 35
+limit buy 67 473
+market sell 163
+market sell 69
+limit buy 66 430
+limit sell 41 120
+limit sell 11 296
+limit buy 36 395
+market buy 180
+market buy 413
+market sell 349
+market sell 443
+limit buy 17 266
+market sell 136
+market sell 337
+market buy 140
+limit sell 49 415
+limit buy 77 337
+limit sell 92 397
+market buy 104
+limit sell 57 443
+market buy 390
+market sell 77
+limit buy 83 420
+market sell 96
+limit sell 40 52
+limit sell 70 422
+limit buy 50 456
+market buy 77
+limit buy 61 181
+limit buy 10 85
+market sell 166
+limit buy 29 175
+limit buy 13 404
+market sell 203
+market buy 127
+limit sell 86 482
+limit sell 21 335
+market sell 452
+limit buy 75 121
+limit sell 5 445
+limit sell 73 36
+market buy 347
+limit buy 50 212
+limit sell 24 233
+limit buy 26 260
+limit sell 7 420
+limit sell 21 112
+market buy 231
+market buy 39
+market sell 481
+limit buy 36 116
+limit sell 51 305
+market buy 89
+limit sell 45 301
+limit sell 96 488
+market buy 60
+limit sell 34 277
+limit sell 68 364
+market buy 121
+market buy 270
+market sell 122
+limit buy 12 134
+market buy 421
+market sell 107
+market buy 451
+limit buy 65 430
+market buy 29
+market sell 405
+limit buy 56 341
+limit buy 10 448
+market buy 173
+limit sell 100 290
+limit buy 80 335
+limit sell 62 412
+market buy 73
+limit sell 66 222
+limit buy 68 292
+limit sell 48 40
+limit sell 33 225
+market buy 181
+limit sell 62 97
+market buy 25
+market buy 122
+market buy 260
+limit buy 83 149
+market sell 321
+market sell 325
+limit sell 6 241
+market sell 383
+market sell 429
+market sell 197
+limit sell 9 14
+market sell 210
+market buy 192
+market buy 65
+limit buy 63 148
+limit buy 46 194
+market buy 62
+market buy 75
+limit sell 45 301
+market sell 21
+market sell 256
+market buy 361
+limit sell 85 38
+limit buy 54 24
+limit sell 6 291
+market sell 136
+limit buy 46 233
+market sell 265
+limit buy 94 77
+limit sell 62 162
+limit buy 97 87
+limit sell 90 340
+market sell 172
+limit sell 65 60
+market buy 104
+limit sell 45 213
+market buy 169
+limit buy 40 27
+market buy 79
+limit sell 58 33
+market sell 472
+limit buy 29 498
+limit buy 6 303
+market buy 48
+limit buy 23 419
+limit sell 77 471
+limit buy 25 103
+market buy 486
+limit buy 29 248
+limit buy 49 344
+market buy 93
+limit buy 64 215
+market buy 43
+limit sell 14 20
+market sell 396
+limit buy 72 12
+market buy 149
+market buy 451
+market buy 82
+market buy 234
+limit buy 93 31
+market buy 454
+market buy 331
+market buy 471
+market buy 443
+market buy 314
+market buy 405
+limit sell 50 442
+market sell 252
+limit buy 29 88
+market sell 17
+limit buy 19 325
+market buy 472
+limit buy 17 82
+market sell 225
+limit buy 99 237
+limit buy 45 423
+market buy 194
+market sell 390
+limit buy 49 171
+market sell 363
+market sell 386
+limit sell 36 480
+market sell 77
+market sell 36
+limit sell 95 207
+market buy 96
+market buy 77
+limit buy 45 261
+limit buy 99 447
+market sell 329
+limit buy 57 38
+limit buy 84 276
+limit sell 81 185
+market sell 368
+market buy 40
+limit sell 9 428
+limit buy 58 288
+market buy 16
+market sell 242
+limit buy 6 333
+market sell 386
+limit buy 75 109
+market buy 498
+limit buy 42 264
+limit buy 18 450
+limit sell 86 161
+market buy 51
+market buy 105
+market sell 79
+limit sell 28 310
+limit sell 53 193
+limit sell 81 85
+limit buy 63 261
+limit sell 89 411
+limit sell 70 152
+limit sell 7 60
+limit buy 78 87
+market buy 137
+limit buy 30 104
+market buy 448
+limit buy 57 149
+limit buy 36 55
+market sell 29
+limit buy 37 142
+limit buy 84 11
+limit buy 33 143
+limit sell 23 76
+market sell 240
+market sell 62
+market buy 301
+market sell 204
+market sell 430
+market sell 165
+limit buy 69 311
+limit buy 10 252
+market sell 281
+limit buy 95 168
+market buy 125
+market buy 431
+market buy 61
+limit buy 88 84
+limit sell 53 40
+market buy 20
+market sell 498
+market buy 455
+limit sell 17 196
+market sell 483
+limit buy 100 162
+limit buy 58 461
+market buy 498
+market buy 371
+market buy 396
+limit sell 52 426
+market buy 87
+market buy 315
+limit buy 28 370
+limit sell 39 419
+limit sell 97 81
+limit buy 9 480
+market sell 113
+limit buy 57 347
+market sell 396
+market buy 222
+market buy 293
+limit buy 56 422
+limit buy 90 242
+market sell 50
+limit buy 84 350
+market buy 337
+market sell 254
+limit buy 35 467
+limit sell 44 219
+limit buy 37 178
+market sell 115
+market sell 438
+market buy 347
+market sell 236
+market buy 52
+market sell 36
+market sell 270
+market sell 237
+market sell 189
+market buy 155
+limit buy 93 332
+limit sell 64 159
+limit buy 25 459
+market buy 87
+limit buy 45 298
+limit buy 7 68
+limit sell 16 401
+limit buy 41 297
+limit sell 47 26
+market sell 332
+market sell 249
+market sell 64
+market buy 118
+market buy 241
+limit sell 19 296
+market buy 321
+market buy 372
+market sell 115
+limit sell 27 77
+market buy 16
+limit buy 13 218
+limit sell 83 472
+market buy 459
+market buy 271
+limit buy 26 283
+market buy 340
+market sell 354
+market sell 284
+market buy 457
+limit buy 81 148
+limit sell 59 308
+limit sell 85 404
+market sell 340
+market sell 189
+limit buy 57 242
+market buy 227
+limit buy 34 221
+limit buy 68 266
+limit buy 22 289
+market sell 214
+market sell 338
+limit sell 71 347
+market buy 169
+market sell 80
+limit buy 58 352
+market buy 451
+market buy 468
+market buy 181
+limit buy 86 11
+limit buy 37 127
+limit sell 79 100
+limit sell 18 113
+market buy 84
+market sell 380
+limit buy 52 269
+limit sell 57 171
+market sell 389
+limit sell 19 181
+limit buy 34 260
+market sell 158
+limit sell 50 464
+limit buy 72 358
+market sell 237
+market buy 253
+limit sell 19 64
+market sell 165
+market sell 303
+market sell 215
+limit sell 95 330
+market buy 396
+limit buy 33 213
+market sell 279
+market sell 405
+market buy 36
+limit sell 42 111
+limit sell 62 440
+market sell 360
+limit sell 88 355
+limit buy 61 258
+market buy 92
+market buy 487
+limit sell 35 252
+limit buy 91 298
+market sell 24
+market buy 481
+limit buy 91 416
+market sell 28
+limit buy 69 465
+limit sell 75 487
+limit sell 81 48
+limit buy 53 418
+market sell 441
+limit sell 86 450
+limit buy 62 124
+market sell 319
+market buy 210
+limit sell 12 132
+limit buy 43 163
+limit sell 23 175
+market buy 17
+limit buy 80 401
+limit sell 39 204
+market sell 83
+market buy 380
+market buy 357
+market buy 179
+limit sell 47 334
+market buy 202
+market buy 215
+limit buy 84 30
+limit buy 13 241
+limit sell 90 321
+limit buy 73 315
+limit sell 13 51
+limit sell 33 367
+limit buy 22 382
+market buy 195
+market buy 132
+limit sell 62 264
+limit sell 42 169
+market sell 56
+market sell 382
+market sell 148
+limit sell 56 493
+market sell 359
+limit buy 23 298
+limit sell 35 228
+limit buy 54 271
+limit sell 85 281
+market buy 342
+market sell 432
+market buy 356
+market buy 151
+market buy 288
+market sell 12
+limit sell 9 483
+market buy 196
+limit buy 25 413
+limit buy 13 55
+limit buy 88 18
+market buy 204
+market sell 196
+limit buy 40 401
+limit buy 56 362
+market buy 390
+market buy 101
+limit buy 9 404
+limit buy 91 314
+limit buy 87 82
+limit sell 33 263
+market sell 409
+market sell 99
+limit sell 53 284
+limit sell 39 73
+limit buy 22 192
+limit buy 48 60
+limit sell 77 46
+limit buy 6 262
+market sell 169
+limit sell 20 480
+limit buy 85 462
+limit sell 78 308
+limit sell 81 227
+market sell 235
+limit sell 78 367
+limit sell 22 29
+market buy 231
+market sell 265
+limit buy 55 428
+limit buy 56 26
+market buy 110
+market buy 140
+market buy 328
+limit buy 5 29
+limit buy 36 404
+limit sell 23 258
+market sell 232
+market buy 214
+market sell 466
+limit sell 59 111
+market buy 262
+market buy 338
+limit buy 96 382
+limit buy 51 145
+limit buy 38 207
+limit buy 52 220
+limit sell 11 136
+limit buy 37 350
+market sell 344
+market sell 27
+limit sell 73 419
+market sell 351
+market sell 467
+limit sell 24 416
+market buy 231
+market sell 300
+market sell 333
+market sell 200
+market buy 185
+limit buy 7 150
+market sell 375
+market sell 374
+limit buy 33 358
+limit buy 88 454
+limit buy 42 353
+market buy 106
+limit buy 34 91
+market sell 260
+market sell 390
+market sell 118
+limit buy 8 373
+limit sell 28 102
+limit sell 35 231
+limit buy 24 23
+market buy 343
+limit buy 20 206
+market buy 132
+market sell 332
+market sell 493
+limit sell 78 244
+limit sell 50 475
+market sell 25
+market buy 21
+limit buy 94 419
+market sell 472
+limit sell 63 497
+limit sell 48 220
+limit buy 61 32
+limit buy 7 366
+limit sell 40 408
+limit buy 22 103
+limit buy 56 259
+market sell 149
+market sell 375
+limit buy 74 214
+limit buy 38 330
+market sell 212
+market sell 43
+limit buy 71 98
+limit buy 39 417
+market buy 230
+market buy 465
+limit sell 44 126
+limit buy 5 250
+limit buy 23 492
+limit sell 73 194
+limit sell 48 16
+market sell 279
+market sell 37
+limit sell 36 107
+limit sell 42 85
+market buy 436
+market buy 214
+market buy 43
+limit buy 7 253
+market sell 338
+limit buy 65 175
+limit sell 62 143
+limit buy 43 249
+market buy 133
+limit sell 64 88
+limit buy 96 324
+limit sell 43 255
+market sell 218
+limit sell 66 447
+limit sell 7 206
+market buy 498
+market sell 64
+market buy 135
+market sell 422
+market sell 183
+market sell 281
+market buy 34
+market buy 182
+market sell 315
+limit buy 35 26
+limit sell 24 199
+limit buy 52 328
+market sell 388
+limit sell 83 276
+limit buy 30 387
+market sell 322
+market sell 255
+market sell 385
+market buy 382
+market buy 420
+market sell 150
+limit buy 87 92
+limit buy 62 383
+market buy 277
+limit buy 67 286
+limit sell 71 155
+market buy 81
+limit sell 22 477
+limit sell 43 61
+market buy 381
+limit buy 39 353
+market sell 319
+market buy 312
+market sell 189
+market buy 383
+limit sell 7 402
+market buy 473
+market sell 415
+market sell 445
+market sell 25
+market sell 38
+market buy 393
+market sell 124
+limit sell 45 376
+limit buy 65 92
+market buy 406
+limit sell 55 205
+market sell 381
+market buy 275
+market sell 409
+market sell 475
+limit buy 81 471
+limit sell 49 329
+market buy 294
+limit sell 16 295
+limit buy 67 135
+limit buy 68 315
+market buy 219
+market buy 229
+market buy 436
+limit buy 52 151
+market buy 315
+market buy 132
+limit buy 25 447
+market buy 278
+limit buy 82 77
+market buy 369
+market buy 41
+limit sell 55 148
+market buy 240
+market sell 412
+market buy 239
+limit sell 17 230
+limit sell 70 57
+market sell 439
+limit buy 71 136
+market sell 245
+market buy 140
+market sell 203
+limit sell 100 239
+market buy 372
+market sell 329
+market buy 13
+limit sell 89 271
+limit buy 31 204
+limit buy 44 74
+market buy 28
+market buy 173
+market sell 276
+limit sell 88 240
+market buy 114
+limit buy 98 84
+limit buy 29 206
+limit buy 95 436
+limit sell 32 246
+limit buy 100 434
+market buy 376
+limit buy 15 263
+limit buy 46 88
+limit buy 75 189
+limit buy 47 454
+limit sell 23 475
+market buy 399
+market buy 334
+limit buy 62 225
+market sell 45
+market sell 292
+market sell 365
+limit sell 40 497
+market sell 209
+limit buy 12 48
+market sell 102
+limit buy 81 264
+limit sell 68 352
+market sell 90
+limit buy 45 413
+market sell 239
+limit sell 12 187
+limit sell 34 76
+market buy 75
+market sell 228
+limit sell 79 74
+limit buy 30 33
+market buy 348
+limit sell 28 490
+market sell 308
+limit buy 65 465
+market buy 406
+limit sell 50 53
+market sell 89
+limit buy 70 365
+limit buy 60 300
+limit sell 31 21
+market buy 128
+limit sell 8 203
+limit buy 51 358
+market buy 304
+market buy 463
+limit sell 7 265
+market sell 166
+limit sell 43 472
+limit buy 70 270
+limit buy 96 358
+market sell 68
+market buy 228
+limit sell 76 49
+market sell 151
+limit sell 100 209
+limit buy 72 467
+market sell 423
+limit buy 56 307
+market sell 51
+market buy 340
+limit sell 79 191
+market sell 406
+market sell 168
+market buy 210
+market buy 43
+market sell 343
+market buy 437
+limit sell 26 252
+market sell 420
+limit buy 100 81
+limit sell 37 44
+market buy 95
+market sell 174
+limit sell 25 152
+limit buy 69 52
+market buy 276
+limit sell 7 160
+limit sell 81 191
+market buy 378
+limit buy 38 238
+limit buy 75 111
+limit sell 8 161
+market sell 479
+limit sell 81 354
+market buy 194
+limit buy 84 264
+limit buy 43 478
+limit buy 81 34
+market buy 95
+market buy 298
+market buy 91
+limit buy 63 111
+market sell 252
+market buy 187
+limit sell 26 443
+market sell 54
+market sell 105
+limit sell 14 213
+market sell 221
+market sell 37
+limit buy 73 448
+market sell 489
+limit sell 80 204
+market sell 81
+limit sell 8 334
+market sell 128
+market sell 434
+market sell 18
+limit buy 95 44
+market sell 467
+limit sell 76 53
+limit buy 100 356
+limit sell 51 115
+limit sell 36 21
+market buy 345
+limit buy 54 423
+limit sell 50 104
+market sell 117
+market sell 385
+market buy 69
+limit buy 21 91
+limit buy 99 320
+market sell 136
+limit sell 19 477
+market sell 451
+limit sell 37 289
+market buy 236
+market sell 43
+limit sell 78 470
+limit buy 84 220
+limit sell 86 493
+limit buy 91 428
+market sell 390
+limit sell 90 141
+limit buy 100 122
+market buy 86
+market sell 21
+market sell 265
+market sell 34
+limit buy 79 183
+limit sell 27 292
+market sell 240
+market sell 366
+limit buy 77 143
+market buy 305
+market buy 493
+limit sell 49 88
+market sell 413
+limit buy 58 496
+limit buy 59 135
+market sell 478
+limit sell 9 57
+limit sell 12 209
+market buy 161
+limit sell 38 489
+market buy 122
+market sell 332
+limit sell 30 79
+market buy 450
+limit sell 61 211
+market buy 109
+market buy 470
+limit buy 64 416
+market sell 48
+limit sell 38 109
+market sell 344
+limit sell 47 468
+market buy 499
+market buy 212
+limit sell 76 107
+limit sell 72 29
+market buy 72
+limit sell 88 454
+limit buy 67 129
+limit buy 60 407
+limit sell 31 45
+market sell 366
+limit sell 23 278
+limit sell 67 104
+limit buy 56 230
+market sell 243
+market sell 140
+limit sell 98 103
+market sell 129
+market buy 462
+limit sell 60 173
+market buy 278
+limit buy 63 199
+market buy 102
+market buy 400
+limit buy 6 114
+limit sell 6 436
+market sell 400
+limit buy 32 119
+market buy 447
+market buy 124
+market sell 297
+limit buy 18 92
+limit buy 41 443
+market buy 494
+market buy 436
+market buy 378
+market buy 290
+market sell 266
+market buy 273
+market sell 25
+limit sell 98 292
+market buy 258
+market buy 305
+limit sell 20 388
+market buy 215
+limit buy 12 217
+limit sell 83 78
+limit buy 69 279
+limit sell 7 99
+limit buy 65 231
+limit sell 84 479
+market sell 18
+market sell 429
+limit sell 97 276
+market sell 12
+limit sell 86 262
+market sell 75
+market buy 14
+limit sell 33 255
+limit sell 16 239
+market buy 26
+market sell 77
+limit sell 32 417
+market sell 180
+market sell 41
+limit buy 95 436
+market buy 144
+market buy 390
+limit sell 96 149
+limit sell 13 264
+limit sell 11 170
+market buy 395
+market buy 153
+limit buy 46 333
+market buy 42
+limit sell 86 112
+limit sell 23 72
+market buy 61
+market sell 375
+limit sell 92 323
+limit buy 100 401
+market sell 334
+limit buy 53 138
+limit sell 63 109
+limit buy 76 260
+limit buy 25 451
+limit sell 85 48
+market buy 167
+limit buy 25 361
+limit buy 51 65
+limit buy 8 219
+market sell 84
+limit sell 34 462
+limit sell 15 470
+limit buy 52 486
+limit sell 93 406
+market buy 310
+market buy 326
+market buy 225
+limit buy 81 21
+limit sell 57 336
+market sell 152
+limit buy 59 74
+limit buy 47 430
+market buy 148
+limit sell 65 334
+limit buy 72 442
+market sell 315
+limit buy 96 30
+limit buy 65 55
+market sell 172
+limit buy 85 223
+limit buy 83 93
+limit buy 42 110
+limit sell 14 238
+market buy 284
+limit buy 20 227
+limit sell 72 345
+market buy 175
+market sell 137
+limit sell 95 291
+limit buy 28 59
+market buy 151
+market buy 132
+market sell 20
+limit buy 97 412
+limit sell 62 443
+market sell 249
+market sell 206
+limit sell 94 203
+limit buy 40 232
+limit buy 8 469
+limit sell 81 156
+limit buy 49 218
+market buy 139
+limit buy 29 55
+limit buy 47 60
+limit buy 5 27
+limit buy 10 348
+market sell 15
+market buy 31
+market buy 392
+market sell 354
+limit buy 32 478
+market buy 239
+market buy 247
+market sell 80
+limit buy 86 267
+limit sell 30 316
+limit buy 36 264
+market sell 18
+market sell 444
+limit buy 90 322
+limit buy 92 296
+market buy 135
+market sell 258
+market buy 302
+market buy 369
+market buy 478
+market buy 164
+limit sell 44 457
+limit sell 95 364
+market buy 328
+market buy 391
+limit buy 26 26
+limit buy 35 308
+limit buy 89 24
+market sell 182
+limit sell 42 229
+limit buy 77 303
+limit buy 67 401
+market buy 373
+market sell 181
+market buy 280
+limit buy 83 193
+limit sell 5 327
+market buy 111
+limit buy 76 409
+limit buy 37 407
+market sell 28
+market buy 381
+limit sell 27 301
+limit sell 8 346
+market buy 300
+limit sell 8 458
+market sell 469
+market sell 401
+market buy 378
+limit sell 90 181
+market sell 35
+market sell 175
+limit buy 66 245
+market sell 170
+limit sell 44 397
+limit buy 7 255
+market sell 367
+market sell 477
+limit buy 78 265
+limit sell 17 38
+market sell 348
+market buy 212
+limit sell 97 195
+market sell 73
+market sell 183
+market buy 134
+limit sell 76 451
+market buy 297
+market sell 168
+limit sell 87 233
+limit sell 24 288
+market buy 153
+limit sell 62 249
+limit sell 63 268
+limit buy 55 438
+market sell 85
+limit buy 28 366
+market sell 409
+market buy 110
+market sell 337
+market sell 487
+market buy 190
+limit sell 59 221
+limit sell 83 489
+limit buy 39 356
+market buy 416
+market sell 478
+limit buy 35 269
+limit buy 71 400
+market buy 486
+limit buy 60 20
+market buy 247
+market sell 449
+market buy 460
+limit buy 79 76
+market buy 360
+market sell 401
+limit sell 39 20
+limit buy 33 320
+market buy 195
+market sell 353
+limit sell 52 215
+limit sell 62 277
+limit buy 87 498
+limit sell 74 135
+market buy 75
+market sell 11
+market buy 483
+limit sell 74 395
+limit sell 7 305
+limit buy 63 195
+market sell 149
+market sell 348
+limit buy 26 313
+market sell 467
+market sell 413
+market sell 128
+market buy 138
+market buy 346
+limit sell 72 139
+limit buy 69 492
+market buy 78
+market buy 127
+market sell 485
+limit sell 72 350
+market buy 496
+limit sell 100 57
+market buy 59
+limit buy 49 205
+market sell 99
+limit sell 93 428
+limit buy 7 138
+market buy 182
+limit buy 87 62
+limit buy 91 226
+limit buy 34 202
+limit buy 81 79
+limit sell 72 35
+market sell 183
+limit sell 47 499
+market buy 312
+market buy 346
+limit buy 87 412
+limit buy 45 415
+market buy 417
+limit sell 33 400
+market sell 90
+market sell 112
+limit sell 35 378
+market sell 369
+market sell 304
+market buy 43
+market sell 171
+limit buy 36 186
+market sell 417
+market sell 385
+market buy 147
+market buy 98
+market sell 89
+market sell 239
+limit sell 79 318
+market sell 181
+market buy 307
+market sell 66
+market buy 326
+market sell 322
+market sell 11
+limit buy 80 321
+limit buy 39 283
+market buy 413
+limit sell 78 38
+limit sell 65 60
+limit sell 47 401
+market buy 66
+market buy 65
+market sell 19
+limit buy 58 80
+market sell 407
+limit sell 48 442
+market buy 440
+limit buy 14 314
+market sell 127
+limit buy 93 430
+limit sell 48 103
+market sell 234
+market buy 459
+market buy 62
+limit sell 39 79
+limit sell 13 180
+limit buy 38 434
+market buy 12
+market sell 292
+market sell 212
+limit sell 9 31
+limit sell 28 74
+market buy 235
+market buy 78
+market buy 203
+market sell 145
+limit sell 49 77
+market sell 476
+market buy 393
+market buy 337
+market buy 70
+limit buy 91 448
+market sell 30
+limit buy 81 126
+market buy 165
+limit sell 88 424
+limit buy 11 232
+limit sell 98 38
+market buy 147
+market buy 407
+limit sell 53 408
+limit buy 45 70
+limit sell 59 244
+limit buy 9 475
+limit buy 67 493
+market sell 330
+market buy 151
+limit sell 21 474
+market buy 62
+limit buy 59 374
+market buy 59
+limit sell 60 437
+limit sell 36 55
+market sell 375
+market sell 459
+market sell 371
+market sell 499
+market buy 20
+market buy 418
+limit buy 13 180
+market sell 295
+limit buy 60 253
+market buy 384
+limit sell 25 354
+limit buy 55 300
+market buy 354
+market buy 290
+market sell 128
+limit sell 32 393
+limit buy 67 340
+limit buy 93 376
+market buy 352
+limit sell 53 412
+limit buy 10 296
+limit buy 19 195
+market buy 177
+market sell 426
+limit buy 69 389
+market sell 355
+market buy 328
+limit sell 11 309
+market sell 89
+market buy 95
+limit sell 80 267
+market sell 315
+market buy 34
+limit buy 16 327
+market sell 219
+market buy 178
+limit sell 6 467
+limit sell 91 23
+market sell 157
+limit buy 20 485
+limit sell 93 439
+limit buy 56 219
+market buy 158
+market sell 192
+market sell 33
+market buy 365
+limit buy 10 307
+limit sell 33 424
+market buy 127
+market buy 303
+market buy 157
+market buy 257
+limit buy 89 74
+limit buy 99 93
+limit sell 78 50
+limit sell 29 290
+market sell 160
+limit buy 79 224
+limit buy 12 117
+market sell 487
+limit buy 78 485
+limit sell 26 384
+limit sell 43 144
+market buy 118
+market sell 469
+limit sell 58 242
+market sell 72
+market buy 365
+limit sell 52 15
+market buy 389
+limit buy 22 210
+market buy 361
+limit buy 25 441
+market buy 140
+limit buy 68 271
+limit buy 71 15
+limit buy 51 485
+market buy 113
+market sell 315
+market buy 425
+market buy 318
+market sell 341
+limit sell 42 478
+market sell 270
+limit sell 5 47
+market sell 256
+market sell 104
+limit sell 95 272
+limit buy 54 338
+market sell 485
+market buy 226
+market sell 266
+market sell 343
+limit buy 67 102
+limit sell 53 87
+limit sell 61 446
+limit sell 76 291
+limit buy 73 469
+market sell 186
+market sell 153
+limit buy 54 261
+limit buy 84 458
+market sell 366
+limit buy 64 341
+limit sell 63 226
+limit sell 37 290
+limit sell 40 373
+limit buy 9 185
+market sell 280
+limit sell 85 78
+market sell 290
+market buy 434
+market sell 460
+limit sell 98 67
+limit buy 49 312
+limit sell 88 306
+market buy 278
+market buy 445
+limit sell 79 21
+market sell 67
+market sell 83
+market buy 275
+limit sell 94 13
+market buy 436
+limit buy 87 75
+limit sell 89 240
+limit sell 67 303
+limit buy 88 267
+limit sell 71 199
+limit sell 53 298
+market buy 193
+limit buy 33 209
+market buy 298
+limit sell 57 86
+market sell 82
+limit sell 57 482
+market buy 196
+market buy 475
+market buy 36
+market buy 352
+market sell 83
+market sell 267
+limit sell 22 333
+market sell 289
+market buy 390
+market sell 72
+limit buy 19 166
+limit buy 54 210
+market sell 483
+market sell 24
+market buy 449
+limit buy 43 223
+limit sell 51 411
+market buy 333
+market buy 367
+market sell 430
+limit sell 92 124
+market buy 381
+market sell 39
+market buy 115
+market sell 445
+market sell 394
+market buy 492
+market buy 316
+limit buy 8 180
+market buy 103
+limit buy 17 310
+market buy 152
+market sell 479
+limit sell 6 209
+limit sell 15 344
+market sell 211
+market buy 258
+limit buy 57 64
+limit sell 79 116
+market buy 122
+market sell 459
+limit buy 15 225
+market buy 286
+market buy 46
+market sell 190
+market sell 77
+limit buy 80 272
+limit buy 91 190
+market buy 382
+limit buy 51 307
+market buy 259
+market buy 78
+market sell 210
+market buy 88
+limit sell 88 88
+limit buy 75 427
+market buy 354
+market buy 224
+limit sell 17 11
+limit sell 16 183
+limit sell 8 307
+limit buy 24 334
+limit buy 46 96
+limit sell 82 440
+limit sell 21 298
+market buy 430
+limit buy 25 271
+market buy 107
+market buy 434
+limit sell 18 21
+limit buy 12 202
+market sell 38
+limit buy 93 300
+limit sell 25 232
+limit buy 99 114
+market buy 203
+limit buy 11 15
+market sell 76
+limit buy 13 302
+limit sell 66 464
+market buy 107
+limit sell 10 386
+market buy 133
+market buy 263
+limit buy 85 172
+market buy 342
+limit sell 33 196
+market buy 285
+market sell 96
+limit sell 43 349
+limit buy 28 204
+market buy 211
+limit buy 66 370
+limit buy 50 477
+market buy 393
+limit sell 44 268
+limit buy 14 401
+market sell 459
+limit buy 47 428
+limit sell 96 476
+market buy 479
+market sell 192
+limit buy 72 454
+market sell 165
+market buy 269
+market buy 238
+market sell 86
+limit buy 37 457
+limit buy 37 86
+market buy 352
+limit sell 51 129
+limit sell 94 367
+market sell 301
+market sell 405
+market buy 50
+limit buy 37 392
+limit sell 26 459
+limit sell 60 97
+market sell 24
+limit sell 79 89
+limit buy 31 161
+limit sell 28 320
+market buy 84
+market sell 414
+market buy 185
+market buy 461
+market buy 31
+limit sell 52 279
+market buy 40
+market sell 220
+market sell 146
+limit buy 33 264
+market sell 183
+market buy 486
+limit sell 71 220
+limit sell 89 348
+market sell 106
+market buy 19
+market sell 47
+market sell 383
+limit sell 74 34
+limit buy 71 79
+limit buy 61 484
+limit sell 94 328
+market sell 418
+market sell 446
+limit buy 95 144
+limit sell 50 31
+limit sell 81 334
+market buy 372
+market buy 473
+limit sell 62 436
+market buy 479
+limit sell 42 153
+limit sell 47 32
+market sell 408
+limit buy 61 152
+limit sell 49 444
+market sell 364
+market buy 338
+market sell 105
+market buy 395
+market sell 358
+market sell 30
+limit sell 17 180
+limit sell 9 20
+limit sell 85 436
+limit buy 12 175
+market buy 339
+limit buy 48 132
+limit buy 84 241
+market buy 334
+market buy 298
+market buy 429
+limit sell 85 422
+market sell 227
+limit buy 98 110
+market buy 88
+limit buy 9 321
+limit sell 44 432
+limit sell 32 98
+limit buy 33 73
+market sell 179
+limit sell 73 298
+market sell 424
+market buy 47
+market buy 17
+market sell 344
+market sell 272
+market buy 267
+limit sell 76 380
+market sell 127
+limit sell 78 442
+market buy 481
+market sell 372
+limit buy 91 330
+limit buy 89 482
+limit buy 57 41
+limit buy 73 103
+limit buy 67 425
+market sell 416
+market sell 236
+limit sell 40 382
+limit sell 69 206
+market sell 273
+market sell 353
+market sell 160
+limit buy 19 314
+market buy 301
+limit buy 50 470
+limit buy 26 13
+market sell 97
+limit sell 30 255
+market sell 156
+limit buy 75 427
+market sell 51
+limit buy 95 493
+limit sell 44 34
+market sell 149
+market sell 221
+limit buy 79 216
+limit sell 41 271
+market sell 386
+limit sell 68 145
+market buy 255
+market buy 174
+market buy 418
+market buy 374
+limit sell 83 337
+limit buy 75 411
+limit sell 9 392
+market buy 53
+market sell 278
+limit sell 73 31
+market sell 53
+market buy 307
+market buy 383
+limit sell 7 56
+limit buy 55 151
+market buy 198
+market buy 64
+limit buy 87 466
+limit sell 58 322
+market buy 447
+market buy 193
+market buy 212
+limit buy 38 179
+limit buy 43 423
+limit sell 76 231
+market buy 346
+limit buy 62 490
+market buy 358
+limit sell 53 59
+limit buy 63 415
+limit sell 19 186
+market sell 336
+market sell 302
+market sell 26
+limit buy 19 296
+limit buy 6 449
+market sell 75
+market buy 311
+market sell 146
+limit buy 77 322
+limit sell 78 218
+limit sell 99 111
+market sell 375
+market sell 135
+limit buy 17 176
+market buy 317
+market sell 356
+market sell 353
+limit sell 74 65
+limit buy 26 79
+limit sell 80 79
+market sell 320
+limit sell 65 30
+market sell 147
+limit buy 14 209
+limit buy 8 204
+limit sell 89 168
+market buy 485
+limit buy 96 120
+market buy 112
+market sell 50
+market buy 98
+limit buy 19 80
+limit buy 69 469
+limit buy 32 100
+market sell 417
+limit sell 12 245
+market sell 100
+limit buy 16 128
+limit buy 10 212
+market sell 41
+market buy 452
+limit sell 18 229
+limit buy 71 130
+market sell 124
+limit buy 59 387
+limit sell 42 22
+market sell 322
+limit buy 79 364
+limit buy 96 72
+limit buy 27 180
+limit buy 62 289
+market sell 187
+market sell 36
+market sell 422
+market buy 174
+limit buy 74 352
+market buy 333
+limit sell 78 443
+limit sell 29 401
+limit sell 83 310
+market buy 145
+market buy 19
+limit buy 51 378
+limit sell 12 475
+market buy 337
+market buy 299
+market buy 161
+market sell 160
+limit sell 71 188
+limit sell 9 176
+market buy 329
+market sell 239
+limit buy 66 335
+market buy 486
+limit sell 17 431
+limit buy 83 468
+limit sell 14 491
+market buy 290
+market sell 450
+limit sell 66 303
+market buy 207
+market buy 272
+market sell 32
+market sell 254
+limit sell 10 161
+limit sell 6 157
+limit sell 18 422
+limit buy 47 355
+market sell 431
+limit buy 19 451
+market buy 98
+market buy 73
+limit buy 91 42
+limit sell 71 493
+limit sell 90 62
+limit buy 25 66
+limit sell 47 150
+market buy 125
+limit sell 74 21
+market buy 176
+limit sell 48 38
+market buy 244
+market sell 166
+market buy 110
+limit sell 55 171
+market sell 127
+limit buy 67 419
+market sell 499
+market buy 95
+limit sell 74 420
+market buy 160
+market sell 262
+market buy 414
+limit buy 56 467
+market sell 233
+market sell 183
+market buy 173
+market sell 423
+market sell 153
+limit buy 55 493
+limit sell 23 396
+limit buy 91 480
+limit sell 9 236
+limit buy 40 483
+limit sell 97 368
+limit buy 12 276
+limit sell 39 369
+market sell 481
+market buy 237
+limit sell 98 417
+limit buy 83 475
+limit buy 75 284
+market buy 251
+limit buy 37 241
+limit sell 23 48
+market buy 350
+market buy 294
+limit buy 87 25
+market sell 297
+market sell 141
+limit sell 18 83
+market sell 202
+market sell 440
+market buy 226
+market buy 96
+limit sell 46 255
+market sell 385
+limit sell 65 20
+limit sell 82 176
+market sell 291
+market sell 148
+limit sell 52 480
+market buy 240
+limit sell 5 380
+limit buy 61 242
+market sell 437
+market sell 331
+limit sell 67 107
+market sell 130
+market buy 479
+limit buy 59 87
+market sell 398
+market sell 369
+market sell 352
+limit sell 9 86
+limit buy 77 198
+limit buy 10 185
+limit sell 77 66
+limit buy 43 23
+limit buy 31 221
+limit buy 47 301
+limit sell 67 47
+market sell 333
+market sell 371
+limit buy 71 353
+market buy 29
+market sell 18
+limit sell 95 37
+limit sell 58 298
+limit sell 61 59
+limit sell 99 464
+market sell 436
+market buy 203
+market buy 422
+market sell 172
+market sell 65
+market sell 455
+limit sell 81 271
+limit sell 83 49
+market buy 50
+limit buy 8 404
+market buy 201
+market sell 146
+market sell 158
+market buy 451
+limit sell 68 327
+market sell 307
+limit sell 42 18
+limit sell 6 462
+limit sell 100 307
+market buy 65
+limit buy 66 93
+limit sell 46 424
+limit buy 24 89
+market buy 191
+market sell 174
+market sell 291
+market buy 133
+market sell 469
+limit buy 30 271
+limit sell 12 180
+limit buy 64 108
+market buy 195
+limit buy 62 169
+limit sell 21 305
+limit sell 74 409
+market buy 374
+market sell 443
+market buy 215
+market sell 480
+market buy 107
+limit buy 5 299
+limit buy 12 471
+limit buy 10 40
+limit buy 18 462
+market sell 262
+market buy 489
+market sell 360
+market buy 10
+market sell 379
+market buy 129
+limit sell 74 107
+market buy 375
+limit buy 74 164
+market sell 33
+limit buy 72 80
+market buy 385
+market buy 67
+limit buy 24 375
+limit buy 69 491
+market sell 165
+limit sell 8 293
+market sell 50
+limit buy 99 486
+limit sell 66 167
+limit sell 5 399
+limit buy 96 129
+limit sell 98 66
+market sell 253
+market sell 247
+market buy 430
+limit buy 66 213
+limit sell 37 122
+limit sell 44 216
+limit buy 78 445
+market buy 67
+market sell 26
+market buy 267
+limit buy 88 327
+limit buy 60 173
+limit sell 52 398
+market buy 475
+limit sell 82 397
+market sell 32
+limit buy 60 319
+limit buy 39 256
+limit buy 53 183
+limit buy 69 295
+market buy 213
+market sell 362
+market buy 133
+limit sell 65 284
+limit buy 87 360
+limit sell 19 440
+limit buy 70 362
+market buy 237
+limit buy 42 102
+market buy 397
+limit buy 30 350
+market sell 448
+market sell 369
+limit buy 45 266
+market buy 479
+limit buy 19 471
+limit buy 70 136
+limit buy 80 476
+market buy 104
+limit buy 52 129
+limit buy 49 333
+limit buy 36 391
+limit sell 45 46
+market buy 199
+market buy 317
+limit sell 8 185
+market buy 303
+limit sell 10 489
+market buy 426
+limit buy 72 11
+market sell 295
+limit sell 66 98
+limit sell 19 232
+limit buy 42 18
+limit sell 77 87
+limit sell 94 205
+market buy 374
+market sell 455
+limit buy 44 319
+limit sell 94 306
+market buy 402
+market buy 175
+limit sell 63 472
+market buy 350
+limit buy 93 227
+market buy 396
+market sell 458
+market buy 155
+market buy 298
+market buy 475
+limit sell 48 190
+limit buy 79 14
+market buy 365
+market sell 106
+limit sell 47 187
+market sell 314
+market sell 150
+limit sell 47 112
+market sell 283
+market sell 367
+market sell 473
+limit buy 98 386
+limit sell 29 460
+market buy 431
+limit sell 31 63
+limit buy 50 360
+limit buy 42 316
+market buy 151
+market buy 363
+market buy 211
+limit buy 34 359
+limit buy 62 371
+limit sell 9 349
+limit sell 15 499
+limit buy 40 294
+limit buy 83 48
+market sell 328
+market buy 186
+market buy 433
+market sell 59
+limit buy 17 486
+limit sell 86 338
+limit buy 88 304
+market buy 457
+market buy 112
+market buy 104
+limit sell 9 371
+market sell 399
+limit buy 33 264
+limit buy 51 90
+limit sell 72 205
+limit buy 85 242
+limit sell 24 256
+limit buy 66 366
+limit sell 62 151
+market sell 356
+limit buy 11 330
+limit sell 91 416
+market buy 28
+limit buy 42 252
+limit sell 28 296
+limit buy 8 258
+limit sell 20 401
+market sell 52
+market sell 41
+market buy 278
+market sell 154
+market buy 441
+market sell 442
+market sell 357
+limit buy 30 81
+market sell 325
+limit buy 75 178
+limit buy 11 258
+limit sell 36 94
+limit buy 52 276
+limit sell 50 375
+market buy 115
+market sell 87
+limit sell 6 35
+market buy 179
+limit buy 82 356
+market buy 163
+limit sell 99 118
+market buy 208
+market sell 76
+market sell 476
+limit sell 11 469
+limit sell 69 19
+market buy 223
+market buy 364
+market buy 295
+limit sell 33 71
+market sell 89
+limit sell 40 80
+limit buy 96 352
+limit buy 82 195
+market sell 320
+limit buy 50 47
+market sell 357
+market sell 150
+market buy 129
+market sell 184
+limit sell 71 424
+limit sell 84 191
+market sell 102
+market buy 186
+market buy 364
+market buy 162
+market sell 427
+limit sell 60 189
+market buy 377
+market buy 196
+limit buy 49 155
+market sell 493
+limit sell 8 34
+limit buy 92 271
+market buy 395
+limit buy 74 370
+limit sell 77 468
+market buy 281
+limit buy 52 299
+limit sell 49 182
+limit buy 49 91
+market sell 19
+market sell 221
+market buy 119
+market buy 40
+market buy 43
+limit buy 68 153
+market buy 183
+market sell 167
+limit buy 83 191
+limit sell 47 22
+limit sell 14 202
+limit sell 86 263
+market buy 431
+market buy 237
+limit buy 12 56
+limit buy 79 64
+market sell 44
+market sell 46
+market buy 77
+market buy 172
+market sell 289
+limit sell 94 208
+market buy 450
+limit buy 59 269
+limit sell 98 482
+market buy 318
+market sell 175
+limit sell 48 102
+limit buy 25 496
+market buy 296
+limit buy 77 18
+limit sell 58 440
+limit sell 15 381
+market sell 80
+limit sell 86 385
+market sell 85
+limit sell 91 141
+limit sell 15 110
+limit sell 64 428
+limit buy 47 335
+limit sell 43 103
+limit buy 38 121
+market sell 49
+market sell 215
+market sell 173
+market sell 467
+limit buy 29 71
+market buy 457
+market sell 331
+market sell 188
+market buy 417
+market buy 406
+limit sell 24 432
+limit sell 69 158
+market buy 43
+limit buy 80 285
+market sell 385
+market buy 72
+limit sell 82 303
+limit sell 42 140
+limit sell 79 181
+market sell 344
+market buy 294
+limit buy 85 335
+market buy 428
+market buy 247
+market buy 433
+market sell 161
+limit sell 27 263
+limit buy 42 482
+market sell 115
+limit sell 28 419
+limit sell 26 239
+limit sell 44 117
+limit buy 63 177
+market sell 415
+market sell 135
+market sell 21
+limit buy 21 113
+market buy 135
+market buy 302
+limit buy 73 319
+limit sell 17 16
+limit sell 20 273
+market sell 236
+limit sell 33 19
+limit buy 56 279
+limit buy 56 207
+limit sell 50 419
+limit sell 54 454
+limit buy 20 35
+limit sell 68 311
+market buy 193
+limit buy 62 116
+market buy 100
+market sell 113
+limit buy 7 279
+limit sell 65 149
+limit buy 14 443
+limit buy 24 478
+market sell 392
+limit sell 69 165
+market buy 262
+market sell 440
+limit buy 54 170
+market sell 44
+limit buy 69 484
+limit sell 69 492
+limit sell 99 250
+limit sell 48 91
+limit sell 80 219
+market sell 14
+limit buy 21 57
+limit sell 80 67
+limit sell 36 421
+market buy 414
+limit sell 18 471
+market sell 10
+market sell 442
+market buy 473
+market sell 412
+limit sell 78 219
+limit sell 69 14
+limit buy 23 133
+market buy 93
+market sell 426
+market buy 281
+market buy 484
+limit buy 45 491
+market buy 103
+limit sell 8 110
+limit sell 5 212
+limit buy 27 150
+limit buy 87 169
+market buy 346
+limit sell 32 153
+market sell 185
+market sell 172
+limit buy 22 361
+limit sell 46 278
+limit sell 52 409
+limit sell 48 384
+market buy 407
+market buy 496
+market buy 70
+limit sell 16 83
+market buy 134
+limit sell 61 28
+market sell 94
+limit buy 64 195
+limit sell 47 112
+limit buy 72 432
+market buy 297
+market sell 177
+limit sell 49 399
+market sell 131
+limit sell 100 471
+market buy 389
+limit sell 41 373
+market buy 133
+limit buy 78 253
+limit sell 64 457
+limit buy 47 49
+market buy 489
+market sell 175
+market sell 80
+market sell 92
+limit sell 27 302
+limit sell 54 341
+limit sell 33 315
+market buy 211
+limit sell 100 70
+market sell 11
+market buy 268
+limit buy 41 404
+limit buy 20 460
+market sell 455
+limit buy 97 397
+market buy 497
+market sell 94
+limit buy 14 33
+market sell 155
+limit sell 43 211
+limit sell 30 60
+limit buy 95 371
+limit sell 23 410
+limit buy 55 491
+market buy 129
+limit buy 16 12
+limit sell 77 37
+market buy 31
+market buy 77
+market sell 359
+limit sell 94 115
+limit sell 42 47
+limit sell 43 333
+market buy 79
+market buy 112
+market sell 172
+limit sell 67 92
+limit sell 30 106
+limit sell 15 336
+market buy 14
+market sell 221
+limit buy 30 26
+market sell 454
+limit buy 13 254
+limit buy 23 282
+limit sell 88 394
+market sell 269
+limit sell 49 169
+limit sell 95 231
+market buy 324
+market buy 66
+market sell 187
+limit sell 12 49
+limit buy 5 106
+market buy 397
+market sell 165
+market sell 270
+market sell 34
+market buy 188
+limit sell 18 281
+market sell 317
+market buy 476
+limit sell 93 95
+market sell 10
+limit sell 78 115
+limit sell 94 42
+market buy 342
+limit buy 74 314
+market buy 478
+market sell 432
+limit buy 24 120
+market sell 268
+limit buy 55 32
+limit sell 36 211
+market buy 388
+limit sell 43 278
+limit sell 25 63
+limit sell 7 231
+limit buy 20 194
+limit sell 68 243
+limit sell 39 134
+market buy 141
+market sell 12
+limit sell 22 289
+market buy 27
+limit sell 7 117
+limit sell 77 486
+market sell 422
+limit buy 30 344
+market sell 152
+market buy 286
+limit sell 57 465
+market buy 288
+market sell 302
+market buy 204
+limit sell 35 498
+market buy 179
+limit buy 89 333
+limit buy 87 144
+limit sell 73 289
+market buy 433
+market sell 149
+market buy 233
+limit sell 23 14
+market sell 412
+limit sell 43 447
+market sell 317
+limit buy 50 386
+market buy 11
+limit buy 75 457
+limit buy 96 228
+limit buy 5 369
+limit buy 91 42
+market sell 412
+market buy 176
+limit sell 80 130
+market buy 65
+market sell 379
+limit buy 16 37
+market sell 456
+limit sell 16 121
+limit buy 62 465
+limit sell 8 374
+market buy 217
+market sell 147
+market sell 253
+market sell 437
+market buy 184
+limit sell 14 155
+limit buy 49 269
+limit sell 46 398
+limit buy 83 477
+limit sell 35 120
+market sell 420
+market sell 223
+limit sell 7 312
+market sell 375
+limit sell 50 215
+market sell 492
+market sell 144
+limit buy 50 168
+limit sell 49 335
+market buy 326
+limit sell 48 221
+limit buy 36 60
+market buy 421
+market sell 239
+market sell 163
+market buy 107
+market sell 497
+limit buy 73 293
+limit sell 75 363
+limit sell 43 394
+market sell 254
+limit buy 54 82
+market sell 111
+market buy 86
+limit sell 35 363
+limit buy 90 382
+market buy 281
+limit sell 92 401
+market sell 477
+market sell 264
+limit buy 93 97
+limit sell 7 141
+limit sell 100 24
+market sell 155
+limit buy 94 48
+limit buy 57 92
+market sell 439
+market sell 12
+market buy 435
+market sell 453
+limit buy 73 467
+limit sell 5 26
+market sell 58
+limit sell 37 490
+market sell 475
+market buy 231
+limit buy 50 270
+limit sell 98 11
+market buy 200
+market buy 216
+limit buy 52 382
+limit buy 32 271
+market sell 62
+limit sell 10 105
+market buy 132
+market buy 121
+market buy 37
+market sell 80
+market buy 339
+market sell 96
+market buy 405
+market sell 489
+market sell 94
+limit sell 77 253
+market sell 16
+market buy 132
+market buy 103
+limit sell 7 398
+market buy 191
+market buy 232
+limit sell 8 219
+market buy 70
+limit buy 58 12
+limit sell 48 120
+market sell 142
+limit sell 29 242
+limit buy 48 498
+limit sell 36 161
+market sell 352
+limit sell 28 234
+limit buy 54 207
+market sell 179
+market buy 92
+limit buy 19 30
+limit sell 45 445
+limit sell 59 338
+limit buy 35 447
+market buy 33
+market buy 364
+limit buy 73 182
+market buy 253
+limit sell 74 461
+limit buy 51 494
+market sell 176
+market sell 193
+limit buy 54 246
+limit buy 22 44
+limit buy 15 12
+market buy 408
+limit sell 86 46
+limit sell 56 144
+market sell 223
+limit sell 52 66
+market sell 425
+limit sell 49 364
+limit sell 72 29
+market sell 454
+market sell 403
+limit buy 14 239
+market buy 397
+market buy 129
+limit sell 20 178
+market sell 485
+limit sell 82 451
+limit sell 57 176
+limit buy 58 212
+market sell 99
+limit buy 37 40
+market sell 355
+limit sell 42 293
+market sell 24
+market buy 133
+limit buy 19 290
+market sell 216
+limit sell 12 364
+market buy 468
+limit sell 58 247
+limit buy 97 194
+limit buy 88 91
+limit buy 69 258
+limit buy 13 255
+limit sell 39 322
+market sell 340
+limit sell 35 236
+limit sell 91 209
+limit buy 13 228
+market sell 53
+limit sell 85 307
+limit buy 78 148
+limit buy 7 54
+limit sell 68 409
+market buy 106
+limit buy 75 118
+market buy 328
+limit sell 50 377
+market sell 97
+market sell 439
+market buy 444
+market buy 155
+market buy 472
+limit sell 76 156
+limit buy 32 349
+market buy 87
+market buy 234
+market buy 114
+market sell 287
+market buy 418
+market buy 17
+market sell 348
+market sell 428
+limit sell 62 136
+limit sell 56 441
+limit buy 6 42
+limit sell 61 340
+limit sell 31 126
+limit buy 66 425
+limit sell 37 232
+market buy 157
+limit sell 98 381
+market sell 43
+limit sell 44 153
+market sell 281
+market buy 447
+market buy 478
+limit buy 27 93
+market buy 103
+market buy 275
+market buy 471
+market buy 47
+limit buy 63 112
+market buy 289
+limit sell 45 421
+market buy 395
+limit buy 54 421
+limit sell 40 411
+limit sell 58 191
+limit sell 62 237
+market buy 189
+limit buy 76 358
+limit sell 91 322
+limit buy 11 82
+market buy 70
+market buy 212
+limit sell 40 94
+limit sell 22 220
+market buy 290
+limit sell 71 306
+limit sell 79 131
+market buy 105
+market sell 339
+limit sell 10 86
+limit buy 55 370
+limit sell 75 413
+market sell 264
+market sell 41
+market buy 402
+limit buy 26 135
+limit sell 29 123
+limit buy 12 220
+limit buy 60 442
+market buy 251
+limit sell 19 423
+limit buy 75 280
+market buy 310
+market buy 57
+limit sell 95 490
+limit buy 89 270
+limit sell 38 444
+limit sell 52 120
+market sell 334
+limit sell 81 454
+limit sell 70 360
+limit buy 9 439
+limit buy 16 410
+market sell 15
+limit sell 73 297
+market buy 379
+limit sell 92 404
+market sell 171
+market sell 315
+market buy 49
+limit buy 9 193
+limit sell 76 476
+limit buy 66 391
+limit sell 89 435
+limit buy 30 214
+limit sell 14 57
+market buy 205
+limit buy 98 288
+limit sell 66 290
+limit buy 68 491
+market buy 488
+limit buy 14 339
+limit sell 76 316
+market sell 423
+limit buy 74 202
+limit sell 73 131
+limit sell 95 163
+market buy 232
+market buy 72
+limit buy 58 467
+limit buy 61 125
+market sell 279
+market sell 187
+limit sell 89 464
+limit sell 64 38
+market buy 120
+limit buy 73 45
+limit sell 36 279
+limit buy 32 457
+market buy 415
+limit sell 94 113
+limit buy 34 150
+market sell 357
+market sell 354
+limit sell 54 183
+limit buy 57 28
+market sell 84
+limit buy 58 135
+market sell 296
+limit buy 47 355
+market sell 395
+limit sell 84 83
+market buy 389
+market buy 409
+limit sell 64 299
+market buy 329
+limit sell 79 176
+market sell 199
+limit buy 82 349
+limit sell 33 325
+limit buy 31 179
+market buy 112
+market sell 47
+market buy 153
+limit sell 22 66
+limit buy 57 209
+limit buy 50 120
+market sell 133
+limit buy 32 53
+market buy 218
+market sell 352
+market buy 350
+market sell 300
+limit buy 20 249
+limit sell 28 101
+market sell 255
+market sell 429
+limit buy 19 20
+market sell 410
+limit buy 66 358
+limit buy 8 213
+limit buy 82 289
+market buy 185
+market sell 383
+market buy 409
+limit sell 65 58
+limit buy 46 443
+market sell 121
+market sell 25
+market sell 357
+limit sell 91 402
+market buy 375
+limit buy 5 473
+limit sell 33 313
+limit sell 87 194
+limit sell 86 481
+limit sell 98 129
+market buy 367
+market buy 365
+market buy 112
+market sell 23
+market buy 83
+market buy 312
+market buy 150
+limit buy 82 109
+limit sell 94 316
+market buy 438
+limit buy 71 135
+market sell 424
+market sell 188
+limit buy 89 56
+limit sell 80 440
+market buy 157
+market buy 68
+limit buy 12 329
+limit sell 9 261
+limit sell 8 383
+market sell 316
+limit buy 98 275
+market sell 156
+market sell 168
+limit buy 8 323
+market sell 330
+market sell 456
+market sell 187
+market buy 388
+market buy 25
+limit sell 67 54
+limit buy 33 476
+limit sell 33 261
+limit buy 97 474
+market buy 400
+limit buy 95 129
+limit sell 92 308
+market buy 13
+market sell 349
+limit buy 60 348
+limit sell 73 106
+limit buy 24 479
+limit buy 67 458
+limit sell 8 92
+market sell 433
+market sell 277
+market buy 446
+market sell 402
+limit buy 74 263
+limit buy 29 364
+market buy 447
+limit sell 9 38
+limit buy 94 295
+limit sell 53 94
+market sell 21
+market sell 294
+market buy 406
+limit sell 49 296
+limit buy 51 466
+limit sell 52 106
+market sell 57
+limit sell 67 269
+market sell 386
+market sell 389
+market sell 233
+limit sell 90 179
+limit sell 59 331
+market sell 427
+limit buy 11 207
+market sell 360
+market buy 128
+limit sell 40 250
+market sell 233
+market sell 203
+limit sell 26 250
+limit sell 55 350
+market buy 146
+market buy 156
+market sell 210
+limit buy 70 261
+limit sell 60 228
+limit buy 100 77
+limit buy 23 465
+market buy 92
+limit sell 61 160
+limit buy 17 429
+market sell 20
+limit buy 59 58
+limit buy 61 329
+limit sell 63 34
+market buy 401
+market buy 347
+limit buy 56 441
+limit sell 34 113
+market sell 322
+market buy 91
+limit buy 11 83
+market sell 493
+market buy 232
+market buy 303
+market buy 490
+market sell 232
+market sell 446
+limit buy 90 370
+limit buy 77 469
+limit sell 55 359
+limit sell 43 335
+limit sell 33 326
+limit sell 7 102
+market buy 57
+market sell 356
+market buy 201
+limit sell 38 464
+limit sell 79 72
+limit sell 83 398
+limit sell 23 322
+limit buy 56 67
+market buy 483
+market sell 100
+market sell 128
+limit sell 19 133
+limit sell 50 264
+limit buy 98 179
+market sell 239
+limit sell 98 415
+limit sell 8 22
+market buy 157
+market buy 145
+market sell 322
+limit buy 16 155
+limit sell 94 257
+limit buy 84 73
+market buy 490
+limit buy 93 334
+limit buy 38 25
+market buy 380
+limit buy 73 327
+limit buy 84 108
+limit buy 30 173
+limit buy 8 427
+limit sell 96 175
+market buy 335
+market sell 359
+market sell 41
+market sell 386
+market sell 359
+market buy 210
+limit buy 36 441
+market buy 464
+market buy 467
+limit buy 5 161
+market buy 429
+limit buy 25 46
+limit buy 22 245
+limit buy 21 21
+limit sell 91 403
+limit buy 30 136
+limit buy 40 383
+limit sell 34 309
+limit sell 17 458
+market sell 251
+market sell 437
+market sell 204
+market sell 436
+limit sell 48 172
+market sell 189
+limit buy 99 172
+limit sell 68 125
+limit sell 68 81
+market sell 49
+limit sell 49 468
+market buy 316
+limit buy 100 145
+limit sell 45 337
+market sell 482
+limit sell 19 113
+market sell 152
+market buy 278
+market sell 245
+market sell 130
+limit buy 69 220
+limit buy 44 494
+market buy 161
+market sell 211
+market buy 285
+market buy 194
+limit sell 87 72
+market buy 445
+limit buy 5 366
+market buy 368
+limit buy 98 385
+market sell 395
+limit buy 12 378
+limit buy 30 452
+limit buy 98 330
+limit sell 46 13
+market buy 114
+market buy 382
+limit buy 37 22
+limit sell 86 89
+limit buy 66 293
+market buy 353
+limit sell 19 256
+market buy 347
+market sell 485
+market sell 102
+limit buy 48 149
+limit buy 28 425
+limit sell 16 249
+market sell 272
+market buy 121
+market sell 202
+limit sell 44 291
+limit sell 49 292
+limit buy 71 40
+market sell 301
+market sell 147
+market buy 401
+market sell 102
+limit buy 100 27
+market buy 69
+limit buy 60 378
+market sell 255
+limit buy 30 165
+limit sell 25 237
+market buy 210
+limit buy 83 472
+market sell 228
+limit buy 46 469
+limit sell 41 337
+market sell 382
+limit sell 47 312
+limit sell 20 331
+market sell 51
+limit sell 15 97
+market sell 294
+market sell 143
+limit buy 63 132
+limit sell 50 487
+limit sell 17 451
+market buy 266
+limit buy 6 213
+market sell 425
+market buy 26
+limit sell 11 124
+limit buy 63 143
+market buy 122
+market buy 132
+market buy 80
+market buy 221
+limit sell 59 149
+limit buy 36 257
+market buy 432
+market sell 43
+limit sell 37 360
+market buy 454
+market sell 372
+market sell 359
+market sell 173
+market sell 192
+market buy 293
+limit buy 75 211
+limit sell 94 14
+market buy 451
+market buy 33
+limit buy 57 305
+market buy 269
+limit buy 37 239
+limit buy 26 378
+limit buy 82 378
+market sell 395
+limit sell 30 429
+market buy 442
+market buy 494
+market sell 437
+market sell 387
+market buy 253
+market sell 451
+limit buy 66 33
+limit buy 76 92
+market sell 312
+market sell 400
+market buy 211
+limit sell 99 449
+market sell 133
+market buy 109
+market buy 204
+market buy 403
+limit buy 87 155
+limit sell 54 418
+market sell 38
+market sell 322
+market buy 402
+market buy 61
+market sell 196
+limit buy 23 481
+market sell 116
+market sell 414
+limit buy 18 274
+limit sell 70 112
+market sell 240
+limit sell 87 277
+market buy 40
+market sell 260
+market buy 324
+limit buy 19 54
+limit sell 49 234
+limit buy 100 183
+limit sell 11 481
+limit sell 94 168
+limit buy 56 95
+limit buy 34 476
+market sell 166
+limit buy 92 324
+market buy 452
+limit buy 79 81
+limit sell 70 256
+market buy 383
+limit sell 46 457
+market sell 36
+market buy 469
+limit sell 79 27
+market sell 468
+limit buy 79 376
+market buy 147
+limit buy 92 378
+market buy 37
+market sell 414
+market buy 421
+market buy 343
+limit buy 19 470
+market buy 205
+limit buy 40 300
+limit buy 6 401
+market buy 121
+market buy 427
+limit sell 64 168
+market buy 366
+market sell 27
+market buy 212
+limit sell 35 33
+market buy 168
+limit buy 65 90
+market buy 263
+market buy 12
+limit sell 55 181
+limit buy 41 152
+market sell 179
+limit sell 66 407
+market sell 284
+limit buy 66 324
+limit buy 70 383
+market buy 440
+market buy 499
+limit buy 31 402
+limit sell 85 402
+market sell 374
+limit buy 22 475
+limit buy 81 371
+market sell 370
+limit sell 34 352
+market buy 358
+market buy 451
+market buy 392
+limit buy 35 342
+limit buy 39 224
+limit sell 78 495
+market sell 215
+limit buy 94 185
+market buy 44
+limit sell 90 77
+market sell 12
+limit sell 89 122
+limit buy 51 454
+limit buy 19 131
+market buy 191
+limit buy 39 102
+market sell 53
+market sell 449
+limit sell 10 87
+limit buy 5 330
+limit sell 58 278
+market buy 160
+market sell 447
+market sell 486
+limit sell 6 487
+limit sell 87 263
+market sell 449
+limit buy 89 191
+market buy 224
+limit buy 44 73
+market sell 147
+limit sell 64 350
+limit buy 70 196
+limit sell 6 54
+market sell 48
+limit buy 52 325
+limit sell 33 297
+limit sell 61 230
+limit buy 96 386
+limit sell 94 92
+market buy 468
+limit sell 35 66
+market buy 438
+limit buy 96 385
+limit sell 35 63
+limit sell 30 243
+market sell 115
+limit sell 45 445
+market buy 34
+limit sell 99 208
+limit sell 24 397
+market buy 204
+limit sell 63 445
+market sell 120
+market sell 214
+limit buy 41 272
+limit sell 63 327
+limit sell 68 423
+market sell 14
+market buy 35
+market sell 113
+market sell 87
+limit sell 76 27
+market sell 249
+limit buy 11 359
+limit buy 45 493
+limit sell 41 308
+market sell 410
+limit sell 35 255
+market sell 267
+market buy 499
+limit sell 99 286
+limit buy 16 384
+limit sell 34 413
+market buy 308
+market sell 497
+limit buy 35 248
+limit sell 41 351
+limit sell 28 220
+limit buy 59 179
+limit sell 47 251
+limit sell 84 53
+market sell 356
+limit sell 34 227
+limit sell 48 434
+market buy 493
+market sell 439
+limit sell 6 397
+limit sell 41 187
+limit buy 14 268
+limit sell 93 196
+market buy 463
+limit buy 77 18
+limit buy 16 217
+limit buy 87 233
+limit sell 60 350
+market buy 266
+market sell 444
+limit sell 97 12
+limit sell 33 347
+limit sell 35 244
+limit buy 33 434
+limit buy 39 473
+limit sell 82 434
+limit buy 99 122
+limit sell 32 53
+market buy 306
+market sell 342
+limit buy 41 266
+limit buy 28 404
+market buy 93
+limit sell 49 382
+limit buy 52 408
+limit sell 32 403
+limit buy 8 283
+market buy 116
+market buy 253
+market buy 299
+limit sell 62 481
+market sell 112
+market buy 467
+limit buy 86 420
+limit buy 70 345
+market buy 458
+market buy 232
+market sell 400
+limit sell 6 406
+limit sell 8 318
+market buy 187
+limit buy 93 98
+limit sell 18 237
+limit sell 86 142
+market sell 251
+limit buy 47 478
+limit sell 65 89
+market buy 151
+limit buy 56 448
+market sell 349
+market sell 480
+market sell 70
+limit sell 91 237
+market buy 200
+market sell 63
+market buy 199
+market sell 284
+limit sell 78 466
+limit buy 59 148
+market sell 279
+market buy 197
+limit sell 77 279
+market sell 265
+limit buy 21 254
+limit buy 50 21
+market sell 486
+market buy 395
+market buy 145
+limit buy 27 319
+market buy 260
+market buy 429
+limit sell 81 397
+limit buy 38 458
+market sell 251
+limit sell 14 179
+limit sell 100 276
+market sell 222
+limit buy 67 209
+limit buy 11 17
+market buy 391
+market sell 222
+market buy 496
+market sell 256
+limit sell 90 464
+market sell 62
+market sell 232
+market sell 77
+limit buy 27 306
+limit sell 40 294
+market sell 138
+market sell 252
+market sell 264
+limit buy 85 179
+limit sell 61 202
+limit buy 86 340
+limit sell 8 103
+limit sell 65 72
+market sell 482
+market sell 402
+limit sell 66 409
+market sell 428
+market buy 32
+limit buy 11 305
+market buy 223
+limit buy 14 254
+market buy 263
+limit buy 65 103
+market buy 227
+limit sell 56 47
+market sell 51
+limit buy 95 25
+market sell 483
+limit sell 89 365
+limit buy 17 297
+limit sell 90 356
+limit buy 5 481
+limit buy 86 152
+market sell 15
+market buy 319
+limit sell 54 410
+limit sell 82 64
+market buy 352
+market buy 488
+limit buy 71 202
+market sell 469
+limit sell 41 438
+market sell 207
+limit buy 64 492
+market buy 368
+market sell 121
+market buy 390
+limit sell 52 499
+market sell 429
+market buy 99
+limit sell 36 455
+market sell 121
+limit buy 85 490
+market buy 474
+market sell 21
+market sell 377
+limit sell 26 363
+limit sell 47 432
+limit sell 8 410
+limit sell 42 341
+limit sell 63 394
+market sell 89
+limit buy 17 164
+limit buy 51 497
+limit sell 84 500
+limit buy 35 175
+market buy 283
+limit buy 85 128
+limit sell 6 207
+market buy 247
+limit sell 52 48
+market sell 114
+limit buy 78 119
+limit buy 16 424
+market sell 156
+market buy 480
+market sell 397
+market sell 284
+limit buy 31 254
+market buy 116
+limit sell 30 376
+limit sell 50 430
+market buy 155
+limit sell 80 411
+market buy 460
+limit sell 93 337
+limit buy 59 200
+limit buy 22 345
+limit buy 50 453
+limit buy 75 66
+market sell 342
+limit sell 17 193
+limit sell 39 302
+limit buy 52 236
+limit buy 50 278
+limit sell 55 438
+limit sell 39 52
+market buy 319
+market sell 323
+market buy 167
+limit sell 95 117
+limit buy 22 166
+market sell 377
+market buy 492
+market buy 148
+market sell 272
+limit sell 28 187
+limit buy 10 405
+market buy 89
+limit sell 89 354
+limit buy 33 304
+limit buy 26 366
+limit sell 68 77
+limit sell 36 120
+market buy 229
+market buy 246
+limit buy 86 77
+limit sell 67 118
+market sell 150
+market buy 333
+market buy 229
+market buy 95
+market sell 311
+market buy 312
+market sell 403
+limit sell 24 62
+limit buy 26 213
+market sell 472
+limit sell 24 367
+limit sell 81 343
+limit sell 96 203
+limit buy 15 432
+market buy 486
+limit buy 22 356
+market buy 447
+limit sell 75 114
+market buy 213
+market buy 275
+limit sell 68 266
+limit buy 44 94
+limit sell 20 178
+market buy 431
+limit sell 75 59
+limit sell 17 22
+market sell 227
+market buy 186
+limit sell 47 217
+limit buy 70 284
+market buy 209
+market buy 257
+market sell 139
+market sell 23
+limit buy 49 148
+market sell 382
+limit sell 75 13
+market sell 172
+market buy 460
+limit buy 25 59
+limit sell 53 176
+market sell 337
+market sell 220
+limit sell 45 455
+limit sell 20 457
+market buy 429
+market buy 340
+market buy 38
+market sell 148
+market buy 102
+limit buy 91 474
+market buy 10
+market sell 214
+limit buy 16 42
+limit buy 84 155
+market sell 152
+market sell 115
+limit buy 75 190
+market buy 262
+limit sell 41 170
+market buy 478
+limit sell 95 373
+limit sell 60 488
+limit buy 55 154
+market buy 472
+market buy 319
+limit buy 73 234
+limit buy 16 60
+limit buy 52 354
+limit buy 18 164
+limit sell 12 437
+market buy 498
+limit sell 39 51
+limit buy 81 229
+market sell 152
+market buy 440
+market buy 345
+market buy 434
+market sell 498
+limit buy 47 139
+limit buy 15 188
+limit sell 19 17
+limit buy 58 19
+limit buy 54 254
+market buy 408
+limit sell 95 456
+market sell 170
+market sell 218
+market sell 205
+market sell 347
+market buy 113
+limit buy 79 152
+limit buy 13 243
+limit sell 57 78
+limit sell 80 366
+market buy 436
+limit buy 20 177
+market sell 172
+market buy 21
+market buy 117
+limit sell 13 92
+market buy 440
+market buy 473
+limit sell 87 381
+market sell 18
+limit sell 68 445
+market sell 109
+market buy 16
+limit buy 9 277
+limit sell 6 108
+market buy 394
+limit buy 8 360
+limit buy 94 323
+limit sell 75 478
+limit buy 54 24
+limit buy 14 72
+market buy 142
+limit buy 85 481
+market sell 86
+market buy 55
+limit buy 35 460
+limit buy 30 333
+market buy 145
+limit buy 29 284
+market buy 330
+limit buy 8 87
+limit sell 51 331
+limit sell 44 434
+limit sell 15 460
+market sell 245
+market buy 190
+limit buy 31 326
+market buy 405
+limit buy 79 394
+limit sell 96 354
+limit buy 88 10
+market sell 349
+market buy 498
+market sell 94
+limit buy 80 211
+limit sell 77 16
+limit sell 85 285
+market sell 361
+limit buy 74 181
+market buy 266
+limit sell 27 330
+limit sell 18 354
+market sell 95
+limit buy 36 288
+limit sell 20 110
+limit sell 84 351
+market buy 199
+limit sell 17 300
+market buy 178
+market buy 113
+market buy 435
+limit buy 63 16
+market buy 394
+market buy 185
+market sell 115
+limit sell 53 217
+market buy 196
+limit sell 61 25
+market buy 240
+market sell 431
+market sell 356
+limit sell 20 322
+limit sell 7 233
+market sell 83
+market sell 99
+limit sell 98 164
+market sell 279
+limit buy 49 62
+limit buy 16 466
+limit buy 90 46
+market sell 53
+limit sell 55 150
+market sell 239
+limit buy 91 136
+limit sell 20 366
+limit sell 51 387
+market sell 335
+limit sell 100 293
+limit buy 57 490
+market sell 215
+limit buy 76 192
+market buy 204
+limit buy 43 201
+market sell 149
+limit buy 58 400
+market buy 111
+market buy 86
+limit sell 48 147
+limit buy 87 344
+market buy 251
+market sell 486
+market sell 383
+market buy 80
+limit buy 29 205
+market sell 470
+limit buy 46 21
+limit buy 20 175
+limit sell 57 72
+market buy 12
+limit sell 64 159
+market sell 430
+market sell 60
+limit buy 49 231
+market sell 325
+market buy 289
+market buy 378
+market sell 126
+market sell 33
+limit buy 24 109
+market buy 267
+limit buy 85 372
+market buy 494
+market buy 289
+market buy 392
+limit sell 99 162
+limit sell 14 453
+market buy 28
+market sell 479
+market buy 72
+market sell 302
+limit buy 46 272
+limit buy 7 221
+limit buy 32 493
+market buy 348
+market buy 464
+market buy 75
+limit buy 96 271
+market buy 157
+market buy 181
+limit sell 19 109
+limit sell 41 233
+market buy 218
+limit buy 13 125
+market buy 258
+market buy 252
+limit buy 15 90
+market sell 159
+limit buy 39 418
+limit sell 5 215
+limit sell 7 50
+limit buy 79 117
+limit buy 87 136
+market sell 489
+market sell 491
+limit sell 29 465
+market sell 406
+market buy 457
+market buy 387
+market sell 226
+limit buy 65 281
+limit sell 59 359
+limit sell 37 181
+market sell 362
+market buy 162
+market buy 213
+limit sell 73 378
+market buy 175
+limit sell 54 262
+limit sell 66 36
+limit buy 53 114
+limit sell 68 194
+limit sell 86 109
+limit buy 42 69
+limit sell 69 162
+market sell 289
+market sell 89
+limit sell 57 366
+limit buy 41 371
+market buy 70
+market sell 87
+limit buy 31 384
+limit sell 84 310
+limit sell 26 323
+limit sell 91 345
+market buy 279
+limit buy 25 411
+market sell 160
+market sell 124
+limit buy 51 46
+market buy 219
+limit buy 81 231
+limit buy 21 35
+market sell 141
+limit sell 98 400
+market sell 325
+market sell 286
+limit sell 13 380
+market sell 445
+limit buy 21 357
+limit buy 24 307
+limit buy 100 265
+limit buy 52 303
+market sell 84
+limit buy 21 251
+market sell 206
+market sell 268
+limit sell 97 312
+market buy 428
+market buy 287
+limit sell 24 206
+market sell 215
+market sell 317
+limit sell 76 183
+market sell 376
+market buy 219
+limit sell 53 212
+market sell 283
+limit sell 76 22
+limit buy 12 415
+market sell 147
+limit buy 29 159
+limit buy 99 236
+market buy 209
+market buy 251
+market sell 71
+limit buy 31 76
+limit buy 57 332
+limit sell 80 437
+market buy 140
+market buy 484
+market buy 133
+limit sell 32 219
+market sell 307
+market buy 99
+limit buy 69 178
+market sell 138
+market buy 364
+market buy 477
+limit buy 86 483
+limit buy 39 26
+market sell 462
+market buy 288
+limit buy 58 489
+limit sell 29 142
+limit sell 20 238
+limit sell 18 69
+limit sell 73 180
+market sell 32
+market buy 160
+limit buy 47 279
+market sell 466
+limit buy 45 201
+market buy 310
+limit sell 59 127
+market sell 478
+limit buy 91 129
+limit sell 87 260
+limit buy 21 279
+market sell 460
+limit buy 99 212
+market buy 138
+market sell 196
+market sell 113
+market buy 26
+market sell 317
+market buy 134
+market buy 137
+market buy 377
+market buy 42
+limit buy 33 183
+market sell 250
+limit sell 96 211
+market buy 242
+limit buy 11 424
+market buy 120
+market buy 211
+limit buy 94 66
+market buy 341
+limit sell 25 202
+market sell 127
+limit buy 52 58
+market sell 305
+market buy 168
+market sell 53
+market buy 146
+limit buy 86 100
+market buy 191
+market buy 15
+limit buy 57 107
+limit sell 64 444
+limit buy 89 406
+market buy 454
+limit buy 17 354
+market sell 485
+market sell 355
+limit buy 44 460
+market sell 103
+market sell 466
+limit buy 49 224
+limit sell 31 239
+market sell 117
+market sell 315
+market buy 275
+limit sell 9 213
+limit buy 19 489
+market sell 225
+limit sell 85 39
+limit buy 73 30
+limit sell 64 269
+limit sell 89 291
+market sell 195
+limit buy 30 318
+limit sell 92 79
+market sell 413
+market buy 324
+market buy 55
+market sell 309
+market buy 433
+market buy 239
+limit sell 79 189
+limit sell 94 208
+limit sell 81 34
+market sell 290
+market buy 111
+market buy 73
+market buy 72
+limit sell 36 194
+market sell 141
+limit sell 9 124
+market sell 91
+limit sell 27 390
+market sell 282
+market sell 456
+limit sell 83 465
+market buy 224
+market buy 259
+market sell 56
+limit sell 96 499
+limit sell 9 157
+limit buy 43 209
+market buy 206
+limit buy 89 482
+limit buy 81 77
+market sell 193
+limit sell 49 276
+limit sell 55 342
+limit buy 45 289
+market buy 99
+limit buy 8 468
+limit sell 9 115
+limit buy 61 394
+market buy 498
+limit sell 24 280
+limit buy 25 268
+market buy 65
+limit sell 72 322
+market sell 246
+limit sell 54 457
+market buy 424
+limit buy 35 479
+market sell 312
+limit sell 41 163
+market buy 56
+limit sell 22 122
+limit buy 11 341
+limit sell 24 311
+market buy 101
+limit buy 35 261
+market sell 309
+limit buy 12 103
+limit buy 54 108
+market buy 418
+limit sell 59 48
+limit sell 86 289
+market buy 106
+limit buy 82 415
+market buy 330
+market sell 499
+limit sell 48 243
+limit sell 46 360
+market sell 323
+market buy 85
+limit buy 68 189
+limit buy 31 233
+market buy 474
+limit sell 64 117
+market buy 147
+limit buy 54 54
+market buy 315
+market sell 218
+limit buy 94 141
+market buy 152
+limit buy 5 296
+limit sell 80 375
+market sell 177
+limit sell 22 16
+market sell 440
+market buy 169
+market sell 351
+limit buy 65 260
+market sell 32
+limit sell 59 399
+market sell 470
+limit sell 16 103
+market sell 116
+limit sell 90 485
+limit buy 30 165
+limit sell 96 482
+market buy 118
+limit buy 49 342
+limit buy 58 367
+market buy 391
+limit buy 52 172
+limit buy 37 335
+market buy 76
+market buy 328
+limit sell 81 296
+market sell 10
+market sell 306
+limit sell 41 331
+market buy 268
+limit buy 72 208
+market sell 495
+limit buy 15 34
+limit buy 51 71
+limit sell 72 345
+market buy 23
+limit buy 24 30
+limit sell 42 47
+market sell 249
+market sell 396
+limit sell 18 316
+limit buy 81 405
+limit buy 62 144
+market buy 90
+limit sell 59 27
+limit buy 21 368
+limit buy 95 338
+limit buy 21 227
+market sell 368
+limit buy 81 157
+limit sell 81 162
+limit sell 22 154
+market sell 320
+market sell 222
+limit buy 78 489
+market buy 73
+limit buy 52 211
+limit buy 90 182
+limit buy 49 449
+limit sell 43 21
+limit buy 43 97
+market sell 485
+market buy 153
+limit buy 38 70
+market sell 172
+limit buy 16 361
+limit sell 22 270
+market sell 352
+limit sell 47 294
+limit buy 35 286
+limit sell 91 126
+market sell 301
+limit sell 91 86
+market sell 448
+market sell 463
+limit buy 8 423
+market sell 236
+market buy 433
+market sell 78
+market buy 61
+market buy 499
+limit sell 21 352
+limit buy 96 340
+market buy 372
+limit sell 63 151
+market sell 149
+limit sell 5 175
+limit buy 29 312
+limit buy 55 154
+market buy 11
+limit sell 82 352
+limit sell 34 166
+market buy 79
+market sell 269
+market sell 321
+market buy 121
+limit sell 88 43
+market sell 398
+market buy 290
+market buy 437
+market sell 111
+market sell 200
+market sell 41
+market buy 365
+market sell 404
+limit sell 90 248
+limit sell 35 307
+market sell 145
+limit sell 20 179
+limit sell 79 162
+market sell 85
+limit sell 12 410
+limit sell 45 155
+market buy 196
+limit sell 25 30
+market buy 265
+limit buy 29 281
+market sell 324
+market sell 256
+market buy 361
+market buy 447
+market buy 197
+market buy 80
+market sell 66
+limit buy 64 318
+limit buy 97 285
+limit buy 53 261
+limit buy 17 198
+limit buy 65 196
+limit buy 11 431
+market sell 187
+limit buy 96 454
+market sell 255
+limit buy 7 387
+market buy 421
+market sell 340
+limit buy 37 389
+limit buy 14 393
+limit buy 96 120
+market sell 404
+market buy 399
+market sell 46
+market sell 68
+limit sell 36 144
+market buy 153
+limit buy 35 71
+limit buy 83 408
+market buy 278
+market sell 414
+market sell 34
+market buy 237
+market buy 150
+limit sell 34 290
+market sell 272
+limit sell 48 487
+market buy 51
+limit buy 29 100
+market buy 344
+market buy 155
+limit sell 43 16
+limit buy 46 434
+market sell 26
+market buy 319
+market buy 172
+limit sell 72 97
+market buy 42
+limit sell 30 79
+limit buy 23 97
+market buy 402
+market buy 237
+market sell 213
+limit sell 33 389
+limit sell 81 56
+limit sell 30 105
+limit sell 10 181
+market buy 61
+market sell 201
+market buy 333
+limit buy 23 57
+limit buy 92 341
+market buy 73
+market buy 257
+market buy 190
+market buy 389
+limit sell 45 282
+market sell 184
+limit sell 71 358
+market sell 55
+market buy 180
+market sell 378
+limit sell 40 487
+market sell 309
+market buy 146
+market sell 473
+limit buy 29 244
+market buy 298
+limit buy 97 335
+market sell 240
+market buy 478
+limit buy 59 272
+market sell 454
+limit buy 95 56
+market sell 175
+limit buy 38 22
+market buy 358
+limit buy 11 23
+limit sell 33 128
+market buy 83
+limit sell 78 174
+limit buy 12 251
+market buy 299
+limit sell 25 287
+market sell 54
+market buy 282
+limit sell 27 287
+market buy 121
+market buy 291
+limit buy 67 323
+market buy 160
+limit sell 20 347
+market sell 306
+limit sell 13 58
+market buy 295
+limit sell 44 176
+limit sell 39 210
+limit buy 59 116
+market buy 353
+market buy 185
+limit sell 62 228
+limit buy 91 283
+limit sell 44 416
+market sell 267
+market buy 153
+market buy 463
+market buy 207
+market sell 475
+limit buy 60 427
+market sell 49
+market sell 365
+market buy 67
+limit buy 57 227
+market buy 246
+market buy 215
+limit buy 83 388
+limit sell 82 213
+limit buy 25 150
+market sell 396
+market sell 91
+market buy 449
+limit buy 84 220
+limit buy 70 151
+market buy 413
+market buy 215
+limit buy 21 320
+limit buy 71 383
+limit buy 56 175
+market buy 33
+limit buy 17 122
+limit buy 91 352
+market buy 110
+limit buy 98 468
+limit buy 82 353
+market sell 322
+limit buy 88 62
+limit buy 91 185
+market sell 105
+market sell 247
+market buy 280
+market buy 445
+limit sell 54 72
+market buy 45
+market buy 46
+market sell 41
+limit sell 85 397
+market sell 355
+limit buy 7 185
+limit sell 58 483
+limit sell 11 373
+limit buy 88 282
+limit sell 25 181
+limit sell 97 46
+market sell 433
+market sell 404
+market sell 74
+limit buy 58 255
+limit sell 19 111
+market buy 278
+limit sell 34 338
+limit sell 78 438
+limit sell 45 286
+limit buy 51 319
+market buy 73
+market sell 313
+market sell 13
+market sell 135
+limit sell 11 443
+market buy 384
+market buy 325
+market sell 187
+market sell 183
+limit sell 47 465
+market sell 124
+limit buy 39 57
+limit sell 65 218
+limit sell 51 250
+market buy 267
+limit buy 25 355
+limit sell 54 360
+market buy 478
+limit buy 23 101
+limit buy 84 350
+market sell 104
+market sell 394
+market buy 262
+limit sell 88 288
+limit buy 30 327
+limit buy 23 333
+limit sell 59 296
+limit buy 96 61
+market buy 24
+market sell 230
+market buy 353
+limit sell 59 61
+limit sell 76 38
+limit sell 79 128
+market buy 403
+market buy 273
+market sell 155
+market sell 113
+market buy 329
+market sell 361
+market sell 366
+market sell 256
+market sell 274
+limit buy 59 385
+limit buy 39 248
+market sell 167
+market sell 43
+market sell 153
+market buy 62
+market sell 399
+limit buy 33 211
+limit sell 9 422
+market buy 56
+limit sell 62 476
+market sell 270
+market buy 388
+limit sell 38 233
+market buy 199
+market buy 10
+limit buy 38 65
+market sell 61
+market buy 327
+limit sell 78 32
+market buy 236
+limit buy 42 82
+limit sell 15 361
+market buy 202
+market buy 200
+limit buy 91 259
+limit sell 15 189
+market sell 248
+limit sell 99 401
+market buy 361
+limit buy 75 221
+market sell 172
+limit buy 7 438
+limit sell 14 301
+limit sell 65 256
+limit buy 43 66
+limit buy 12 169
+limit sell 46 168
+limit buy 5 301
+limit buy 55 180
+market buy 334
+market buy 427
+limit sell 81 267
+limit buy 19 423
+market sell 254
+limit sell 47 49
+market sell 65
+market buy 136
+market sell 255
+market buy 144
+limit buy 17 81
+limit buy 75 490
+limit buy 61 280
+limit buy 18 149
+limit sell 18 281
+market buy 57
+market buy 199
+market sell 285
+market buy 20
+market buy 172
+market sell 413
+market buy 492
+market buy 148
+limit sell 32 77
+limit buy 45 41
+limit sell 47 276
+market sell 34
+market sell 244
+limit sell 48 195
+limit buy 37 471
+market sell 38
+market sell 412
+market buy 422
+market sell 401
+market buy 180
+market sell 99
+market buy 476
+market sell 63
+market sell 183
+limit sell 53 364
+market buy 114
+limit sell 73 342
+limit buy 27 393
+market sell 324
+limit sell 41 471
+limit buy 95 119
+market sell 210
+limit buy 5 90
+limit sell 57 194
+market sell 112
+market sell 433
+limit buy 91 227
+limit buy 40 59
+limit buy 98 476
+market sell 181
+limit buy 62 145
+limit buy 96 359
+market sell 488
+limit buy 11 54
+limit buy 74 142
+market buy 279
+limit sell 77 143
+limit sell 18 154
+limit sell 84 57
+limit buy 74 246
+market buy 96
+market sell 323
+market sell 299
+limit buy 59 177
+market sell 302
+market sell 175
+limit sell 35 358
+limit sell 62 69
+market sell 115
+limit sell 88 89
+market sell 319
+market buy 483
+market buy 244
+market buy 198
+limit buy 79 222
+limit sell 23 496
+limit sell 61 473
+market buy 246
+market sell 474
+limit buy 54 491
+market sell 402
+limit sell 45 472
+market buy 75
+limit buy 54 109
+market buy 326
+limit buy 29 450
+limit buy 96 329
+market sell 295
+limit buy 10 378
+limit sell 9 498
+limit buy 38 85
+limit buy 66 232
+market sell 106
+limit sell 67 92
+limit sell 95 32
+limit sell 69 159
+limit sell 31 157
+market sell 156
+market buy 272
+market sell 375
+market buy 182
+market sell 156
+market buy 346
+limit buy 42 111
+market buy 257
+limit buy 76 129
+limit sell 77 12
+market buy 42
+market sell 181
+limit sell 40 396
+limit sell 50 138
+market buy 314
+market sell 135
+market buy 264
+limit buy 45 90
+limit sell 74 425
+market buy 445
+market sell 144
+market sell 270
+limit buy 90 357
+market sell 308
+limit sell 46 144
+market sell 186
+market sell 425
+limit buy 98 201
+limit sell 24 270
+limit sell 92 476
+market buy 337
+market sell 115
+limit sell 32 22
+limit buy 55 264
+market sell 490
+limit sell 85 72
+market sell 366
+limit buy 43 383
+market sell 129
+limit buy 93 373
+limit buy 74 403
+market sell 375
+limit sell 40 455
+limit buy 75 126
+market buy 373
+market sell 132
+market buy 469
+limit sell 92 215
+limit sell 18 337
+limit sell 81 481
+limit buy 10 91
+limit sell 95 194
+limit sell 81 478
+limit sell 64 359
+market sell 228
+market sell 256
+market sell 306
+market buy 416
+limit sell 95 124
+limit sell 21 83
+market sell 89
+market sell 440
+market sell 94
+limit buy 38 298
+market sell 14
+limit sell 24 392
+market sell 19
+market sell 197
+limit buy 49 191
+limit buy 43 434
+market sell 332
+market sell 134
+market sell 48
+limit sell 40 350
+market sell 246
+market sell 60
+market buy 100
+limit sell 65 396
+market sell 136
+limit buy 76 417
+limit sell 36 294
+market buy 212
+market sell 270
+market buy 473
+limit sell 62 293
+limit sell 92 67
+limit sell 47 291
+limit sell 35 172
+market buy 468
+limit sell 44 215
+limit buy 45 268
+market sell 150
+limit buy 7 439
+limit buy 100 326
+limit sell 32 228
+limit buy 31 306
+market buy 158
+limit sell 64 85
+market buy 152
+market sell 146
+limit buy 97 417
+limit sell 12 290
+limit buy 64 129
+limit sell 58 56
+limit buy 54 54
+market buy 301
+market buy 105
+limit buy 27 146
+limit buy 66 284
+limit sell 68 304
+limit sell 24 162
+market sell 344
+market sell 24
+limit buy 32 337
+market buy 195
+limit buy 29 412
+limit buy 85 313
+limit sell 24 285
+market buy 377
+limit buy 30 361
+market buy 266
+market buy 33
+market sell 357
+market sell 297
+market sell 423
+limit sell 56 398
+market sell 354
+limit sell 92 217
+limit buy 13 185
+market sell 371
+market sell 97
+limit buy 75 23
+limit buy 80 88
+limit buy 21 58
+market sell 399
+market sell 466
+market buy 188
+market sell 237
+market sell 223
+limit buy 96 154
+market buy 264
+limit buy 78 495
+limit buy 61 473
+limit sell 36 493
+limit buy 42 440
+limit sell 8 314
+limit buy 59 252
+limit sell 48 219
+limit sell 37 95
+market buy 331
+market buy 368
+market sell 242
+limit sell 33 204
+market sell 73
+market buy 282
+market buy 112
+limit sell 9 163
+market buy 309
+market sell 296
+limit sell 37 141
+limit sell 45 85
+market buy 97
+limit buy 78 193
+market buy 36
+limit sell 62 454
+limit buy 98 263
+market sell 15
+limit buy 65 160
+market buy 68
+market sell 110
+limit buy 56 134
+limit sell 50 283
+market buy 120
+limit buy 17 488
+market sell 174
+limit sell 62 392
+limit sell 27 214
+market buy 406
+market buy 94
+limit buy 98 164
+limit sell 28 249
+limit buy 14 416
+limit sell 56 436
+limit buy 24 395
+limit buy 31 368
+limit buy 85 182
+market sell 377
+market sell 320
+market sell 333
+market sell 490
+market buy 158
+limit buy 36 385
+limit sell 49 192
+market sell 277
+limit sell 28 40
+limit buy 51 486
+limit buy 88 406
+market sell 483
+limit sell 83 376
+limit buy 33 64
+market sell 34
+market buy 208
+market sell 472
+limit sell 11 378
+market buy 493
+limit sell 11 176
+limit buy 22 420
+market buy 137
+market sell 155
+limit sell 67 401
+limit buy 39 100
+market sell 342
+market buy 36
+market buy 186
+market sell 107
+limit buy 92 28
+limit sell 60 438
+limit buy 32 302
+market buy 31
+market buy 27
+market sell 32
+limit sell 68 276
+market buy 341
+market sell 187
+market sell 61
+limit sell 70 116
+market sell 395
+limit sell 15 268
+market buy 223
+limit buy 21 438
+limit buy 39 189
+limit buy 51 119
+market sell 12
+limit buy 78 263
+market buy 196
+market sell 135
+market buy 196
+limit sell 35 255
+market sell 434
+market sell 326
+market sell 311
+market sell 304
+limit buy 11 238
+limit buy 78 434
+market sell 136
+limit buy 100 20
+market sell 173
+limit buy 37 251
+market sell 359
+limit buy 54 214
+limit buy 54 139
+limit sell 41 475
+market buy 208
+market buy 13
+market sell 431
+limit sell 26 307
+market buy 83
+limit sell 16 106
+limit buy 10 469
+market sell 345
+market sell 77
+limit sell 64 370
+market buy 415
+market sell 63
+limit buy 57 148
+market sell 13
+market buy 90
+market buy 361
+market buy 28
+market sell 54
+market sell 480
+market buy 326
+market sell 320
+limit buy 78 454
+limit sell 25 164
+limit buy 62 336
+limit buy 24 125
+market buy 285
+limit sell 17 439
+market buy 135
+market sell 130
+market sell 247
+market sell 373
+market sell 141
+limit sell 18 407
+market buy 204
+market sell 168
+limit buy 87 175
+limit buy 72 442
+limit sell 22 285
+market buy 100
+market sell 285
+limit buy 16 153
+limit sell 18 321
+limit sell 28 203
+limit sell 62 284
+market sell 452
+limit buy 85 188
+limit buy 68 245
+limit buy 35 161
+market sell 387
+market sell 84
+market buy 263
+limit buy 14 168
+market sell 313
+market buy 147
+market sell 327
+limit sell 62 312
+limit buy 36 373
+market buy 441
+market buy 311
+limit sell 77 39
+market sell 319
+limit sell 58 129
+market buy 446
+market buy 127
+market buy 229
+market sell 234
+limit sell 34 89
+limit buy 65 59
+limit buy 27 360
+market sell 409
+limit buy 41 191
+limit buy 10 328
+market sell 491
+market sell 70
+market sell 492
+market sell 180
+market buy 394
+market buy 171
+market buy 248
+limit buy 38 31
+market buy 20
+limit sell 83 299
+limit sell 46 114
+limit sell 66 45
+market sell 414
+market sell 142
+limit buy 78 248
+market buy 424
+limit buy 60 124
+market sell 458
+market buy 234
+limit sell 67 439
+limit sell 46 104
+market sell 461
+limit sell 57 404
+limit sell 94 198
+limit buy 77 119
+market buy 153
+market sell 73
+market buy 163
+limit sell 28 379
+limit sell 64 179
+market sell 415
+limit sell 83 484
+market buy 434
+limit buy 84 286
+limit buy 44 283
+limit sell 70 108
+market sell 285
+limit sell 48 382
+limit buy 94 476
+market sell 347
+market buy 60
+limit buy 79 162
+limit buy 15 453
+limit sell 80 179
+limit buy 78 459
+market buy 245
+limit buy 16 32
+market sell 243
+limit sell 70 487
+limit sell 100 477
+market sell 495
+market sell 321
+market buy 238
+market sell 209
+limit buy 15 281
+limit buy 76 226
+limit buy 41 132
+limit sell 16 415
+limit buy 82 115
+limit sell 12 222
+market buy 477
+limit sell 59 231
+market buy 199
+market sell 368
+limit sell 68 89
+market buy 457
+limit sell 30 214
+market buy 164
+market sell 156
+limit sell 54 346
+market sell 149
+limit sell 70 27
+limit sell 31 264
+limit buy 80 492
+limit buy 95 155
+limit buy 79 322
+limit sell 70 345
+market sell 402
+market sell 76
+market buy 131
+limit sell 31 130
+limit buy 6 306
+market buy 121
+limit sell 78 255
+limit buy 38 92
+limit buy 33 162
+market buy 333
+limit buy 88 251
+limit sell 24 379
+limit sell 18 216
+limit sell 80 320
+market buy 303
+limit sell 43 264
+market buy 150
+limit buy 72 172
+market buy 343
+limit sell 45 354
+limit sell 30 411
+market sell 371
+limit buy 54 273
+limit sell 56 245
+market buy 378
+limit buy 43 213
+market sell 59
+limit sell 52 420
+market buy 349
+limit buy 7 371
+market buy 179
+limit buy 77 11
+limit buy 18 389
+market buy 279
+limit sell 11 168
+market sell 284
+market sell 117
+limit sell 21 410
+limit sell 100 363
+market sell 355
+market sell 22
+limit sell 41 490
+market sell 215
+limit buy 69 121
+market buy 321
+market buy 339
+limit buy 66 116
+market sell 407
+limit sell 59 364
+limit buy 75 86
+limit sell 63 240
+market buy 376
+limit sell 34 341
+limit buy 31 452
+limit buy 63 320
+market sell 203
+limit buy 95 61
+market buy 184
+market buy 227
+limit buy 48 152
+limit sell 23 161
+limit sell 67 190
+market buy 95
+market buy 36
+market sell 129
+market sell 270
+limit sell 38 31
+limit sell 43 347
+market buy 321
+market buy 480
+market buy 229
+market buy 325
+limit buy 8 496
+market sell 254
+market sell 145
+market sell 235
+market buy 485
+limit sell 63 482
+limit buy 92 119
+limit sell 20 421
+market buy 371
+market buy 155
+market sell 91
+market sell 74
+market sell 252
+market buy 201
+market buy 10
+limit sell 27 313
+limit buy 16 105
+limit sell 88 375
+limit sell 18 289
+market buy 167
+limit buy 33 108
+limit buy 8 322
+limit buy 79 144
+limit sell 80 41
+limit sell 98 391
+market sell 420
+market sell 384
+limit buy 96 221
+limit buy 13 210
+market buy 403
+market buy 212
+limit buy 83 137
+market sell 406
+market buy 31
+market sell 87
+market buy 166
+market sell 306
+limit buy 16 101
+market buy 45
+limit buy 5 120
+market buy 415
+limit buy 77 304
+market sell 309
+limit sell 59 24
+limit sell 51 161
+limit sell 100 419
+limit buy 8 366
+limit sell 41 149
+limit sell 50 384
+market buy 207
+limit sell 47 310
+limit buy 65 461
+limit buy 99 353
+market buy 394
+market buy 146
+market buy 33
+market sell 446
+market buy 201
+limit sell 50 232
+market buy 466
+limit sell 85 281
+limit buy 88 163
+market sell 23
+limit sell 49 204
+market sell 458
+market sell 362
+limit sell 9 362
+limit buy 36 158
+market sell 35
+limit buy 69 314
+limit sell 21 473
+market sell 117
+limit sell 14 358
+market buy 83
+limit buy 41 152
+market sell 21
+market sell 419
+market sell 239
+limit sell 39 156
+limit buy 8 340
+market sell 272
+market sell 434
+market sell 338
+limit sell 58 376
+limit buy 95 255
+market buy 239
+limit sell 93 205
+market sell 279
+market buy 120
+market buy 381
+market buy 269
+market buy 351
+limit buy 64 320
+limit buy 55 110
+limit buy 77 201
+market buy 392
+market sell 10
+market buy 240
+limit sell 5 357
+market buy 190
+market buy 109
+market buy 454
+market sell 94
+market sell 448
+market sell 156
+market sell 84
+market buy 27
+limit buy 49 289
+market sell 40
+limit sell 99 326
+limit buy 67 228
+limit buy 90 355
+limit sell 29 250
+limit buy 48 51
+limit buy 43 265
+limit buy 64 189
+limit sell 78 159
+limit buy 87 198
+market sell 226
+limit sell 51 318
+market buy 370
+limit buy 32 461
+limit sell 51 222
+market buy 489
+market sell 260
+limit buy 52 304
+limit buy 80 418
+limit sell 54 34
+market buy 417
+market sell 55
+limit buy 98 260
+market sell 237
+market buy 74
+market sell 454
+limit buy 87 202
+market buy 74
+limit sell 63 175
+market sell 273
+market sell 140
+market sell 449
+market buy 221
+market buy 168
+limit sell 12 197
+limit buy 40 155
+limit buy 10 252
+market sell 309
+limit sell 97 100
+market buy 469
+limit buy 38 241
+limit sell 24 453
+limit sell 32 358
+market buy 278
+limit sell 45 285
+limit sell 51 364
+market sell 157
+market buy 105
+limit buy 67 273
+market buy 126
+market buy 282
+market sell 162
+limit buy 65 308
+market sell 374
+limit sell 61 143
+limit buy 54 399
+market sell 36
+market buy 287
+market buy 282
+market buy 341
+market sell 30
+limit buy 92 325
+limit sell 81 249
+limit sell 81 308
+limit sell 93 330
+market sell 247
+limit sell 82 72
+market sell 357
+limit sell 100 456
+limit buy 91 289
+limit sell 55 30
+limit buy 33 72
+market buy 302
+market buy 45
+limit sell 37 78
+market sell 425
+limit buy 64 147
+limit sell 30 326
+limit sell 59 336
+market buy 382
+limit sell 53 479
+market buy 478
+market sell 487
+limit buy 43 315
+limit sell 88 414
+limit sell 92 338
+limit sell 23 421
+limit buy 22 276
+market buy 295
+market buy 485
+limit buy 84 83
+limit sell 27 284
+limit buy 68 170
+market sell 109
+market buy 234
+market sell 147
+limit sell 83 92
+market sell 491
+limit sell 88 160
+market sell 329
+market buy 439
+market buy 169
+limit sell 24 393
+market buy 153
+limit sell 86 157
+limit sell 10 211
+limit sell 24 167
+market buy 409
+market buy 312
+market sell 99
+market sell 240
+market sell 43
+market buy 290
+market sell 226
+limit sell 62 401
+market buy 351
+limit buy 12 22
+limit buy 15 288
+limit sell 92 52
+market buy 462
+limit sell 53 424
+market sell 249
+limit buy 33 223
+limit buy 36 259
+limit sell 55 56
+market buy 140
+market buy 500
+market buy 193
+market buy 237
+limit sell 31 374
+market buy 44
+market buy 251
+market buy 328
+market buy 352
+limit sell 96 71
+limit buy 69 288
+limit buy 32 26
+limit buy 76 391
+limit buy 8 114
+limit buy 14 33
+limit sell 15 446
+market sell 223
+limit sell 47 500
+limit buy 42 88
+market buy 55
+market sell 288
+limit sell 9 99
+market buy 99
+market buy 140
+market buy 172
+limit sell 14 80
+market sell 91
+market buy 292
+limit sell 74 312
+market sell 129
+market buy 448
+limit buy 91 180
+market buy 84
+market buy 498
+market sell 138
+limit sell 64 165
+market buy 296
+market buy 181
+limit buy 12 120
+limit sell 62 184
+limit sell 39 83
+market buy 15
+market buy 123
+market sell 200
+market buy 418
+market buy 406
+market sell 419
+market sell 498
+limit sell 23 220
+limit buy 19 280
+limit sell 81 463
+market buy 368
+limit buy 60 244
+limit buy 54 380
+limit sell 87 90
+market buy 65
+market sell 488
+market sell 138
+market buy 252
+limit sell 71 368
+market sell 80
+market buy 218
+limit buy 18 292
+market buy 135
+limit sell 36 36
+market buy 425
+market sell 261
+market sell 233
+limit sell 61 53
+market sell 297
+market sell 406
+limit sell 76 296
+market buy 387
+market sell 239
+limit sell 22 387
+market buy 370
+limit sell 19 475
+limit sell 63 93
+limit buy 44 60
+market buy 64
+limit buy 69 184
+limit buy 11 54
+limit buy 48 261
+limit sell 77 361
+limit sell 46 13
+market sell 317
+market buy 128
+limit sell 89 394
+limit sell 61 320
+market buy 407
+limit sell 15 471
+market buy 214
+market sell 78
+market sell 361
+market sell 450
+market buy 75
+market buy 171
+market buy 326
+market sell 458
+limit buy 79 442
+market buy 315
+limit buy 40 347
+market sell 257
+limit sell 75 40
+limit buy 11 26
+limit sell 26 274
+market sell 14
+market sell 140
+limit buy 33 226
+limit buy 72 163
+market buy 149
+market buy 196
+market sell 119
+limit buy 69 329
+market sell 39
+limit buy 87 49
+market sell 240
+limit buy 61 230
+market buy 358
+market sell 454
+limit buy 54 176
+limit buy 23 77
+limit buy 99 66
+limit buy 78 472
+market buy 423
+market sell 336
+limit buy 19 312
+market buy 286
+limit buy 65 227
+limit sell 93 102
+limit sell 100 469
+limit buy 81 470
+limit sell 32 104
+limit sell 85 313
+limit buy 26 23
+market buy 412
+market sell 393
+limit sell 12 192
+limit sell 76 332
+market sell 100
+limit sell 95 407
+market buy 50
+market buy 274
+limit buy 36 361
+market sell 45
+limit sell 7 428
+market sell 177
+limit buy 99 103
+limit sell 33 18
+limit buy 20 133
+limit buy 54 301
+market sell 139
+limit sell 90 428
+market buy 20
+limit sell 67 428
+limit sell 77 397
+limit sell 59 362
+limit sell 17 290
+market sell 254
+market buy 187
+limit buy 33 77
+market sell 153
+market buy 369
+limit sell 75 245
+limit sell 85 256
+limit sell 47 470
+limit sell 61 381
+limit buy 88 473
+limit sell 46 121
+limit buy 74 79
+limit sell 75 207
+market buy 214
+market sell 19
+limit buy 80 57
+market sell 19
+limit buy 41 182
+market buy 58
+limit sell 36 488
+limit buy 47 376
+market buy 445
+limit buy 39 385
+market buy 492
+market sell 437
+limit buy 15 498
+market sell 386
+limit buy 14 385
+market buy 65
+market sell 252
+limit buy 76 80
+market sell 12
+limit buy 92 165
+limit buy 13 468
+limit buy 50 56
+limit buy 95 97
+limit sell 88 99
+market buy 257
+limit buy 52 424
+limit buy 57 156
+market buy 60
+market buy 100
+limit buy 97 115
+market sell 249
+limit sell 62 387
+limit sell 63 449
+limit sell 78 221
+limit sell 97 426
+market sell 294
+limit sell 43 427
+limit buy 46 466
+market buy 141
+market sell 245
+market sell 353
+limit buy 17 410
+limit sell 12 368
+limit sell 56 52
+limit buy 68 299
+market buy 42
+limit buy 83 237
+limit sell 93 409
+limit buy 83 256
+limit buy 67 201
+limit sell 23 319
+market buy 80
+market sell 413
+limit buy 33 89
+market buy 103
+market buy 233
+market sell 237
+limit buy 10 407
+limit buy 39 79
+limit buy 17 193
+market sell 384
+limit sell 84 184
+market buy 111
+limit buy 19 392
+market sell 42
+limit sell 98 365
+market buy 222
+market sell 478
+limit buy 49 152
+limit sell 61 378
+limit buy 52 231
+limit sell 50 216
+limit sell 8 425
+limit buy 25 437
+limit buy 15 272
+limit sell 72 388
+market buy 53
+limit sell 72 321
+limit sell 45 461
+limit buy 34 369
+market buy 43
+market buy 235
+limit buy 84 388
+limit sell 51 136
+market sell 260
+market sell 368
+limit sell 11 33
+limit buy 94 345
+market sell 284
+limit sell 34 35
+limit sell 67 83
+market buy 58
+market buy 122
+limit buy 86 278
+limit sell 34 466
+limit buy 86 200
+market sell 423
+limit buy 35 43
+limit sell 92 161
+limit buy 22 72
+limit sell 86 384
+market sell 13
+market sell 217
+market sell 61
+market sell 239
+limit buy 33 488
+limit sell 38 78
+market buy 343
+market sell 269
+limit sell 67 162
+market sell 486
+limit sell 43 394
+limit sell 28 127
+limit sell 65 323
+market buy 270
+limit buy 20 468
+market buy 400
+limit sell 10 220
+market buy 302
+market sell 428
+market buy 11
+limit sell 91 121
+limit buy 96 307
+limit buy 59 364
+limit sell 29 414
+limit buy 28 297
+limit sell 95 352
+limit buy 74 23
+market buy 113
+market buy 349
+limit sell 61 93
+market buy 286
+limit buy 52 18
+market sell 277
+limit sell 44 70
+limit sell 22 164
+market sell 372
+market sell 213
+limit buy 22 433
+limit buy 50 233
+market buy 126
+market buy 271
+limit sell 14 233
+limit sell 39 148
+market sell 84
+limit sell 73 457
+limit buy 21 205
+market buy 393
+market sell 425
+market buy 355
+market buy 312
+market sell 397
+limit buy 82 397
+market sell 165
+market sell 158
+market buy 14
+limit buy 75 487
+market buy 40
+market buy 35
+market sell 480
+market sell 228
+limit sell 31 400
+limit buy 96 315
+market buy 170
+limit sell 11 320
+market sell 316
+limit buy 40 251
+limit sell 59 377
+market buy 376
+market sell 428
+market buy 135
+limit sell 80 126
+market sell 179
+limit buy 93 168
+market sell 187
+limit sell 83 128
+market buy 45
+market buy 482
+market buy 30
+limit sell 30 251
+limit buy 44 496
+limit sell 59 100
+limit buy 85 448
+market sell 115
+limit buy 41 197
+limit buy 91 416
+market sell 368
+limit sell 25 68
+market sell 426
+market sell 362
+limit buy 35 311
+limit sell 91 17
+market sell 92
+limit buy 60 236
+market sell 83
+limit buy 10 400
+limit sell 88 49
+limit buy 6 458
+market sell 310
+limit sell 93 284
+limit sell 53 189
+limit sell 36 166
+limit buy 21 413
+limit buy 13 277
+limit sell 14 148
+market buy 471
+market buy 76
+market sell 130
+market sell 201
+market buy 334
+limit sell 69 170
+limit buy 34 486
+market buy 373
+limit sell 42 30
+market buy 108
+market sell 341
+limit buy 20 418
+market buy 374
+limit buy 30 47
+limit sell 38 435
+market buy 236
+market buy 493
+limit sell 78 421
+market buy 251
+market buy 93
+limit buy 33 31
+market buy 389
+limit buy 92 201
+market sell 464
+limit sell 88 85
+limit sell 30 327
+limit buy 10 101
+limit buy 88 345
+market buy 419
+market buy 265
+market sell 251
+limit sell 6 387
+market sell 440
+limit buy 22 270
+limit sell 82 210
+limit buy 78 110
+market buy 390
+limit buy 68 457
+limit sell 88 445
+market buy 465
+limit buy 53 459
+limit sell 87 208
+market buy 60
+limit sell 80 481
+limit sell 44 342
+market sell 181
+market buy 241
+market buy 194
+market sell 200
+market sell 48
+limit buy 70 496
+market buy 12
+limit sell 62 31
+limit sell 38 77
+limit buy 59 169
+limit buy 67 98
+market sell 480
+market buy 442
+limit sell 40 171
+market buy 491
+market buy 428
+limit sell 7 279
+limit sell 81 83
+limit buy 52 354
+limit buy 82 385
+limit sell 34 105
+market sell 28
+limit buy 82 348
+limit buy 87 433
+limit sell 88 350
+limit sell 91 351
+limit buy 5 192
+market buy 142
+limit buy 34 123
+limit sell 47 195
+market buy 281
+market sell 443
+market buy 353
+limit sell 76 241
+limit sell 75 402
+limit buy 77 357
+market buy 297
+limit buy 78 105
+limit sell 50 435
+market sell 140
+market buy 89
+limit buy 11 195
+limit buy 41 299
+limit buy 38 191
+market sell 327
+market buy 138
+market sell 45
+market buy 204
+limit buy 46 198
+limit buy 61 475
+market buy 397
+limit buy 43 417
+limit sell 58 201
+limit sell 48 460
+market buy 144
+limit buy 88 236
+limit buy 64 321
+market sell 481
+market sell 388
+market buy 479
+market buy 423
+market buy 63
+market sell 347
+limit sell 38 472
+limit buy 81 322
+market buy 38
+limit buy 39 394
+market buy 88
+limit buy 65 198
+market buy 324
+limit sell 31 324
+market buy 278
+limit buy 57 345
+market buy 35
+limit sell 12 92
+limit sell 22 369
+limit sell 91 220
+limit buy 32 33
+market sell 67
+market buy 118
+market sell 420
+limit buy 77 204
+limit buy 38 117
+market sell 294
+market buy 417
+limit sell 71 442
+limit buy 60 369
+limit sell 53 340
+market sell 487
+limit sell 68 174
+limit buy 88 136
+market sell 78
+market buy 121
+limit buy 15 165
+limit buy 89 405
+market sell 436
+limit buy 49 231
+market sell 492
+limit sell 5 281
+limit buy 69 241
+market buy 436
+limit buy 72 146
+market buy 135
+market sell 291
+limit sell 24 470
+limit buy 36 267
+limit buy 84 74
+limit buy 59 199
+limit sell 57 146
+market sell 228
+market sell 213
+limit buy 42 144
+limit sell 44 375
+market buy 275
+market sell 287
+market sell 284
+market sell 428
+market sell 362
+limit buy 39 488
+limit buy 33 245
+market sell 38
+limit sell 53 392
+limit buy 85 280
+market sell 32
+limit sell 39 188
+market sell 100
+limit sell 13 37
+limit buy 21 213
+market buy 53
+market buy 494
+limit buy 37 404
+market sell 378
+limit buy 30 155
+market sell 137
+market buy 132
+limit buy 10 269
+market buy 30
+market sell 329
+market buy 215
+limit sell 98 338
+market sell 412
+market sell 470
+market buy 348
+limit sell 61 322
+market sell 88
+market buy 183
+limit buy 7 49
+market sell 317
+market sell 35
+limit buy 16 285
+market buy 336
+limit sell 35 498
+market buy 191
+limit buy 95 438
+limit sell 54 91
+market buy 170
+market sell 320
+market sell 220
+market buy 129
+limit buy 17 426
+market buy 478
+limit buy 13 78
+limit sell 60 194
+limit sell 42 226
+market sell 498
+market buy 109
+limit sell 92 278
+limit sell 86 379
+limit sell 43 272
+market sell 13
+limit sell 54 124
+market sell 250
+limit buy 85 114
+market sell 200
+limit sell 47 293
+market sell 417
+limit sell 5 175
+market buy 27
+market buy 99
+limit buy 73 330
+market sell 343
+market buy 263
+limit sell 55 35
+limit sell 64 494
+limit buy 24 235
+market sell 214
+limit buy 44 196
+limit sell 17 493
+limit buy 14 61
+market sell 252
+limit buy 10 322
+limit sell 41 361
+limit buy 27 262
+limit sell 67 268
+market sell 412
+limit buy 17 41
+limit sell 64 235
+limit buy 47 417
+market buy 389
+limit buy 25 335
+limit sell 58 91
+limit sell 79 381
+limit sell 77 372
+limit buy 29 462
+limit sell 93 181
+limit sell 53 492
+limit sell 81 266
+market buy 114
+limit sell 98 496
+market buy 459
+limit buy 50 76
+limit buy 13 13
+limit buy 49 199
+limit buy 67 248
+market buy 40
+market buy 170
+limit sell 30 249
+market buy 80
+limit buy 91 205
+limit sell 61 57
+market buy 215
+limit buy 95 297
+market buy 230
+limit sell 86 303
+limit sell 65 158
+limit buy 57 398
+limit buy 17 283
+limit buy 86 491
+market buy 24
+market buy 492
+market buy 277
+market sell 244
+market buy 295
+market buy 461
+limit sell 64 156
+limit sell 69 337
+market sell 290
+market sell 330
+market buy 449
+market sell 389
+limit buy 79 278
+limit buy 30 31
+limit buy 17 364
+market sell 149
+market sell 87
+limit sell 18 215
+limit sell 47 448
+market sell 483
+limit sell 97 168
+market buy 411
+market buy 99
+market buy 392
+market buy 10
+limit buy 41 309
+market sell 473
+limit sell 50 160
+market sell 473
+market sell 59
+market sell 190
+limit buy 42 435
+limit sell 95 207
+market buy 241
+market buy 291
+market buy 314
+limit buy 71 453
+limit buy 48 181
+limit buy 97 48
+market sell 473
+market buy 30
+limit buy 7 303
+market buy 218
+market buy 290
+limit sell 14 11
+limit sell 18 466
+limit buy 80 378
+market buy 190
+market buy 83
+market sell 98
+limit sell 59 208
+limit sell 82 172
+limit sell 75 415
+limit sell 66 277
+limit sell 45 89
+market sell 87
+market buy 291
+market sell 45
+market sell 115
+limit sell 30 30
+limit sell 96 276
+market sell 135
+limit sell 8 360
+market sell 49
+market buy 275
+market sell 274
+market buy 378
+market sell 445
+market buy 463
+limit buy 62 299
+limit buy 29 62
+limit buy 76 394
+limit sell 87 310
+market buy 214
+market buy 421
+limit buy 87 472
+market sell 368
+limit buy 32 239
+limit buy 20 74
+market buy 479
+market buy 436
+limit buy 96 214
+market buy 62
+market buy 219
+market buy 235
+limit buy 15 271
+limit buy 14 303
+market buy 376
+limit buy 30 432
+limit buy 35 403
+limit sell 73 247
+limit buy 22 157
+market sell 28
+limit buy 70 425
+market sell 442
+market buy 163
+market sell 250
+limit buy 66 467
+market sell 313
+limit sell 15 352
+market sell 145
+limit sell 39 129
+market buy 399
+market buy 154
+market sell 193
+market sell 285
+limit buy 40 337
+market buy 393
+limit sell 82 107
+limit sell 43 401
+market buy 142
+limit buy 14 373
+market sell 308
+limit buy 72 125
+limit sell 16 227
+market buy 32
+market sell 133
+limit buy 57 202
+market buy 455
+limit sell 60 306
+limit sell 84 183
+market sell 278
+limit sell 79 222
+limit buy 92 439
+market buy 223
+limit sell 65 405
+limit sell 15 423
+market buy 151
+limit sell 66 142
+limit sell 79 495
+limit sell 98 461
+limit sell 6 180
+limit sell 17 400
+limit buy 43 449
+market buy 431
+market buy 20
+limit sell 28 128
+market buy 43
+market sell 458
+limit buy 58 163
+limit sell 56 239
+limit buy 96 126
+limit sell 70 288
+limit sell 9 55
+market sell 54
+limit sell 79 385
+limit buy 36 303
+market buy 439
+limit sell 25 338
+market sell 313
+limit sell 79 203
+market buy 300
+market sell 43
+limit sell 63 256
+limit buy 35 44
+limit buy 87 375
+market sell 27
+limit sell 62 108
+limit sell 59 94
+limit sell 47 104
+limit sell 93 394
+limit sell 71 420
+limit buy 37 256
+limit sell 5 351
+limit sell 37 215
+market sell 164
+market sell 179
+limit sell 71 463
+market sell 33
+market buy 240
+market buy 258
+market sell 259
+market buy 475
+limit buy 64 146
+limit sell 46 392
+market sell 310
+limit buy 20 366
+market buy 259
+market buy 161
+limit sell 44 117
+limit sell 41 28
+market sell 148
+market sell 133
+market sell 105
+limit sell 11 409
+limit buy 90 23
+market buy 302
+market sell 179
+market buy 325
+limit sell 54 263
+market sell 69
+limit sell 87 345
+market buy 90
+limit sell 14 356
+limit sell 55 87
+limit sell 61 299
+market buy 63
+market buy 338
+market sell 216
+limit buy 81 223
+market buy 195
+limit sell 59 372
+market sell 405
+market buy 423
+market sell 436
+limit sell 7 440
+market sell 457
+limit sell 81 418
+limit buy 67 247
+market sell 17
+market sell 350
+limit buy 7 269
+market buy 278
+limit sell 74 452
+limit sell 53 291
+market buy 299
+limit sell 6 13
+limit buy 6 495
+limit buy 20 55
+limit sell 42 343
+limit buy 61 475
+market sell 477
+limit sell 82 119
+market buy 82
+market buy 257
+market sell 465
+limit sell 51 13
+market sell 427
+market buy 188
+market buy 200
+limit buy 5 366
+limit sell 90 462
+market buy 207
+limit buy 46 132
+limit buy 88 402
+market sell 75
+limit sell 33 323
+market sell 376
+limit buy 90 183
+limit sell 86 50
+market buy 133
+market sell 382
+limit sell 65 12
+limit sell 95 295
+market sell 442
+market buy 382
+limit sell 43 494
+market sell 194
+limit sell 87 402
+market sell 348
+market buy 471
+market sell 150
+limit buy 28 497
+market buy 304
+limit buy 19 346
+limit sell 49 92
+market buy 33
+limit sell 56 42
+market sell 245
+market buy 475
+market buy 29
+limit sell 43 146
+limit buy 41 115
+limit sell 14 434
+market buy 462
+limit buy 47 416
+limit sell 68 67
+limit sell 30 277
+limit sell 76 312
+limit sell 8 194
+market buy 80
+market buy 422
+market sell 69
+limit sell 39 363
+market sell 111
+limit buy 66 203
+limit sell 40 27
+market sell 286
+limit sell 44 178
+market sell 156
+market sell 279
+limit buy 97 145
+market buy 63
+limit buy 38 231
+limit sell 95 365
+limit buy 20 39
+limit sell 56 369
+limit sell 61 421
+limit buy 78 219
+market sell 269
+market sell 160
+limit buy 84 489
+limit buy 49 155
+market buy 13
+limit sell 41 339
+market buy 15
+market buy 139
+limit buy 81 270
+market sell 453
+market sell 331
+limit sell 92 308
+limit buy 25 368
+limit buy 36 324
+limit sell 94 30
+limit sell 30 224
+market buy 104
+limit sell 25 422
+limit buy 85 73
+limit buy 14 148
+market sell 476
+limit sell 65 191
+market buy 349
+market buy 146
+limit sell 33 317
+market sell 350
+limit sell 76 426
+market sell 112
+market buy 268
+market sell 328
+market sell 180
+market buy 300
+limit buy 46 114
+limit buy 43 311
+market buy 467
+market sell 202
+limit buy 98 255
+limit buy 36 437
+market buy 371
+market sell 151
+limit sell 50 252
+limit sell 74 322
+market sell 421
+limit buy 89 473
+market sell 358
+market sell 95
+limit sell 77 463
+limit sell 93 29
+market buy 363
+market buy 234
+market buy 318
+market buy 131
+market sell 231
+market buy 102
+market buy 172
+market sell 236
+market buy 254
+limit buy 58 223
+limit sell 89 154
+limit sell 58 159
+market buy 416
+market buy 144
+limit buy 72 289
+limit sell 89 410
+market buy 450
+limit sell 21 336
+limit buy 30 43
+limit buy 57 25
+market sell 379
+limit sell 77 236
+limit buy 43 496
+limit sell 89 338
+market buy 41
+market sell 323
+market buy 301
+market buy 478
+market buy 214
+market sell 144
+market buy 365
+limit buy 34 27
+market buy 49
+limit buy 22 416
+market buy 290
+market sell 249
+market sell 361
+market buy 167
+limit sell 16 10
+limit sell 30 438
+market sell 189
+market buy 19
+limit sell 44 60
+limit sell 82 298
+limit buy 94 414
+limit buy 91 432
+market sell 340
+limit buy 79 159
+limit buy 6 62
+limit sell 15 416
+market sell 458
+market sell 201
+market sell 402
+limit sell 99 162
+market sell 498
+market sell 451
+market buy 491
+limit buy 36 485
+limit sell 97 412
+market sell 126
+market buy 131
+limit buy 46 167
+market sell 73
+limit sell 79 62
+market buy 425
+limit buy 53 342
+market sell 85
+market buy 142
+market sell 265
+limit buy 32 441
+limit sell 58 354
+market buy 337
+limit sell 86 437
+market buy 396
+market sell 307
+limit sell 55 186
+limit buy 48 155
+market buy 137
+market buy 181
+market sell 193
+limit sell 12 60
+market buy 183
+limit buy 76 151
+market buy 113
+market sell 282
+market buy 176
+limit buy 84 407
+limit sell 42 102
+market sell 277
+market sell 193
+limit sell 56 453
+limit sell 27 279
+market buy 414
+limit buy 23 249
+limit sell 43 483
+market buy 33
+market sell 214
+market sell 69
+limit buy 55 360
+limit sell 41 87
+market sell 83
+market sell 133
+limit sell 58 212
+market buy 487
+market buy 427
+limit sell 17 75
+limit buy 47 235
+limit buy 88 465
+limit buy 41 119
+market buy 40
+limit buy 37 491
+limit buy 65 216
+market sell 130
+market sell 490
+limit sell 41 116
+limit buy 43 314
+market buy 77
+market buy 492
+market buy 122
+market buy 330
+market sell 76
+limit sell 39 198
+market buy 160
+limit buy 86 51
+limit sell 39 342
+limit sell 35 381
+limit buy 47 402
+limit buy 69 357
+limit sell 55 384
+limit buy 13 47
+market sell 84
+limit sell 21 181
+market buy 118
+market buy 393
+limit sell 37 137
+market sell 11
+market sell 89
+market sell 418
+limit sell 72 86
+market sell 474
+limit sell 70 310
+market buy 265
+limit buy 13 284
+market sell 189
+limit buy 74 180
+limit buy 86 276
+limit buy 20 461
+market sell 27
+limit buy 32 69
+limit sell 86 419
+limit buy 82 466
+limit sell 41 124
+market sell 325
+limit sell 46 401
+market sell 173
+limit buy 23 43
+limit buy 77 350
+limit sell 22 351
+market sell 351
+market sell 423
+market buy 440
+market sell 356
+market buy 202
+limit sell 34 413
+market sell 446
+limit sell 72 13
+market buy 322
+limit buy 61 448
+market sell 144
+limit sell 23 322
+limit sell 50 171
+limit sell 10 314
+market sell 477
+limit buy 84 434
+market buy 222
+market buy 287
+limit buy 11 155
+limit sell 43 274
+market buy 457
+limit buy 73 424
+market buy 121
+limit sell 76 425
+limit buy 31 206
+limit buy 11 375
+market sell 156
+limit buy 37 451
+limit buy 46 422
+limit buy 57 383
+market sell 152
+limit sell 89 430
+limit buy 19 216
+limit sell 50 450
+market sell 196
+limit buy 94 231
+market buy 369
+limit buy 38 167
+market sell 169
+limit buy 86 121
+market buy 160
+limit sell 98 69
+market sell 77
+limit buy 85 361
+market sell 415
+limit buy 99 266
+market sell 198
+limit sell 88 305
+limit buy 24 166
+limit buy 16 43
+limit sell 38 458
+market sell 129
+market buy 314
+limit buy 62 148
+market buy 160
+market sell 496
+limit buy 76 153
+limit buy 60 170
+market sell 294
+limit sell 75 134
+market sell 247
+limit sell 95 217
+limit buy 94 212
+market buy 431
+market buy 384
+limit sell 29 19
+limit buy 85 228
+market sell 129
+market sell 91
+market sell 440
+market buy 484
+limit sell 12 22
+limit buy 93 485
+limit sell 93 24
+market buy 223
+limit buy 50 352
+limit sell 90 409
+market sell 494
+limit sell 40 364
+market sell 184
+market sell 351
+market buy 118
+limit buy 29 341
+market buy 477
+limit sell 59 253
+limit sell 82 437
+market sell 10
+market buy 487
+limit buy 84 400
+limit sell 79 188
+limit sell 49 468
+limit sell 10 419
+limit buy 37 404
+limit sell 43 243
+market sell 163
+limit buy 19 146
+market sell 427
+market sell 496
+limit sell 38 150
+market sell 428
+limit buy 87 139
+limit sell 21 446
+limit buy 39 346
+limit buy 60 265
+market sell 414
+limit sell 38 207
+limit buy 70 37
+limit sell 93 339
+market sell 373
+limit sell 38 245
+market sell 294
+limit sell 42 259
+limit buy 97 265
+limit sell 15 298
+market buy 356
+market sell 265
+market sell 404
+market buy 439
+limit sell 42 90
+limit buy 83 154
+limit sell 73 376
+market buy 134
+market buy 85
+market buy 38
+market buy 317
+market sell 122
+limit buy 28 210
+market sell 287
+limit buy 8 57
+limit buy 5 118
+limit buy 50 375
+limit buy 92 222
+limit buy 78 316
+limit sell 15 229
+market sell 492
+limit buy 47 464
+market buy 47
+market sell 310
+market sell 482
+limit buy 52 187
+limit buy 11 84
+market sell 154
+limit buy 23 117
+market sell 111
+limit sell 73 372
+market sell 293
+market sell 299
+limit sell 11 176
+market sell 143
+limit buy 97 157
+market sell 377
+limit sell 19 204
+market sell 109
+market buy 143
+market sell 284
+limit buy 34 331
+limit buy 22 159
+market sell 455
+limit buy 6 454
+limit buy 49 484
+limit buy 98 39
+limit sell 91 219
+limit sell 59 199
+market buy 188
+market sell 317
+limit sell 26 216
+market buy 330
+market buy 225
+market buy 157
+market buy 126
+market sell 338
+limit buy 5 276
+market buy 247
+market buy 178
+market buy 136
+limit buy 89 296
+market sell 476
+limit buy 96 389
+limit sell 60 487
+market sell 31
+market sell 349
+market sell 180
+limit buy 5 213
+limit sell 6 150
+limit buy 23 90
+limit buy 45 438
+limit sell 95 383
+market sell 212
+market buy 455
+limit buy 5 363
+limit buy 55 270
+market sell 279
+market buy 340
+limit sell 68 386
+limit buy 66 362
+limit sell 85 191
+market buy 367
+market buy 479
+limit sell 7 378
+limit sell 39 413
+market buy 144
+market buy 103
+market sell 404
+limit sell 74 369
+market buy 21
+limit sell 23 240
+market sell 499
+market sell 293
+market buy 15
+limit sell 54 495
+limit sell 70 107
+market sell 322
+limit buy 64 325
+market sell 11
+limit buy 65 193
+market sell 12
+market buy 469
+limit sell 7 166
+market sell 371
+limit sell 53 330
+market buy 260
+market buy 124
+market sell 197
+limit buy 5 86
+market buy 427
+market sell 349
+limit buy 5 399
+limit buy 93 336
+market buy 74
+market buy 169
+limit buy 28 35
+limit sell 56 404
+market buy 33
+market sell 438
+limit buy 82 21
+market buy 295
+limit buy 90 251
+market sell 498
+market sell 188
+market sell 356
+limit sell 86 327
+market sell 211
+limit sell 82 488
+market buy 245
+market sell 185
+limit sell 37 451
+limit buy 52 205
+market sell 377
+market buy 74
+market buy 15
+market buy 45
+market buy 94
+market sell 207
+market sell 390
+market sell 167
+limit sell 31 346
+limit sell 87 238
+limit buy 62 402
+limit sell 7 394
+limit sell 45 202
+market buy 341
+limit sell 64 428
+market sell 340
+limit buy 80 378
+limit sell 46 46
+limit sell 13 26
+limit sell 91 364
+market sell 319
+limit buy 15 343
+limit sell 95 117
+limit buy 45 55
+limit sell 25 249
+limit sell 99 353
+market sell 100
+limit buy 15 450
+market sell 457
+limit sell 37 313
+limit buy 31 71
+market sell 77
+limit sell 93 446
+market sell 238
+limit sell 58 287
+market sell 100
+limit sell 91 377
+limit sell 46 225
+limit sell 6 209
+limit sell 12 89
+limit buy 32 332
+limit sell 52 240
+market buy 299
+limit buy 49 226
+market sell 206
+market buy 168
+market sell 132
+limit buy 81 484
+market sell 418
+limit buy 22 480
+limit buy 30 389
+market buy 470
+limit buy 97 24
+market buy 345
+market buy 207
+limit sell 65 80
+market sell 134
+market buy 476
+limit sell 81 236
+market sell 35
+limit buy 59 269
+limit buy 59 150
+limit buy 9 137
+market buy 78
+limit sell 24 474
+market sell 129
+limit sell 13 435
+market buy 124
+limit sell 42 368
+market sell 305
+market sell 300
+limit buy 48 405
+limit buy 89 253
+limit sell 50 255
+limit sell 61 286
+limit buy 57 191
+limit sell 19 219
+limit sell 87 91
+market sell 484
+market buy 399
+limit sell 29 62
+limit sell 48 89
+limit sell 39 296
+market sell 430
+limit sell 87 348
+market sell 119
+limit buy 24 483
+limit buy 12 379
+market sell 483
+limit buy 93 64
+market buy 18
+market sell 393
+limit buy 53 414
+limit sell 49 493
+limit sell 36 375
+market sell 486
+market sell 132
+limit buy 7 289
+market sell 477
+market buy 376
+limit sell 68 128
+limit sell 92 489
+limit buy 51 201
+market buy 352
+limit buy 74 366
+limit buy 19 162
+market sell 358
+limit buy 5 243
+limit sell 84 438
+market buy 248
+market sell 361
+limit buy 73 332
+market sell 272
+market sell 203
+limit sell 56 490
+limit buy 6 23
+market sell 289
+market sell 100
+market buy 458
+market sell 206
+market sell 99
+limit sell 21 74
+market sell 43
+market buy 290
+limit sell 32 438
+limit buy 13 394
+market sell 381
+market sell 132
+market sell 497
+market sell 288
+market sell 292
+limit sell 63 183
+limit sell 14 297
+market sell 410
+market buy 342
+limit buy 72 218
+market sell 338
+limit sell 49 151
+limit buy 17 301
+market buy 373
+limit buy 6 383
+market sell 172
+market sell 444
+market buy 421
+market buy 196
+market buy 245
+limit sell 65 138
+market sell 328
+limit buy 74 93
+market sell 35
+market sell 276
+limit buy 78 483
+limit sell 37 332
+limit buy 83 228
+limit sell 37 485
+market buy 258
+market sell 115
+limit sell 100 392
+limit sell 87 413
+market buy 411
+limit sell 84 226
+market buy 208
+market sell 215
+limit sell 8 419
+market buy 235
+limit buy 99 157
+market sell 152
+market buy 303
+limit buy 16 70
+market buy 152
+market sell 154
+limit buy 41 191
+limit buy 52 88
+market buy 437
+market sell 120
+limit sell 64 114
+limit buy 28 498
+market buy 50
+market sell 369
+market sell 435
+limit buy 34 323
+limit sell 91 419
+limit buy 56 150
+limit sell 36 136
+limit buy 78 412
+market buy 32
+limit sell 92 48
+limit sell 94 153
+market sell 365
+market sell 339
+limit sell 66 156
+limit sell 88 17
+market buy 112
+market sell 94
+market buy 30
+market sell 202
+limit sell 50 340
+limit sell 10 428
+market sell 324
+limit buy 7 270
+market buy 135
+limit sell 12 44
+market sell 288
+market sell 492
+limit sell 18 352
+market sell 305
+market buy 241
+limit buy 71 134
+market buy 473
+limit buy 62 66
+limit buy 55 53
+market buy 500
+market buy 288
+market sell 419
+market sell 272
+market buy 177
+limit buy 14 295
+market buy 304
+market sell 283
+limit sell 54 35
+market sell 114
+limit buy 5 279
+market buy 433
+limit buy 12 402
+market sell 131
+market buy 136
+market buy 199
+limit sell 45 435
+market sell 201
+market sell 474
+market buy 46
+limit buy 94 115
+limit buy 9 192
+market sell 418
+limit sell 60 139
+market sell 51
+limit sell 7 69
+limit buy 6 101
+market buy 211
+limit buy 84 26
+market sell 239
+limit sell 30 382
+limit buy 38 438
+limit buy 98 479
+limit buy 49 41
+market buy 221
+limit buy 29 413
+limit buy 38 473
+limit buy 61 104
+limit sell 100 454
+limit buy 98 154
+limit buy 58 361
+limit buy 40 304
+limit buy 20 140
+market buy 13
+limit buy 50 307
+market buy 300
+market sell 81
+limit buy 74 95
+limit sell 18 349
+market buy 19
+market buy 172
+market sell 377
+limit sell 30 322
+limit sell 14 479
+market sell 422
+limit sell 30 177
+market sell 314
+limit sell 90 230
+market buy 450
+market buy 325
+limit sell 89 78
+market sell 160
+limit sell 63 54
+market buy 11
+market sell 224
+market buy 491
+limit buy 84 127
+limit buy 24 243
+market buy 220
+limit sell 81 10
+market sell 145
+limit buy 90 456
+limit buy 89 373
+market buy 318
+limit sell 69 332
+limit sell 14 332
+limit sell 7 310
+market buy 380
+market sell 292
+limit buy 94 480
+limit buy 93 269
+market sell 30
+limit sell 68 239
+limit buy 97 108
+limit buy 21 115
+market buy 402
+market buy 356
+market buy 46
+limit sell 88 102
+limit buy 76 309
+limit buy 41 297
+market buy 409
+limit buy 11 495
+limit sell 47 405
+limit sell 86 432
+market buy 165
+limit sell 96 276
+limit buy 59 389
+market buy 163
+limit buy 45 189
+market sell 407
+market buy 131
+limit buy 70 138
+market buy 419
+limit buy 41 499
+limit sell 13 71
+market sell 387
+limit sell 19 137
+market sell 33
+limit buy 31 204
+limit buy 66 271
+market buy 65
+limit buy 81 62
+limit buy 11 186
+market buy 472
+market sell 319
+market sell 254
+market buy 39
+limit sell 29 57
+market sell 58
+market buy 15
+limit sell 7 315
+limit buy 68 411
+market buy 237
+limit sell 20 454
+market sell 309
+market buy 212
+limit buy 44 101
+market buy 180
+limit sell 22 73
+market buy 227
+limit buy 22 463
+market sell 410
+market buy 257
+market buy 65
+limit sell 49 116
+market sell 338
+market buy 19
+market sell 307
+limit sell 29 179
+market buy 173
+limit buy 24 10
+limit sell 45 83
+market buy 123
+limit sell 67 71
+market sell 436
+market buy 304
+market sell 444
+limit buy 38 201
+market buy 488
+market sell 53
+market buy 400
+market sell 271
+market sell 362
+limit sell 54 169
+limit buy 84 182
+market buy 83
+limit buy 16 147
+limit buy 34 206
+limit buy 58 380
+market buy 139
+limit sell 42 254
+market buy 486
+limit buy 55 225
+market buy 141
+market buy 222
+limit buy 98 294
+limit buy 87 64
+limit sell 85 362
+limit buy 10 362
+limit buy 93 70
+limit buy 82 297
+limit sell 71 19
+limit sell 25 436
+limit sell 73 415
+limit sell 64 450
+limit buy 60 361
+limit buy 89 48
+limit buy 66 384
+limit sell 63 225
+limit sell 69 11
+limit sell 18 228
+market sell 453
+market sell 390
+market sell 101
+market sell 68
+limit sell 22 308
+limit sell 49 265
+market sell 163
+market buy 476
+limit sell 94 248
+limit buy 95 144
+market buy 414
+limit sell 12 38
+limit sell 15 423
+limit buy 16 16
+limit sell 77 47
+limit sell 90 167
+limit sell 57 124
+market sell 380
+limit sell 58 364
+market sell 84
+market buy 22
+limit sell 73 321
+market sell 322
+market sell 235
+limit sell 39 59
+limit sell 27 63
+market sell 300
+market buy 339
+limit buy 89 129
+market sell 462
+limit buy 48 296
+market sell 222
+market sell 260
+limit sell 52 420
+limit buy 57 296
+market buy 24
+limit buy 7 282
+limit sell 24 296
+limit buy 59 275
+market sell 480
+limit buy 75 457
+limit buy 48 333
+limit buy 15 203
+limit buy 35 200
+market sell 457
+market sell 229
+limit buy 77 308
+limit buy 36 197
+limit sell 57 112
+limit sell 49 60
+limit sell 56 60
+market buy 405
+limit sell 28 494
+market buy 112
+limit buy 51 46
+limit sell 35 144
+market buy 409
+limit sell 58 474
+market buy 379
+market buy 367
+market sell 401
+limit buy 61 221
+market sell 486
+limit buy 60 404
+market buy 436
+limit buy 21 108
+market buy 371
+market buy 314
+limit sell 64 185
+limit sell 91 138
+limit buy 35 471
+market sell 50
+limit buy 32 379
+limit sell 95 191
+market sell 169
+market buy 487
+market buy 300
+limit buy 30 13
+limit sell 82 35
+limit sell 23 248
+market buy 356
+market sell 206
+limit sell 74 166
+market sell 372
+market buy 305
+market sell 210
+limit buy 30 295
+limit sell 63 500
+limit buy 61 210
+market buy 305
+market sell 14
+limit sell 36 104
+limit buy 65 286
+market sell 294
+market sell 22
+market buy 231
+limit buy 25 401
+limit buy 83 176
+market sell 434
+limit sell 29 274
+limit sell 5 456
+limit buy 90 24
+market buy 49
+limit buy 96 135
+market buy 53
+market sell 19
+market sell 217
+market sell 494
+market buy 131
+market sell 245
+market buy 222
+market sell 65
+market sell 313
+market buy 10
+limit buy 40 334
+market buy 352
+market buy 302
+market buy 185
+market buy 257
+market sell 413
+market sell 453
+market buy 57
+market buy 367
+market buy 181
+limit buy 39 108
+limit buy 44 430
+market buy 51
+limit sell 34 266
+limit sell 96 409
+market sell 395
+limit sell 11 337
+market sell 224
+limit buy 78 131
+limit buy 94 313
+market sell 362
+limit buy 30 375
+market buy 100
+limit sell 85 147
+limit buy 26 147
+market sell 203
+market buy 269
+market sell 124
+market sell 168
+limit buy 66 103
+market sell 100
+market buy 183
+limit buy 65 260
+limit sell 51 370
+limit sell 58 202
+market buy 260
+market buy 113
+market buy 259
+limit buy 80 216
+limit buy 12 90
+limit sell 49 289
+market buy 116
+market sell 493
+limit buy 71 310
+limit buy 63 257
+limit sell 46 71
+market buy 55
+limit buy 10 115
+limit sell 74 451
+limit sell 54 283
+market buy 481
+limit sell 16 131
+market buy 390
+limit sell 53 325
+limit sell 62 493
+market buy 439
+market buy 371
+limit sell 20 147
+market sell 368
+market buy 418
+limit buy 36 139
+limit sell 69 158
+market sell 387
+market buy 251
+market sell 380
+market buy 102
+market sell 326
+market buy 282
+limit sell 51 299
+market buy 404
+market sell 149
+market buy 421
+market buy 305
+market sell 190
+market sell 419
+market buy 101
+market buy 37
+limit buy 75 155
+market sell 164
+limit buy 22 109
+limit sell 83 275
+market sell 71
+market buy 272
+market buy 329
+limit buy 47 66
+market sell 209
+limit sell 90 31
+market sell 471
+market sell 417
+limit sell 53 245
+market buy 221
+limit buy 88 499
+market sell 478
+limit buy 37 189
+market buy 192
+market sell 228
+limit buy 13 67
+market sell 141
+limit sell 40 463
+market sell 27
+limit buy 13 14
+market sell 498
+market buy 140
+limit sell 30 496
+market buy 218
+market buy 422
+market sell 331
+limit sell 12 297
+market buy 63
+limit sell 36 121
+limit sell 27 190
+limit buy 100 466
+market buy 126
+limit buy 74 92
+market buy 275
+limit buy 21 404
+market sell 279
+limit buy 48 296
+limit sell 97 494
+limit buy 68 131
+limit buy 72 133
+limit buy 13 364
+limit buy 33 183
+limit buy 28 441
+market sell 476
+limit buy 26 398
+limit sell 11 364
+limit buy 55 226
+market sell 268
+market sell 468
+limit sell 72 108
+limit sell 99 405
+limit sell 83 123
+limit sell 66 174
+limit buy 69 37
+market sell 389
+limit sell 9 264
+limit buy 85 433
+limit sell 20 206
+market sell 83
+market sell 231
+limit buy 49 258
+market buy 331
+limit sell 14 49
+limit buy 13 28
+limit buy 34 358
+market sell 218
+limit buy 49 415
+market sell 265
+limit sell 53 465
+market sell 99
+market buy 429
+market sell 162
+limit sell 91 134
+limit sell 5 55
+market buy 245
+limit buy 22 274
+limit sell 78 135
+limit buy 57 45
+limit sell 74 101
+market buy 371
+market sell 195
+limit buy 94 335
+market sell 14
+limit buy 72 51
+market buy 246
+limit sell 26 20
+market buy 140
+limit sell 72 442
+market buy 261
+market sell 308
+limit buy 50 430
+market sell 366
+limit sell 64 100
+limit sell 45 91
+limit sell 74 195
+limit buy 81 381
+market buy 448
+market buy 79
+limit buy 73 143
+limit sell 67 156
+limit buy 74 67
+market buy 355
+limit sell 21 49
+market buy 290
+limit sell 77 39
+limit sell 40 68
+limit buy 8 138
+market sell 132
+limit sell 88 485
+limit sell 82 143
+limit sell 83 314
+market buy 230
+limit sell 76 129
+market buy 116
+limit buy 14 162
+limit sell 55 375
+limit sell 69 380
+market buy 439
+limit sell 81 334
+market buy 433
+limit buy 93 466
+market buy 311
+market sell 358
+limit buy 58 181
+market sell 297
+market sell 74
+market buy 218
+market sell 317
+market buy 158
+limit buy 48 258
+limit sell 21 136
+limit buy 45 52
+limit sell 51 313
+limit sell 43 466
+limit buy 38 454
+limit sell 71 134
+market buy 190
+limit sell 59 268
+limit buy 98 138
+market buy 337
+limit sell 90 345
+limit sell 50 485
+market buy 494
+market buy 372
+limit sell 85 172
+market buy 203
+market sell 124
+market buy 400
+market buy 250
+market sell 293
+limit sell 32 271
+limit sell 5 222
+market sell 386
+limit buy 72 359
+limit buy 61 445
+limit sell 97 357
+market buy 24
+limit sell 5 220
+limit sell 69 115
+limit sell 34 142
+limit buy 87 75
+limit buy 62 93
+market sell 404
+market sell 355
+limit buy 13 275
+limit sell 24 387
+limit sell 15 403
+limit buy 28 385
+market sell 25
+limit sell 16 469
+limit buy 34 57
+limit buy 72 457
+limit sell 85 59
+limit buy 53 385
+market sell 120
+market sell 491
+limit buy 86 127
+market buy 320
+limit sell 12 392
+market buy 397
+market sell 355
+limit sell 41 486
+market sell 466
+market buy 119
+limit buy 93 114
+market buy 275
+limit buy 73 49
+limit sell 99 124
+limit buy 82 255
+market buy 310
+limit buy 76 357
+limit buy 53 68
+market sell 54
+market sell 115
+limit sell 27 489
+market buy 138
+limit buy 74 488
+limit buy 20 211
+limit sell 66 334
+market buy 422
+market buy 223
+limit buy 50 259
+market sell 307
+limit buy 10 408
+limit sell 72 43
+market buy 299
+market buy 10
+market sell 187
+limit sell 20 64
+market buy 416
+market buy 253
+market buy 25
+limit buy 68 356
+market sell 118
+limit sell 86 170
+limit buy 89 247
+market sell 477
+market sell 191
+limit sell 25 15
+market buy 125
+market buy 49
+limit sell 99 86
+limit sell 82 122
+limit buy 48 23
+limit buy 82 85
+market sell 381
+limit buy 11 461
+market sell 75
+limit buy 88 359
+market buy 229
+limit sell 38 104
+limit buy 64 378
+market buy 252
+limit buy 36 456
+limit buy 76 363
+limit buy 48 277
+market buy 410
+limit buy 60 465
+market sell 367
+exit
