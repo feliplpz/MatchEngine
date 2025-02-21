@@ -122,7 +122,7 @@ void OrderManager::changeOrder(string id, double price, double quantity) {
 
 void OrderManager::updatePegBid() {
     if(!buyLimitOrder.empty() && !pegBuyOrders.empty()) {
-        if(pegBuyOrders[1]->getPrice() != getBestBid()){
+        if(pegBuyOrders.front()->getPrice() != getBestBid()){
             double bestBid = getBestBid();
             for (auto& pegOrder : pegBuyOrders) {
                 pegOrder->setPrice(bestBid);
@@ -133,7 +133,7 @@ void OrderManager::updatePegBid() {
 
 void OrderManager::updatePegAsk() {
     if(!(sellLimitOrder.empty()) && !pegSellOrders.empty()) {
-        if(pegSellOrders[1]->getPrice() != getBestAsk()) {
+        if(pegSellOrder.front()->getPrice() != getBestAsk()) {
             double bestAsk = getBestAsk();
             for (auto& pegOrder : pegSellOrders) {
                 pegOrder->setPrice(bestAsk);

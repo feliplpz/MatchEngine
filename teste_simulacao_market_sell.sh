@@ -6,3 +6,5 @@ time ./main <simulacao_10k.txt> out_10k.txt
 time ./main <simulacao_100k.txt> out_100k.txt
 time ./main <simulacao_500k.txt> out_500k.txt
 time ./main <simulacao_1M.txt> out_1M.txt 
+time ./main <simulacao_200k_peg.txt> out_200k_peg.txt
+time ./main <simulacao_500k_peg.txt> out_500k_peg.txt
